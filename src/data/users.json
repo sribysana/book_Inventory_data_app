@@ -1,0 +1,13 @@
+[
+  {
+    "name": "string",
+    "password": "",
+    "id": "39b632de-1407-4cad-99d8-21320354c109",
+    "cart": [
+      {
+        "id": "string",
+        "count": 5
+      }
+    ]
+  }
+]

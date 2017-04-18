@@ -1,0 +1,35 @@
+{
+  "title": "string",
+  "id": "string",
+  "description": "string",
+  "tags": [],
+  "generes": [
+    "friction"
+  ],
+  "publicationYear": 1949,
+  "bookCower": "image url",
+  "price": 123,
+  "delivaryCharges": 40,
+  "pages": 250,
+  "authors": [
+    {
+      "name": "string",
+      "id": "string"
+    }
+  ],
+  "seller": [
+    {
+      "name": "string",
+      "id": "string"
+    }
+  ],
+  "reviews": [
+    {
+      "reviewerName": "string",
+      "reviewerRating": 2.5,
+      "reviewerRatingOutof": 5,
+      "feedback": "string",
+      "date": "date"
+    }
+  ]
+}

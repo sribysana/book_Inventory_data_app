@@ -1,0 +1,16 @@
+{
+  "name": "string",
+  "id": "string",
+  "workersFor": "",
+  "rating": "number",
+  "biography": "string ",
+  "avatar": {
+    "img": "url"
+  },
+  "books": [
+    {
+      "name": "string",
+      "id": "string"
+    }
+  ]
+}

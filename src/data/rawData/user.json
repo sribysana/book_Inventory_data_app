@@ -1,0 +1,11 @@
+{
+  "name": "string",
+  "password":"",
+  "id":"",
+  "cart": [
+    {
+      "id": "string",
+      "count": "number"
+    }
+  ]
+}

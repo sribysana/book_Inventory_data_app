@@ -1,0 +1,477 @@
+[
+  {
+    "title": "RESTful Web API Design with Node.js - Second Edition",
+    "id": "95f5b406-f2af-45ba-b2fe-fc3e5b7d9568",
+    "description": "Since JavaScript is the language of the web, building APIs using Node.js provides a seamless development experience on both the front end and the back end. Explore the practical side of REST to build data-centric applications with Node About This Video Work through a series of guidelines and best practices to efficiently design RESTful Web APIs with Node Understand the structure of APIs, their authentication protocols, and their implementation tools This practical guide provides the knowledge you need to delve into the endless possibilities enabled by Big Data In Detail RESTful Web APIs allow developers to create unprecedented applications by leveraging the data on the internet.",
+    "tags": [],
+    "generes": [
+      "friction"
+    ],
+    "publicationYear": 2017,
+    "publisher": "Packt Publishing",
+    "bookCower": "/images/id",
+    "price": 1200,
+    "delivaryCharges": 100,
+    "pages": 150,
+    "authors": [
+      {
+        "name": "Saleh Hamadeh",
+        "id": "string"
+      }
+    ],
+    "seller": [
+      {
+        "name": "Packt Publishing",
+        "id": "string"
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerName": "Srikanth",
+        "reviewerRating": 4.5,
+        "reviewerRatingOutof": 5,
+        "feedback": "Good books to Learn",
+        "date": "3rd April"
+      }
+    ]
+  },
+  {
+    "title": "Mastering Node.js",
+    "id": "69d54661-7e22-4d06-b356-ac51556f7d68",
+    "description": "You will then learn to create your first Node.js application and also create a command line tool for Node.js. Learn how Node.js is working so you can use that knowledge in your advance. A deep understand how to use the node.js api’s to build enterprise grade applications.",
+    "tags": [],
+    "generes": [
+      "IT"
+    ],
+    "publicationYear": 2017,
+    "publisher": "Packt Publishing",
+    "bookCower": "/images/id",
+    "price": 1205,
+    "delivaryCharges": 100,
+    "pages": 150,
+    "authors": [
+      {
+        "name": "Joris Hermans",
+        "id": "string"
+      }
+    ],
+    "seller": [
+      {
+        "name": "Packt Publishing",
+        "id": "string"
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerName": "Srikanth",
+        "reviewerRating": 3.5,
+        "reviewerRatingOutof": 5,
+        "feedback": "Good books to Learn",
+        "date": "3rd April"
+      }
+    ]
+  },
+  {
+    "title": "Learning Node.js, Second Edition",
+    "id": "65cb9776-fc8d-4bf6-9de1-6d87bd392ec6",
+    "description": "He is the author of the book Learning Node.js (Addison-Wesley) and the video courses Learning AngularJS and Learning Node.js LiveLessons. In this video training, Marc starts by introducing Node.js, installing, and running it. Learning Node.js, Second Edition A clear, practical introduction to the important new web development technology for creating web server applications in JavaScript Description Learning Node.js LiveLessons provides developers with a practical introduction to Node.js, an important platform for developing web and network applications.",
+    "tags": [],
+    "generes": [
+      "IT"
+    ],
+    "publicationYear": 2016,
+    "publisher": "Packt Publishing",
+    "bookCower": "/images/id",
+    "price": 125,
+    "delivaryCharges": 50,
+    "pages": 150,
+    "authors": [
+      {
+        "name": "Marc Wandschneider",
+        "id": "string"
+      }
+    ],
+    "seller": [
+      {
+        "name": "Packt Publishing",
+        "id": "string"
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerName": "Srikanth",
+        "reviewerRating": 3.5,
+        "reviewerRatingOutof": 5,
+        "feedback": "Good books to Learn",
+        "date": "3rd April"
+      }
+    ]
+  },
+  {
+    "title": "JavaScript Design Patterns 20 Patterns for Advancing Your JavaScript Skills",
+    "id": "8457500d-24b3-4eb3-a678-ac1abdbc49b9",
+    "description": "With the knowledge delivered throughout the course, developers will come away from JavaScript Design Patterns 20 Patterns for Advancing Your JavaScript Skills armed with a powerful arsenal for solving a wide array of different JavaScript programming problems.JavaScript Design Patterns 20 Patterns for Advancing Your JavaScript Skills will immerse you in the world of intelligent JavaScript programming, demonstrating to Web developers how to mobilize design patterns and presenting key programming concepts and common solutions to frequently occurring programming problems. Dive deep into JavaScript design patterns to write intelligent, pragmatic code for a wide array of real-world programming situations About This Video A deep exploration of 20 JavaScript design patterns Understand how to adopt and apply design patterns to a wide range of real world development scenarios Definitive coverage of the Creational, Structural, and Behavioral pattern types Take your JavaScript programming to an advanced level by understanding design patterns in depth.",
+    "tags": [],
+    "generes": [
+      "IT"
+    ],
+    "publicationYear": 2015,
+    "publisher": "Packt Publishing",
+    "bookCower": "/images/id",
+    "price": 127,
+    "delivaryCharges": 40,
+    "pages": 150,
+    "authors": [
+      {
+        "name": "Ben Fhala",
+        "id": "string"
+      }
+    ],
+    "seller": [
+      {
+        "name": "Packt Publishing",
+        "id": "string"
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerName": "Kanth",
+        "reviewerRating": 4.5,
+        "reviewerRatingOutof": 5,
+        "feedback": "Good books to Learn",
+        "date": "3rd April"
+      }
+    ]
+  },
+  {
+    "title": "avaScript: Functional Programming for JavaScript Developers",
+    "id": "9e182efc-6855-4e66-b5f2-e7d6efeeea8c",
+    "description": "JavaScript is a high-level, dynamic, untyped, lightweight, and interpreted programming language and functional programming is a style that emphasizes and enables smarter code that minimizes complexity and increases modularity. It's a way of writing cleaner code through clever ways of mutating, combining, and using functions. And JavaScript provides an excellent medium for this approach. By learning how to expose JavaScript's true identity as a functional language, we can implement web apps that are more powerful, easier to maintain and more reliable. The java script: Functional Programming for JavaScript Developers course will take you on a journey to show how functional programming when combined with other techniques makes JavaScript programming more efficient. The first module Mastering JavaScript, stress on practical aspects of Javascript development like-Functions and Closures, Runtime debugging techniques, project layout, events and DOM processing, build tools, Object-oriented patterns, isomorphism-everything that a modern Javascript project would need.",
+    "tags": [],
+    "generes": [
+      "IT"
+    ],
+    "publicationYear": 2016,
+    "publisher": "Packt Publishing",
+    "bookCower": "/images/id",
+    "price": 127,
+    "delivaryCharges": 40,
+    "pages": 150,
+    "authors": [
+      {
+        "name": "Dan Mantyla",
+        "id": "string"
+      },
+      {
+        "name": "Simon Timms",
+        "id": "string"
+      },
+      {
+        "name": "Ved Antani",
+        "id": "string"
+      }
+    ],
+    "seller": [
+      {
+        "name": "Packt Publishing",
+        "id": "string"
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerName": "Kanth",
+        "reviewerRating": 4.5,
+        "reviewerRatingOutof": 5,
+        "feedback": "Good books to Learn",
+        "date": "3rd April"
+      }
+    ]
+  },
+  {
+    "title": "Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript",
+    "id": "37b5afe8-8bb3-4d46-a2f1-588e5952dc35",
+    "description": "ffective JavaScript is organized around 68 proven approaches for writing better JavaScript, backed by concrete examples. No matter how long you’ve been writing JavaScript code, Effective JavaScript will help deepen your understanding of this powerful language, so you can build more predictable, reliable, and maintainable programs. Author David Herman, with his years of experience on Ecma’s JavaScript standardization committee, illuminates the language’s inner workings as never before—helping you take full advantage of JavaScript’s expressiveness.",
+    "tags": [],
+    "generes": [
+      "IT"
+    ],
+    "publicationYear": 2012,
+    "publisher": "Addison-Wesley Professional",
+    "bookCower": "/images/id",
+    "price": 227,
+    "delivaryCharges": 40,
+    "pages": 550,
+    "authors": [
+      {
+        "name": "David Herman",
+        "id": "string"
+      }
+    ],
+    "seller": [
+      {
+        "name": "Packt Publishing",
+        "id": "string"
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerName": "Kanth",
+        "reviewerRating": 4.5,
+        "reviewerRatingOutof": 5,
+        "feedback": "Good books to Learn",
+        "date": "3rd April"
+      }
+    ]
+  },
+  {
+    "title": "Reactive JavaScript Programming",
+    "id": "7b6b19f5-5c7d-4106-a8db-44aff7431d35",
+    "description": "Change the way you code: become efficient and up-to-date with an in depth coverage of Reactive JavaScript programming techniques About This Video Handle an infinite stream of incoming data using RxJs Explore the important RxJs operator Get acquainted with operators In Detail This video is a combination of the following three aspects: Introduction to Reactive Programming + Rx in Depth.",
+    "tags": [],
+    "generes": [
+      "IT"
+    ],
+    "publicationYear": 2017,
+    "publisher": "Addison-Wesley Professional",
+    "bookCower": "/images/id",
+    "price": 227,
+    "delivaryCharges": 40,
+    "pages": 550,
+    "authors": [
+      {
+        "name": "Shriyans Bhatnagar",
+        "id": "string"
+      }
+    ],
+    "seller": [
+      {
+        "name": "Packt Publishing",
+        "id": "string"
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerName": "Kanth",
+        "reviewerRating": 4.5,
+        "reviewerRatingOutof": 5,
+        "feedback": "Good books to Learn",
+        "date": "3rd April"
+      }
+    ]
+  },
+  {
+    "title": "Learning JavaScript: A Hands-On Guide to the Fundamentals of Modern JavaScript",
+    "id": "16c7ea63-4e6d-4dbb-8969-e91d956243ef",
+    "description": "Get Started Fast with  Modern JavaScript Web Development! ... Smart, friendly, enthusiastic, and packed with modern examples, Learning JavaScript covers both design-level and development-level JavaScript. This complete, hands-on JavaScript tutorial covers everything you need to know now. ",
+    "tags": [],
+    "generes": [
+      "IT"
+    ],
+    "publicationYear": 2012,
+    "publisher": "Addison-Wesley Professional",
+    "bookCower": "/images/id",
+    "price": 227,
+    "delivaryCharges": 40,
+    "pages": 550,
+    "authors": [
+      {
+        "name": "Tim Wright",
+        "id": "string"
+      }
+    ],
+    "seller": [
+      {
+        "name": "Addison-Wesley Professional",
+        "id": "string"
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerName": "Kanth",
+        "reviewerRating": 4.5,
+        "reviewerRatingOutof": 5,
+        "feedback": "Good books to Learn",
+        "date": "3rd April"
+      }
+    ]
+  },
+  {
+    "title": "A Case Study in Simulating IoT Innovation for Prescriptive Modeling Applications",
+    "id": "d12f58dc-eead-4c42-a9ab-30963466fa15",
+    "description": "In this video, we’ll cover how to simulate the Internet of Things, with the goal of building a greener home. We’ll start with a short review of the 5-step process that forms the logic of simulating innovations. From there, we explore how to simulate the connections between things, and discover smarter ways to achieve, for example, lower energy consumption--and how to actually simulate a business model based on this idea.",
+    "tags": [
+      "The Logic of Simulation: In a Nutshell",
+      "Simulating IoT. How to Build Greener Homes"
+    ],
+    "generes": [
+      "IT"
+    ],
+    "publicationYear": 2017,
+    "publisher": "O'Reilly Media, Inc.",
+    "bookCower": "/images/id",
+    "price": 227,
+    "delivaryCharges": 40,
+    "pages": 550,
+    "authors": [
+      {
+        "name": "Jerry Overton",
+        "id": "string"
+      }
+    ],
+    "seller": [
+      {
+        "name": "O'Reilly Media, Inc.",
+        "id": "string"
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerName": "Srikanth",
+        "reviewerRating": 4.5,
+        "reviewerRatingOutof": 5,
+        "feedback": "Good books to Learn",
+        "date": "3rd April"
+      }
+    ]
+  },
+  {
+    "title": "Introduction to the ESP8266 and the IoT",
+    "id": "b68ce062-7406-4627-ade8-4b7cd2cdf232",
+    "description": "This course demonstrates how to design, build and deploy WiFI connected IoT devices. It introduces you to a low cost ESP8266 IoT computer, shows you how to configure the ESP8266 using the Arduino IDE (integrated development environment), explains the Grove 'no-soldering-required' prototyping system, and leads you through two start-to-finish IoT projects. Designed for learners with a very basic understanding of programming, electronic components (resistors, switches, etc.), and the interconnection between servers and browsers, this course requires the following IoT hardware and software: Arduino IDE, ESP8266 SDK, the Adafruit Huzzah, an FTDI Cable, and a set of Grove prototyping devices. Each requirement is explained at the beginning of the course.",
+    "tags": [
+      "Introduction",
+      "Hardware and Software",
+      "Building a Web Server",
+      "Prototyping IoT Devices",
+      "MQTT",
+      "Conclusion"
+    ],
+    "generes": [
+      "Raspberry Pi"
+    ],
+    "publicationYear": 2017,
+    "publisher": "O'Reilly Media, Inc.",
+    "bookCower": "/images/id",
+    "price": 227,
+    "delivaryCharges": 40,
+    "pages": 550,
+    "authors": [
+      {
+        "name": "John C Shovic",
+        "id": "string"
+      }
+    ],
+    "seller": [
+      {
+        "name": "O'Reilly Media, Inc.",
+        "id": "string"
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerName": "Srikanth",
+        "reviewerRating": 4.5,
+        "reviewerRatingOutof": 5,
+        "feedback": "Good books to Learn",
+        "date": "3rd April"
+      }
+    ]
+  },
+  {
+    "title": "Designing interconnected (IoT) environments",
+    "id": "411f98fd-ac69-4788-8c0e-e75232252d00",
+    "description": "We spend 90 percent of our lives indoors, in increasingly interconnected environments. Internet-enabled devices creep into the spaces we inhabit, and these devices report back on spatial conditions such as light, radiation, air quality and temperature, count the number of people stopping at retail displays minute by minute, detect intruders and security breaches, monitor locations and track characteristics of equipment and supply chain elements, enable us to open locked doors remotely using our mobile devices, and pass terabytes of data to backend systems that analyze, report, and modify the environments we occupy.",
+    "tags": [
+      "The Blur of Interconnected Environments",
+      "Theorizing Digital Culture: New Models of Convergence",
+      "Hybrid Design Practice",
+      "Changing Definitions of Space",
+      "A Framework for Interconnected Environments",
+      "Spheres of Inquiry",
+      "An Exercise in Hybrid Design Practice",
+      "Architecture as Interface",
+      "Conclusion"
+    ],
+    "generes": [
+      "Interaction Design"
+    ],
+    "publicationYear": 2016,
+    "publisher": "O'Reilly Media, Inc.",
+    "bookCower": "/images/id",
+    "price": 227,
+    "delivaryCharges": 40,
+    "pages": 550,
+    "authors": [
+      {
+        "name": "Jonathan Follett, Erin Rae Hoffer",
+        "id": "string"
+      },
+      {
+        "name": "Erin Rae Hoffer",
+        "id": "string"
+      }
+    ],
+    "seller": [
+      {
+        "name": "O'Reilly Media, Inc.",
+        "id": "string"
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerName": "Srikanth",
+        "reviewerRating": 4.5,
+        "reviewerRatingOutof": 5,
+        "feedback": "Good books to Learn",
+        "date": "3rd April"
+      }
+    ]
+  },
+  {
+    "title": "Beginning HTML5 Media : Make the most of the new video and audio standards for the Web, Second Edition",
+    "id": "c660bfcd-81ae-48a7-9d07-5445a9520e22",
+    "description": "Beginning HTML5 Media, Second Edition is a comprehensive introduction to HTML5 video and audio. The HTML5 video standard enables browsers to support audio and video elements natively. This makes it very easy for web developers to publish audio and video, integrating both within the general presentation of web pages. For example, media elements can be styled using CSS (style sheets), viewed on a mobile device, and manipulated in a Canvas or an audio filter graph. The book offers techniques for providing accessibility to media elements, enabling consistent handling of alternative representations of media resources. The update includes all of the changes and revisions since the first HTML5 draft.",
+    "tags": [
+      "Cover",
+      "Encoding Video",
+      "Using and Manipulating HTML5 Video and Audio Elements",
+      "The JavaScript API",
+      "Acknowledgments",
+      ""
+    ],
+    "generes": [
+      "Interaction Design"
+    ],
+    "publicationYear": 2015,
+    "publisher": "O'Reilly Media, Inc.",
+    "bookCower": "/images/id",
+    "price": 227,
+    "delivaryCharges": 40,
+    "pages": 550,
+    "authors": [
+      {
+        "name": "Tom Green",
+        "id": "string"
+      },
+      {
+        "name": "Silvia Pfeiffer",
+        "id": "string"
+      }
+    ],
+    "seller": [
+      {
+        "name": "O'Reilly Media, Inc.",
+        "id": "string"
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerName": "Srikanth",
+        "reviewerRating": 4.5,
+        "reviewerRatingOutof": 5,
+        "feedback": "Good books to Learn",
+        "date": "3rd April"
+      }
+    ]
+  }
+]

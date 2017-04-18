@@ -1,0 +1,337 @@
+2017-04-01T20:28:34.453Z - info: index.js : 13 App Started
+2017-04-01T20:28:40.134Z - info: index.js : 70 in put call ::::::: id :-  2
+2017-04-01T20:28:40.135Z - info: index.js : 75 id >> 2
+2017-04-01T20:33:19.673Z - info: index.js : 13 App Started
+2017-04-01T20:33:24.448Z - info: index.js : 70 in put call ::::::: id :-  2
+2017-04-01T20:33:24.450Z - info: index.js : 75 id >> 2
+2017-04-01T20:33:24.451Z - info: index.js : 77 res in find
+2017-04-01T20:33:24.451Z - info: index.js : 77 res in find
+2017-04-01T20:39:32.038Z - info: index.js : 13 App Started
+2017-04-01T20:40:17.858Z - info: index.js : 13 App Started
+2017-04-01T20:40:27.627Z - info: index.js : 70 in put call ::::::: id :-  2
+2017-04-01T20:40:27.629Z - info: index.js : 75 id >> 2
+2017-04-01T20:40:57.894Z - info: index.js : 13 App Started
+2017-04-01T20:41:00.273Z - info: index.js : 70 in put call ::::::: id :-  2
+2017-04-01T20:41:00.276Z - info: index.js : 75 id >> 2
+2017-04-01T20:41:00.276Z - info: index.js : 77 res in find
+2017-04-01T20:41:00.277Z - info: index.js : 77 res in find
+2017-04-01T20:41:27.358Z - info: index.js : 70 in put call ::::::: id :-  2
+2017-04-01T20:41:27.359Z - info: index.js : 75 id >> 2
+2017-04-01T20:41:27.359Z - info: index.js : 77 res in find
+2017-04-01T20:41:27.359Z - info: index.js : 77 res in find
+2017-04-01T20:42:09.978Z - info: index.js : 13 App Started
+2017-04-01T20:42:16.756Z - info: index.js : 70 in put call ::::::: id :-  2
+2017-04-01T20:42:16.757Z - info: index.js : 75 id >> 2
+2017-04-01T20:42:16.758Z - info: index.js : 77 res in find
+2017-04-01T20:42:16.758Z - info: index.js : 77 res in find
+2017-04-01T20:47:22.169Z - info: index.js : 13 App Started
+2017-04-01T20:47:55.627Z - info: index.js : 13 App Started
+2017-04-01T20:52:49.826Z - info: index.js : 13 App Started
+2017-04-01T21:04:21.976Z - info: index.js : 13 App Started
+2017-04-01T21:04:53.259Z - info: index.js : 13 App Started
+2017-04-01T21:05:23.737Z - info: index.js : 87 in put call ::::::: id :-  2
+2017-04-01T21:05:23.741Z - info: index.js : 92 id >> 2
+2017-04-01T21:05:51.956Z - info: index.js : 13 App Started
+2017-04-01T21:05:54.116Z - info: index.js : 86 in put call ::::::: id :-  2
+2017-04-01T21:05:54.119Z - info: index.js : 91 id >> 2
+2017-04-01T21:08:34.737Z - info: index.js : 13 App Started
+2017-04-01T21:08:43.212Z - info: index.js : 13 App Started
+2017-04-01T21:08:49.535Z - info: index.js : 86 in put call ::::::: id :-  2
+2017-04-01T21:08:49.537Z - info: index.js : 91 id >> 2
+2017-04-01T21:10:23.912Z - info: index.js : 13 App Started
+2017-04-01T21:10:24.604Z - info: index.js : 13 App Started
+2017-04-01T21:10:39.083Z - info: index.js : 13 App Started
+2017-04-01T21:10:42.157Z - info: index.js : 86 in put call ::::::: id :-  2
+2017-04-01T21:10:42.159Z - info: index.js : 91 id >> 2
+2017-04-01T21:10:42.160Z - info: index.js : 72 res in find title=Node JS, price=122, authors=[Bean_lee], description=book descriptions of Node js, id=2
+2017-04-01T21:10:42.160Z - info: index.js : 72 res in find title=Node JS, price=122, authors=[Bean_lee], description=book descriptions of Node js, id=2
+2017-04-01T21:10:42.161Z - info: index.js : 74 req.body title=Node JS, price=122, authors=[Bean_lee], description=book descriptions of Node js, id=2
+2017-04-01T21:10:42.161Z - info: index.js : 77 product title=Node JS, price=122, authors=[Bean_lee], description=book descriptions of Node js, id=2
+2017-04-01T21:10:42.547Z - info: index.js : 13 App Started
+2017-04-01T21:10:50.068Z - info: index.js : 86 in put call ::::::: id :-  2
+2017-04-01T21:11:37.498Z - info: index.js : 13 App Started
+2017-04-01T21:11:46.281Z - info: index.js : 86 in put call ::::::: id :-  2
+2017-04-01T21:12:38.088Z - info: index.js : 13 App Started
+2017-04-01T21:12:42.330Z - info: index.js : 86 in put call ::::::: id :-  2
+2017-04-01T21:13:44.940Z - info: index.js : 13 App Started
+2017-04-01T21:13:49.507Z - info: index.js : 87 in put call ::::::: id :-  2
+2017-04-01T21:20:05.193Z - info: index.js : 13 App Started
+2017-04-01T21:20:06.007Z - info: index.js : 13 App Started
+2017-04-01T21:20:06.925Z - info: index.js : 13 App Started
+2017-04-01T21:20:09.751Z - info: index.js : 86 in put call ::::::: id :-  2
+2017-04-01T21:20:20.844Z - info: index.js : 13 App Started
+2017-04-01T21:20:22.843Z - info: index.js : 13 App Started
+2017-04-01T21:20:25.281Z - info: index.js : 70 in put call ::::::: id :-  2
+2017-04-01T21:20:48.602Z - info: index.js : 13 App Started
+2017-04-01T21:22:06.140Z - info: index.js : 13 App Started
+2017-04-01T21:22:06.379Z - info: index.js : 13 App Started
+2017-04-01T21:22:07.010Z - info: index.js : 13 App Started
+2017-04-01T21:24:08.670Z - info: index.js : 13 App Started
+2017-04-01T21:24:11.808Z - info: index.js : 70 in put call ::::::: id :-  2
+2017-04-01T21:24:31.924Z - info: index.js : 13 App Started
+2017-04-01T21:25:44.078Z - info: index.js : 70 in put call ::::::: id :-  2
+2017-04-01T21:25:44.454Z - info: index.js : 13 App Started
+2017-04-01T21:26:37.408Z - info: index.js : 13 App Started
+2017-04-01T21:26:37.865Z - info: index.js : 13 App Started
+2017-04-01T21:26:38.343Z - info: index.js : 13 App Started
+2017-04-01T21:26:38.886Z - info: index.js : 13 App Started
+2017-04-01T21:26:40.419Z - info: index.js : 13 App Started
+2017-04-01T21:26:47.445Z - info: index.js : 70 in put call ::::::: id :-  2
+2017-04-01T21:27:52.334Z - info: index.js : 13 App Started
+2017-04-01T21:27:52.553Z - info: index.js : 13 App Started
+2017-04-01T21:27:53.164Z - info: index.js : 13 App Started
+2017-04-01T21:28:08.212Z - info: index.js : 47 in post call ::::::: book :-  title=Node JS, price=123, authors=[Bean_lee], description=book descriptions of Node js, id=2
+2017-04-01T21:28:09.157Z - info: index.js : 13 App Started
+2017-04-01T21:28:47.964Z - info: index.js : 47 in post call ::::::: book :-  title=Javascript, price=200, authors=[Bean_lee], description=book descriptions of Javascript , id=1
+2017-04-01T21:28:48.966Z - info: index.js : 13 App Started
+2017-04-01T21:29:03.252Z - info: index.js : 70 in put call ::::::: id :-  1
+2017-04-01T21:29:03.253Z - info: index.js : 75 id >> 1
+2017-04-01T21:29:24.900Z - info: index.js : 13 App Started
+2017-04-01T21:29:25.449Z - info: index.js : 13 App Started
+2017-04-01T21:29:27.993Z - info: index.js : 13 App Started
+2017-04-01T21:29:33.248Z - info: index.js : 70 in put call ::::::: id :-  1
+2017-04-01T21:29:33.249Z - info: index.js : 75 id >> 1
+2017-04-01T21:29:33.250Z - info: index.js : 77 res in find
+2017-04-01T21:29:33.250Z - info: index.js : 77 res in find
+2017-04-01T21:30:20.227Z - info: index.js : 13 App Started
+2017-04-01T21:30:47.341Z - info: index.js : 13 App Started
+2017-04-01T21:31:32.965Z - info: index.js : 13 App Started
+2017-04-01T21:31:37.730Z - info: index.js : 13 App Started
+2017-04-01T21:31:49.447Z - info: index.js : 70 in put call ::::::: id :-  1
+2017-04-01T21:31:49.450Z - info: index.js : 75 id >> 1
+2017-04-01T21:31:49.451Z - info: index.js : 77 res in find
+2017-04-01T21:31:49.451Z - info: index.js : 77 res in find
+2017-04-01T21:33:33.123Z - info: index.js : 13 App Started
+2017-04-01T21:33:43.265Z - info: index.js : 70 in put call ::::::: id :-  1
+2017-04-01T21:33:43.269Z - info: index.js : 75 id >> 1
+2017-04-01T21:33:43.270Z - info: index.js : 77 res in find
+2017-04-01T21:33:43.270Z - info: index.js : 77 res in find
+2017-04-01T21:33:43.651Z - info: index.js : 13 App Started
+2017-04-01T21:34:29.239Z - info: index.js : 13 App Started
+2017-04-01T21:35:14.182Z - info: index.js : 13 App Started
+2017-04-01T21:35:27.995Z - info: index.js : 47 in post call ::::::: book :-  title=Javascript, price=203, authors=[Bean_lee], description=book descriptions of Javascript , id=1
+2017-04-01T21:35:28.415Z - info: index.js : 13 App Started
+2017-04-01T21:35:56.242Z - info: index.js : 47 in post call ::::::: book :-  title=Node JS, price=100, authors=[Bean_lee], description=book descriptions of Node JS , id=1
+2017-04-01T21:35:57.189Z - info: index.js : 13 App Started
+2017-04-01T21:36:08.688Z - info: index.js : 70 in put call ::::::: id :-  1
+2017-04-01T21:36:08.690Z - info: index.js : 75 id >> 1
+2017-04-01T21:36:08.691Z - info: index.js : 77 res in find
+2017-04-01T21:36:09.083Z - info: index.js : 13 App Started
+2017-04-01T21:37:50.876Z - info: index.js : 13 App Started
+2017-04-01T21:37:51.785Z - info: index.js : 13 App Started
+2017-04-01T21:37:58.966Z - info: index.js : 70 in put call ::::::: id :-  1
+2017-04-01T21:37:58.969Z - info: index.js : 75 id >> 1
+2017-04-01T21:37:59.373Z - info: index.js : 13 App Started
+2017-04-01T21:38:21.485Z - info: index.js : 13 App Started
+2017-04-01T21:38:31.274Z - info: index.js : 70 in put call ::::::: id :-  1
+2017-04-01T21:38:31.276Z - info: index.js : 75 id >> 1
+2017-04-01T21:38:31.663Z - info: index.js : 13 App Started
+2017-04-01T21:38:42.048Z - info: index.js : 47 in post call ::::::: book :-  title=Node JS, price=120, authors=[Bean_lee], description=book descriptions of Node JS , id=1
+2017-04-01T21:38:42.350Z - info: index.js : 13 App Started
+2017-04-01T21:39:24.626Z - info: index.js : 47 in post call ::::::: book :-  title=Javascript JS, price=120, authors=[Bean_lee], description=book descriptions of Javascript , id=1
+2017-04-01T21:39:25.581Z - info: index.js : 13 App Started
+2017-04-01T21:41:30.068Z - info: index.js : 13 App Started
+2017-04-01T21:41:30.687Z - info: index.js : 13 App Started
+2017-04-01T21:41:35.915Z - info: index.js : 70 in put call ::::::: id :-  1
+2017-04-01T21:41:35.918Z - info: index.js : 75 id >> 1
+2017-04-01T21:41:35.920Z - info: index.js : 77 res in find
+2017-04-01T21:41:36.329Z - info: index.js : 13 App Started
+2017-04-01T21:41:59.631Z - info: index.js : 70 in put call ::::::: id :-  1
+2017-04-01T21:41:59.632Z - info: index.js : 75 id >> 1
+2017-04-01T21:41:59.633Z - info: index.js : 77 res in find
+2017-04-01T21:42:00.622Z - info: index.js : 13 App Started
+2017-04-01T21:43:30.607Z - info: index.js : 13 App Started
+2017-04-01T21:43:30.840Z - info: index.js : 13 App Started
+2017-04-01T21:43:51.409Z - info: index.js : 13 App Started
+2017-04-01T21:43:51.706Z - info: index.js : 13 App Started
+2017-04-01T21:44:16.338Z - info: index.js : 70 in put call ::::::: id :-  1
+2017-04-01T21:44:16.340Z - info: index.js : 75 id >> 1
+2017-04-01T21:44:16.341Z - info: index.js : 77 res in find
+2017-04-01T21:44:17.296Z - info: index.js : 13 App Started
+2017-04-01T21:45:19.492Z - info: index.js : 13 App Started
+2017-04-01T21:45:19.769Z - info: index.js : 13 App Started
+2017-04-01T21:45:20.079Z - info: index.js : 13 App Started
+2017-04-01T21:54:20.870Z - info: index.js : 13 App Started
+2017-04-01T21:54:21.299Z - info: index.js : 13 App Started
+2017-04-01T21:54:21.513Z - info: index.js : 13 App Started
+2017-04-01T21:55:24.389Z - info: index.js : 102 in delete call ::::::: id :-  1
+2017-04-01T21:56:24.135Z - info: index.js : 13 App Started
+2017-04-01T21:56:24.332Z - info: index.js : 13 App Started
+2017-04-01T21:56:24.561Z - info: index.js : 13 App Started
+2017-04-01T21:56:24.844Z - info: index.js : 13 App Started
+2017-04-01T21:56:31.406Z - info: index.js : 102 in delete call ::::::: id :-  1
+2017-04-01T21:57:53.169Z - info: index.js : 13 App Started
+2017-04-01T21:58:30.459Z - info: index.js : 47 in post call ::::::: book :- 
+2017-04-01T21:59:46.440Z - info: index.js : 13 App Started
+2017-04-01T22:00:47.097Z - info: index.js : 13 App Started
+2017-04-01T22:00:48.809Z - info: index.js : 13 App Started
+2017-04-01T22:00:49.173Z - info: index.js : 13 App Started
+2017-04-01T22:00:49.487Z - info: index.js : 13 App Started
+2017-04-01T22:00:50.076Z - info: index.js : 13 App Started
+2017-04-01T22:00:51.972Z - info: index.js : 13 App Started
+2017-04-01T22:00:54.585Z - info: index.js : 13 App Started
+2017-04-01T22:01:03.508Z - info: index.js : 20 books data in get call  >>>>
+2017-04-01T22:01:03.510Z - info: index.js : 22 [
+  {
+    "title": "Javascript JS",
+    "price": "139",
+    "authors": [
+      "Bean_lee"
+    ],
+    "description": "book descriptions of Javascript ",
+    "id": 1
+  },
+  {
+    "title": "Javascript JS",
+    "price": "120",
+    "authors": [
+      "Bean_lee"
+    ],
+    "description": "book descriptions of Javascript ",
+    "id": 1
+  }
+]
+
+2017-04-01T22:01:03.511Z - info: index.js : 30 books data in object form  >>>> title=Javascript JS, price=139, authors=[Bean_lee], description=book descriptions of Javascript , id=1, title=Javascript JS, price=120, authors=[Bean_lee], description=book descriptions of Javascript , id=1
+2017-04-01T22:01:15.305Z - info: index.js : 20 books data in get call  >>>>
+2017-04-01T22:01:15.306Z - info: index.js : 22 [
+  {
+    "title": "Javascript JS",
+    "price": "139",
+    "authors": [
+      "Bean_lee"
+    ],
+    "description": "book descriptions of Javascript ",
+    "id": 1
+  },
+  {
+    "title": "Javascript JS",
+    "price": "120",
+    "authors": [
+      "Bean_lee"
+    ],
+    "description": "book descriptions of Javascript ",
+    "id": 1
+  }
+]
+
+2017-04-01T22:01:15.306Z - info: index.js : 30 books data in object form  >>>> title=Javascript JS, price=139, authors=[Bean_lee], description=book descriptions of Javascript , id=1, title=Javascript JS, price=120, authors=[Bean_lee], description=book descriptions of Javascript , id=1
+2017-04-01T22:02:20.628Z - info: index.js : 47 in post call ::::::: book :- 
+2017-04-01T22:03:53.381Z - info: index.js : 13 App Started
+2017-04-01T22:03:54.103Z - info: index.js : 13 App Started
+2017-04-01T22:03:58.576Z - info: index.js : 47 in post call ::::::: book :- 
+2017-04-01T22:04:23.098Z - info: index.js : 13 App Started
+2017-04-01T22:04:23.980Z - info: index.js : 13 App Started
+2017-04-01T22:04:24.417Z - info: index.js : 13 App Started
+2017-04-01T22:04:30.402Z - info: index.js : 47 in post call ::::::: book :- 
+2017-04-01T22:10:37.268Z - info: index.js : 13 App Started
+2017-04-01T22:10:37.907Z - info: index.js : 13 App Started
+2017-04-01T22:10:38.444Z - info: index.js : 13 App Started
+2017-04-01T22:11:00.563Z - info: index.js : 13 App Started
+2017-04-01T22:11:00.802Z - info: index.js : 13 App Started
+2017-04-01T22:11:01.232Z - info: index.js : 13 App Started
+2017-04-01T22:11:02.186Z - info: index.js : 13 App Started
+2017-04-01T22:11:09.530Z - info: index.js : 13 App Started
+2017-04-01T22:11:18.815Z - info: index.js : 13 App Started
+2017-04-01T22:11:24.393Z - info: index.js : 47 in post call ::::::: book :- 
+2017-04-01T22:12:09.842Z - info: index.js : 13 App Started
+2017-04-01T22:12:10.680Z - info: index.js : 13 App Started
+2017-04-01T22:13:19.625Z - info: index.js : 13 App Started
+2017-04-01T22:13:19.936Z - info: index.js : 13 App Started
+2017-04-01T22:14:06.815Z - info: index.js : 13 App Started
+2017-04-01T22:14:27.672Z - info: index.js : 13 App Started
+2017-04-01T22:14:30.335Z - info: index.js : 47 in post call ::::::: book :- 
+2017-04-01T22:14:30.737Z - info: index.js : 13 App Started
+2017-04-01T22:15:33.472Z - info: index.js : 13 App Started
+2017-04-01T22:16:08.694Z - info: index.js : 13 App Started
+2017-04-01T22:16:08.920Z - info: index.js : 13 App Started
+2017-04-01T22:16:09.477Z - info: index.js : 13 App Started
+2017-04-01T22:16:36.291Z - info: index.js : 47 in post call ::::::: book :- 
+2017-04-01T22:16:37.212Z - info: index.js : 13 App Started
+2017-04-01T22:16:51.738Z - info: index.js : 47 in post call ::::::: book :- 
+2017-04-01T22:16:52.118Z - info: index.js : 13 App Started
+2017-04-01T22:18:14.410Z - info: index.js : 13 App Started
+2017-04-01T22:18:14.749Z - info: index.js : 13 App Started
+2017-04-01T22:18:37.560Z - info: index.js : 13 App Started
+2017-04-01T22:18:46.883Z - info: index.js : 47 in post call ::::::: book :- 
+2017-04-01T22:18:47.227Z - info: index.js : 13 App Started
+2017-04-01T22:19:50.747Z - info: index.js : 13 App Started
+2017-04-01T22:20:18.785Z - info: index.js : 13 App Started
+2017-04-01T22:20:25.103Z - info: index.js : 47 in post call ::::::: book :- 
+2017-04-01T22:20:25.496Z - info: index.js : 13 App Started
+2017-04-01T22:21:19.844Z - info: index.js : 13 App Started
+2017-04-01T22:21:55.705Z - info: index.js : 13 App Started
+2017-04-01T22:22:00.091Z - info: index.js : 47 in post call ::::::: book :- 
+2017-04-01T22:22:00.455Z - info: index.js : 13 App Started
+2017-04-01T22:22:31.562Z - info: index.js : 13 App Started
+2017-04-01T22:22:31.884Z - info: index.js : 13 App Started
+2017-04-01T22:22:48.542Z - info: index.js : 13 App Started
+2017-04-01T22:23:00.969Z - info: index.js : 47 in post call ::::::: book :- 
+2017-04-01T22:23:01.335Z - info: index.js : 13 App Started
+2017-04-01T22:23:49.153Z - info: index.js : 13 App Started
+2017-04-01T22:23:49.433Z - info: index.js : 13 App Started
+2017-04-01T22:23:49.733Z - info: index.js : 13 App Started
+2017-04-01T22:25:23.341Z - info: index.js : 13 App Started
+2017-04-01T22:26:37.536Z - info: index.js : 13 App Started
+2017-04-01T22:26:37.896Z - info: index.js : 13 App Started
+2017-04-01T22:26:38.097Z - info: index.js : 13 App Started
+2017-04-01T22:27:04.782Z - info: index.js : 47 in post call ::::::: book :- 
+2017-04-01T22:27:05.757Z - info: index.js : 13 App Started
+2017-04-01T22:31:04.405Z - info: index.js : 14 App Started
+2017-04-01T22:32:30.786Z - info: index.js : 14 App Started
+2017-04-01T22:32:31.198Z - info: index.js : 14 App Started
+2017-04-01T22:32:31.569Z - info: index.js : 14 App Started
+2017-04-01T22:33:08.738Z - info: index.js : 14 App Started
+2017-04-01T22:33:51.258Z - info: index.js : 14 App Started
+2017-04-01T22:35:03.187Z - info: index.js : 14 App Started
+2017-04-01T22:36:09.310Z - info: index.js : 14 App Started
+2017-04-01T22:36:09.540Z - info: index.js : 14 App Started
+2017-04-01T22:36:19.347Z - info: index.js : 48 POST /book
+2017-04-01T22:36:19.352Z - info: index.js : 55 Adding New book {}
+2017-04-01T22:36:55.228Z - info: index.js : 14 App Started
+2017-04-01T22:36:56.595Z - info: index.js : 14 App Started
+2017-04-01T22:37:04.740Z - info: index.js : 14 App Started
+2017-04-01T22:37:07.668Z - info: index.js : 14 App Started
+2017-04-01T22:37:13.753Z - info: index.js : 48 POST /book
+2017-04-01T22:37:13.757Z - info: index.js : 55 Adding New book {}
+2017-04-01T22:37:13.757Z - info: index.js : 58 Updated books ::::  {"data":[{"title":"Javascript JS","price":"139","authors":["Bean_lee"],"description":"book descriptions of Javascript ","id":1},{"title":"Javascript Design Patterns","price":"120","authors":["Bean_lee"],"description":"book descriptions of Javascript Design Patterns","id":2},{},{},{},{}]}
+2017-04-01T22:37:14.194Z - info: index.js : 14 App Started
+2017-04-01T22:39:30.947Z - info: index.js : 48 POST /book
+2017-04-01T22:39:30.952Z - info: index.js : 55 Adding New book { title: 'Javascript Patterns',
+  price: '450',
+  authors: [ 'Bean_lee' ],
+  description: 'book descriptions of Javascript ',
+  id: 3 }
+2017-04-01T22:39:30.952Z - info: index.js : 58 Updated books ::::  {"data":[{"title":"Javascript JS","price":"139","authors":["Bean_lee"],"description":"book descriptions of Javascript ","id":1},{"title":"Javascript Design Patterns","price":"120","authors":["Bean_lee"],"description":"book descriptions of Javascript Design Patterns","id":2},{},{},{},{},{"title":"Javascript Patterns","price":"450","authors":["Bean_lee"],"description":"book descriptions of Javascript ","id":3}]}
+2017-04-01T22:39:31.375Z - info: index.js : 14 App Started
+2017-04-01T22:40:56.613Z - info: index.js : 14 App Started
+2017-04-01T22:40:58.645Z - info: index.js : 14 App Started
+2017-04-01T22:45:12.065Z - info: index.js : 14 App Started
+2017-04-01T22:45:28.699Z - info: index.js : 14 App Started
+2017-04-01T22:46:59.759Z - info: index.js : 14 App Started
+2017-04-01T22:47:25.731Z - info: index.js : 14 App Started
+2017-04-01T22:49:13.758Z - info: index.js : 14 App Started
+2017-04-01T22:50:02.221Z - info: index.js : 14 App Started
+2017-04-01T22:50:02.446Z - info: index.js : 14 App Started
+2017-04-01T22:50:02.690Z - info: index.js : 14 App Started
+2017-04-01T22:50:07.788Z - info: index.js : 14 App Started
+2017-04-01T22:50:22.368Z - info: index.js : 49 POST /book
+2017-04-01T22:50:22.373Z - info: index.js : 56 Adding New book { title: 'Javascript Patterns',
+  price: '450',
+  authors: [ 'Bean_lee' ],
+  description: 'book descriptions of Javascript ',
+  id: 3 }
+2017-04-01T22:50:22.373Z - info: index.js : 59 Updated books ::::  [{"title":"Javascript Patterns","price":"450","authors":["Bean_lee"],"description":"book descriptions of Javascript ","id":3}]
+2017-04-01T22:50:22.869Z - info: index.js : 14 App Started
+2017-04-01T22:51:34.064Z - info: index.js : 14 App Started
+2017-04-01T22:52:03.196Z - info: index.js : 15 App Started
+2017-04-01T22:52:59.900Z - info: index.js : 15 App Started
+2017-04-01T22:53:00.191Z - info: index.js : 15 App Started
+2017-04-01T22:53:00.574Z - info: index.js : 15 App Started
+2017-04-01T22:53:10.721Z - info: index.js : 50 POST /book
+2017-04-01T22:53:10.729Z - info: index.js : 57 Adding New book { title: 'Javascript Patterns',
+  price: '450',
+  authors: [ 'Bean_lee' ],
+  description: 'book descriptions of Javascript ' }
+2017-04-01T22:53:10.730Z - info: index.js : 61 Updated books ::::  [{"title":"Javascript Patterns","price":"450","authors":["Bean_lee"],"description":"book descriptions of Javascript ","id":3},{"title":"Javascript Patterns","price":"450","authors":["Bean_lee"],"description":"book descriptions of Javascript ","id":"2bfb42a2-f7d3-44c7-9a75-04afaad18af6"}]
+2017-04-01T22:53:11.122Z - info: index.js : 15 App Started

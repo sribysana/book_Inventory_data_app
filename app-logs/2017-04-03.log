@@ -1,0 +1,1126 @@
+2017-04-03T11:43:02.065Z - info: index.js : 18 App Started
+2017-04-03T11:43:02.067Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T11:44:10.672Z - info: index.js : 18 App Started
+2017-04-03T11:44:10.675Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T11:44:20.539Z - info: routes/bookRoutes.js : 58 POST /book
+2017-04-03T11:44:20.544Z - info: routes/bookRoutes.js : 68 Adding New book { title: 'string',
+  id: 'string',
+  authors: [ { name: 'string', id: 'string' } ],
+  price: 'number',
+  delivaryCharges: 'number',
+  pages: 'number',
+  seller: [ { name: 'string', id: 'string' } ],
+  reviews: 
+   [ { reviewerName: 'string',
+       reviewerRating: 'number',
+       reviewerRatingOutof: 'number',
+       feedback: 'string',
+       date: 'date' } ],
+  description: 'string',
+  tags: [],
+  generes: [ 'friction' ],
+  publicationYear: 'number',
+  bookCower: 'image url' }
+2017-04-03T11:44:20.545Z - info: routes/bookRoutes.js : 71 Updated books ::::  {"title":"string","id":"db2058be-4979-4a86-8833-44f2bc3a2e27","authors":[{"name":"string","id":"string"}],"price":"number","delivaryCharges":"number","pages":"number","seller":[{"name":"string","id":"string"}],"reviews":[{"reviewerName":"string","reviewerRating":"number","reviewerRatingOutof":"number","feedback":"string","date":"date"}],"description":"string","tags":[],"generes":["friction"],"publicationYear":"number","bookCower":"image url"}
+2017-04-03T11:44:20.547Z - info: routes/bookRoutes.js : 75 scheemaResult :-  { success: false,
+  error: 'Error: JSON object is an object when it should be an array' }
+2017-04-03T11:44:20.548Z - error: routes/bookRoutes.js : 80 something went wrong with scheema please check Error and proceed  'Error: JSON object is an object when it should be an array'
+2017-04-03T11:44:20.548Z - info: routes/bookRoutes.js : 83 adding new data to json 
+2017-04-03T11:44:20.550Z - info: routes/bookRoutes.js : 93 seding new data to responce.
+2017-04-03T11:44:20.968Z - info: index.js : 18 App Started
+2017-04-03T11:44:20.970Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T11:47:47.460Z - info: index.js : 18 App Started
+2017-04-03T11:47:47.462Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T11:47:47.841Z - info: index.js : 18 App Started
+2017-04-03T11:47:47.843Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T11:48:27.838Z - info: index.js : 18 App Started
+2017-04-03T11:48:27.840Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T11:48:28.255Z - info: index.js : 18 App Started
+2017-04-03T11:48:28.257Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T11:48:32.886Z - info: index.js : 18 App Started
+2017-04-03T11:48:32.888Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T11:49:01.680Z - info: index.js : 18 App Started
+2017-04-03T11:49:01.682Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T11:49:03.879Z - info: index.js : 18 App Started
+2017-04-03T11:49:03.882Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T11:51:58.882Z - info: index.js : 18 App Started
+2017-04-03T11:51:58.884Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T11:51:59.113Z - info: index.js : 18 App Started
+2017-04-03T11:51:59.115Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T11:51:59.706Z - info: index.js : 18 App Started
+2017-04-03T11:51:59.709Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T11:52:00.333Z - info: index.js : 18 App Started
+2017-04-03T11:52:00.335Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T11:52:01.458Z - info: index.js : 18 App Started
+2017-04-03T11:52:01.459Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T11:52:14.535Z - info: index.js : 18 App Started
+2017-04-03T11:52:14.537Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T11:55:05.589Z - info: index.js : 18 App Started
+2017-04-03T11:55:05.591Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T11:55:14.149Z - info: routes/bookRoutes.js : 58 POST /book
+2017-04-03T11:55:14.153Z - info: routes/bookRoutes.js : 68 Adding New book { title: 'string',
+  id: 'string',
+  description: 'string',
+  tags: [],
+  generes: [ 'friction' ],
+  publicationYear: 2017,
+  bookCower: 'image url',
+  price: 120,
+  delivaryCharges: 40,
+  pages: 100 }
+2017-04-03T11:55:14.154Z - info: routes/bookRoutes.js : 71 Updated books ::::  {"title":"string","id":"b4d7019e-e509-4c02-a286-e2bbac72d330","description":"string","tags":[],"generes":["friction"],"publicationYear":2017,"bookCower":"image url","price":120,"delivaryCharges":40,"pages":100}
+2017-04-03T11:55:14.155Z - info: routes/bookRoutes.js : 75 scheemaResult :-  { success: false,
+  error: 'Error: JSON object is an object when it should be an array' }
+2017-04-03T11:55:14.155Z - error: routes/bookRoutes.js : 80 something went wrong with scheema please check Error and proceed  'Error: JSON object is an object when it should be an array'
+2017-04-03T11:55:14.156Z - info: routes/bookRoutes.js : 83 adding new data to json 
+2017-04-03T11:55:14.157Z - info: routes/bookRoutes.js : 93 seding new data to responce.
+2017-04-03T11:55:14.518Z - info: index.js : 18 App Started
+2017-04-03T11:55:14.520Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T11:56:42.304Z - info: index.js : 18 App Started
+2017-04-03T11:56:42.305Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T11:56:43.224Z - info: index.js : 18 App Started
+2017-04-03T11:56:43.225Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T11:56:47.605Z - info: routes/bookRoutes.js : 58 POST /book
+2017-04-03T11:56:47.610Z - info: routes/bookRoutes.js : 68 Adding New book { title: 'string',
+  id: 'string',
+  description: 'string',
+  tags: [],
+  generes: [ 'friction' ],
+  publicationYear: 2017,
+  bookCower: 'image url',
+  price: 120,
+  delivaryCharges: 40,
+  pages: 100 }
+2017-04-03T11:56:47.610Z - info: routes/bookRoutes.js : 71 Updated books ::::  {"title":"string","id":"fb626ea6-baf3-4458-a0ff-8f3066b09a36","description":"string","tags":[],"generes":["friction"],"publicationYear":2017,"bookCower":"image url","price":120,"delivaryCharges":40,"pages":100}
+2017-04-03T11:56:47.612Z - info: routes/bookRoutes.js : 75 scheemaResult :-  { success: true,
+  data: 
+   { title: 'string',
+     id: 'fb626ea6-baf3-4458-a0ff-8f3066b09a36',
+     description: 'string',
+     tags: [],
+     generes: [ 'friction' ],
+     publicationYear: 2017,
+     bookCower: 'image url',
+     price: 120,
+     delivaryCharges: 40,
+     pages: 100 } }
+2017-04-03T11:56:47.612Z - info: routes/bookRoutes.js : 77 success in validating scheema can proceed write to json
+2017-04-03T11:56:47.613Z - info: routes/bookRoutes.js : 83 adding new data to json 
+2017-04-03T11:56:47.615Z - info: routes/bookRoutes.js : 93 seding new data to responce.
+2017-04-03T11:56:47.979Z - info: index.js : 18 App Started
+2017-04-03T11:56:47.981Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T11:57:04.438Z - info: index.js : 18 App Started
+2017-04-03T11:57:04.440Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T13:12:04.063Z - info: index.js : 18 App Started
+2017-04-03T13:12:04.065Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T13:13:50.665Z - info: routes/bookRoutes.js : 58 POST /book
+2017-04-03T13:13:50.670Z - info: routes/bookRoutes.js : 68 Adding New book { title: 'string',
+  id: 'string',
+  description: 'string',
+  tags: [],
+  generes: [ 'friction' ],
+  publicationYear: 1023,
+  bookCower: 'image url',
+  price: 120,
+  delivaryCharges: 50,
+  pages: 'number',
+  authors: [ { name: 'string', id: 'string' } ],
+  seller: [ { name: 'string', id: 'string' } ],
+  reviews: 
+   [ { reviewerName: 'string',
+       reviewerRating: 4,
+       reviewerRatingOutof: 4,
+       feedback: 'string',
+       date: 'date' } ] }
+2017-04-03T13:13:50.671Z - info: routes/bookRoutes.js : 71 Updated books ::::  {"title":"string","id":"0c485200-87f4-4998-ab70-dff1c60b5345","description":"string","tags":[],"generes":["friction"],"publicationYear":1023,"bookCower":"image url","price":120,"delivaryCharges":50,"pages":"number","authors":[{"name":"string","id":"string"}],"seller":[{"name":"string","id":"string"}],"reviews":[{"reviewerName":"string","reviewerRating":4,"reviewerRatingOutof":4,"feedback":"string","date":"date"}]}
+2017-04-03T13:13:50.672Z - info: routes/bookRoutes.js : 75 scheemaResult :-  { success: false,
+  error: 'Error: JSON object is an object when it should be an array' }
+2017-04-03T13:13:50.672Z - error: routes/bookRoutes.js : 80 something went wrong with scheema please check Error and proceed  'Error: JSON object is an object when it should be an array'
+2017-04-03T13:13:50.672Z - info: routes/bookRoutes.js : 83 adding new data to json 
+2017-04-03T13:13:50.674Z - info: routes/bookRoutes.js : 93 seding new data to responce.
+2017-04-03T13:13:51.638Z - info: index.js : 18 App Started
+2017-04-03T13:13:51.640Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T13:14:17.136Z - info: index.js : 18 App Started
+2017-04-03T13:14:17.138Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T13:14:17.466Z - info: index.js : 18 App Started
+2017-04-03T13:14:17.468Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T13:14:18.264Z - info: index.js : 18 App Started
+2017-04-03T13:14:18.266Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T13:14:22.210Z - info: routes/bookRoutes.js : 58 POST /book
+2017-04-03T13:14:22.215Z - info: routes/bookRoutes.js : 68 Adding New book { title: 'string',
+  id: 'string',
+  description: 'string',
+  tags: [],
+  generes: [ 'friction' ],
+  publicationYear: 1023,
+  bookCower: 'image url',
+  price: 120,
+  delivaryCharges: 50,
+  pages: 'number',
+  authors: [ { name: 'string', id: 'string' } ],
+  seller: [ { name: 'string', id: 'string' } ],
+  reviews: 
+   [ { reviewerName: 'string',
+       reviewerRating: 4,
+       reviewerRatingOutof: 4,
+       feedback: 'string',
+       date: 'date' } ] }
+2017-04-03T13:14:22.215Z - info: routes/bookRoutes.js : 71 Updated books ::::  {"title":"string","id":"5c899f75-7ea2-4731-a7ad-cd461f12680a","description":"string","tags":[],"generes":["friction"],"publicationYear":1023,"bookCower":"image url","price":120,"delivaryCharges":50,"pages":"number","authors":[{"name":"string","id":"string"}],"seller":[{"name":"string","id":"string"}],"reviews":[{"reviewerName":"string","reviewerRating":4,"reviewerRatingOutof":4,"feedback":"string","date":"date"}]}
+2017-04-03T13:14:22.218Z - info: routes/bookRoutes.js : 75 scheemaResult :-  { success: false,
+  error: 'Error: JSON object property \'pages\' is a string when it should be a number' }
+2017-04-03T13:14:22.218Z - error: routes/bookRoutes.js : 80 something went wrong with scheema please check Error and proceed  'Error: JSON object property \'pages\' is a string when it should be a number'
+2017-04-03T13:14:22.218Z - info: routes/bookRoutes.js : 83 adding new data to json 
+2017-04-03T13:14:22.220Z - info: routes/bookRoutes.js : 93 seding new data to responce.
+2017-04-03T13:14:22.558Z - info: index.js : 18 App Started
+2017-04-03T13:14:22.559Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T13:15:07.561Z - info: routes/bookRoutes.js : 58 POST /book
+2017-04-03T13:15:07.567Z - info: routes/bookRoutes.js : 68 Adding New book { title: 'string',
+  id: 'string',
+  description: 'string',
+  tags: [],
+  generes: [ 'friction' ],
+  publicationYear: 1023,
+  bookCower: 'image url',
+  price: 120,
+  delivaryCharges: 50,
+  pages: 'number',
+  authors: [ { name: 'string', id: 'string' } ],
+  seller: [ { name: 'string', id: 'string' } ] }
+2017-04-03T13:15:07.568Z - info: routes/bookRoutes.js : 71 Updated books ::::  {"title":"string","id":"b4203e62-7a0a-47d0-af42-c589716a952d","description":"string","tags":[],"generes":["friction"],"publicationYear":1023,"bookCower":"image url","price":120,"delivaryCharges":50,"pages":"number","authors":[{"name":"string","id":"string"}],"seller":[{"name":"string","id":"string"}]}
+2017-04-03T13:15:07.571Z - info: routes/bookRoutes.js : 75 scheemaResult :-  { success: false,
+  error: 'Error: JSON object property \'pages\' is a string when it should be a number' }
+2017-04-03T13:15:07.571Z - error: routes/bookRoutes.js : 80 something went wrong with scheema please check Error and proceed  'Error: JSON object property \'pages\' is a string when it should be a number'
+2017-04-03T13:15:07.572Z - info: routes/bookRoutes.js : 83 adding new data to json 
+2017-04-03T13:15:07.573Z - info: routes/bookRoutes.js : 93 seding new data to responce.
+2017-04-03T13:15:08.514Z - info: index.js : 18 App Started
+2017-04-03T13:15:08.517Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T13:15:52.289Z - info: routes/bookRoutes.js : 58 POST /book
+2017-04-03T13:15:52.295Z - info: routes/bookRoutes.js : 68 Adding New book { title: 'string',
+  id: 'string',
+  description: 'string',
+  tags: [],
+  generes: [ 'friction' ],
+  publicationYear: 1023,
+  bookCower: 'image url',
+  price: 120,
+  delivaryCharges: 50,
+  pages: 'number',
+  reviews: 
+   [ { reviewerName: 'string',
+       reviewerRating: 4,
+       reviewerRatingOutof: 4,
+       feedback: 'string',
+       date: 'date' } ] }
+2017-04-03T13:15:52.296Z - info: routes/bookRoutes.js : 71 Updated books ::::  {"title":"string","id":"759b29da-e0cd-4261-ae77-e45f2e77641c","description":"string","tags":[],"generes":["friction"],"publicationYear":1023,"bookCower":"image url","price":120,"delivaryCharges":50,"pages":"number","reviews":[{"reviewerName":"string","reviewerRating":4,"reviewerRatingOutof":4,"feedback":"string","date":"date"}]}
+2017-04-03T13:15:52.300Z - info: routes/bookRoutes.js : 75 scheemaResult :-  { success: false,
+  error: 'Error: JSON object property \'pages\' is a string when it should be a number' }
+2017-04-03T13:15:52.300Z - error: routes/bookRoutes.js : 80 something went wrong with scheema please check Error and proceed  'Error: JSON object property \'pages\' is a string when it should be a number'
+2017-04-03T13:15:52.300Z - info: routes/bookRoutes.js : 83 adding new data to json 
+2017-04-03T13:15:52.302Z - info: routes/bookRoutes.js : 93 seding new data to responce.
+2017-04-03T13:15:53.177Z - info: index.js : 18 App Started
+2017-04-03T13:15:53.180Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T13:16:46.574Z - info: index.js : 18 App Started
+2017-04-03T13:16:46.575Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T13:16:47.275Z - info: index.js : 18 App Started
+2017-04-03T13:16:47.277Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T13:18:59.638Z - info: routes/bookRoutes.js : 58 POST /book
+2017-04-03T13:18:59.643Z - info: routes/bookRoutes.js : 68 Adding New book { title: 'string',
+  id: 'string',
+  description: 'string',
+  tags: [],
+  generes: [ 'friction' ],
+  publicationYear: 1023,
+  bookCower: 'image url',
+  price: 120,
+  delivaryCharges: 50,
+  pages: 'number' }
+2017-04-03T13:18:59.644Z - info: routes/bookRoutes.js : 71 Updated books ::::  {"title":"string","id":"357d53ed-09c7-4d36-8cfa-13dd4489ab2e","description":"string","tags":[],"generes":["friction"],"publicationYear":1023,"bookCower":"image url","price":120,"delivaryCharges":50,"pages":"number"}
+2017-04-03T13:18:59.646Z - info: routes/bookRoutes.js : 75 scheemaResult :-  { success: false,
+  error: 'Error: JSON object property \'pages\' is a string when it should be a number' }
+2017-04-03T13:18:59.646Z - error: routes/bookRoutes.js : 80 something went wrong with scheema please check Error and proceed  'Error: JSON object property \'pages\' is a string when it should be a number'
+2017-04-03T13:18:59.646Z - info: routes/bookRoutes.js : 83 adding new data to json 
+2017-04-03T13:18:59.648Z - info: routes/bookRoutes.js : 93 seding new data to responce.
+2017-04-03T13:19:00.605Z - info: index.js : 18 App Started
+2017-04-03T13:19:00.607Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T13:19:18.028Z - info: routes/bookRoutes.js : 58 POST /book
+2017-04-03T13:19:18.032Z - info: routes/bookRoutes.js : 68 Adding New book { title: 'string',
+  id: 'string',
+  description: 'string',
+  tags: [],
+  generes: [ 'friction' ],
+  publicationYear: 1023,
+  bookCower: 'image url',
+  price: 120,
+  delivaryCharges: 50,
+  pages: 100 }
+2017-04-03T13:19:18.033Z - info: routes/bookRoutes.js : 71 Updated books ::::  {"title":"string","id":"a34fb31f-8aee-43ec-83c2-26ca1262bca7","description":"string","tags":[],"generes":["friction"],"publicationYear":1023,"bookCower":"image url","price":120,"delivaryCharges":50,"pages":100}
+2017-04-03T13:19:18.035Z - info: routes/bookRoutes.js : 75 scheemaResult :-  { success: true,
+  data: 
+   { title: 'string',
+     id: 'a34fb31f-8aee-43ec-83c2-26ca1262bca7',
+     description: 'string',
+     tags: [],
+     generes: [ 'friction' ],
+     publicationYear: 1023,
+     bookCower: 'image url',
+     price: 120,
+     delivaryCharges: 50,
+     pages: 100 } }
+2017-04-03T13:19:18.035Z - info: routes/bookRoutes.js : 77 success in validating scheema can proceed write to json
+2017-04-03T13:19:18.035Z - info: routes/bookRoutes.js : 83 adding new data to json 
+2017-04-03T13:19:18.037Z - info: routes/bookRoutes.js : 93 seding new data to responce.
+2017-04-03T13:19:18.946Z - info: index.js : 18 App Started
+2017-04-03T13:19:18.948Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T13:20:12.321Z - info: routes/bookRoutes.js : 58 POST /book
+2017-04-03T13:20:12.326Z - info: routes/bookRoutes.js : 68 Adding New book { title: 'string',
+  id: 'string',
+  description: 'string',
+  tags: [],
+  generes: [ 'friction' ],
+  publicationYear: 1023,
+  bookCower: 'image url',
+  price: 120,
+  delivaryCharges: 50,
+  pages: 100,
+  seller: [ { name: 'string', id: 'string' } ] }
+2017-04-03T13:20:12.327Z - info: routes/bookRoutes.js : 71 Updated books ::::  {"title":"string","id":"67953ed2-ccaa-4e19-804d-0347291cf7df","description":"string","tags":[],"generes":["friction"],"publicationYear":1023,"bookCower":"image url","price":120,"delivaryCharges":50,"pages":100,"seller":[{"name":"string","id":"string"}]}
+2017-04-03T13:20:12.329Z - info: routes/bookRoutes.js : 75 scheemaResult :-  { success: true,
+  data: 
+   { title: 'string',
+     id: '67953ed2-ccaa-4e19-804d-0347291cf7df',
+     description: 'string',
+     tags: [],
+     generes: [ 'friction' ],
+     publicationYear: 1023,
+     bookCower: 'image url',
+     price: 120,
+     delivaryCharges: 50,
+     pages: 100,
+     seller: [ [Object] ] } }
+2017-04-03T13:20:12.329Z - info: routes/bookRoutes.js : 77 success in validating scheema can proceed write to json
+2017-04-03T13:20:12.329Z - info: routes/bookRoutes.js : 83 adding new data to json 
+2017-04-03T13:20:12.331Z - info: routes/bookRoutes.js : 93 seding new data to responce.
+2017-04-03T13:20:13.339Z - info: index.js : 18 App Started
+2017-04-03T13:20:13.340Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T13:20:32.561Z - info: routes/bookRoutes.js : 58 POST /book
+2017-04-03T13:20:32.566Z - info: routes/bookRoutes.js : 68 Adding New book { title: 'string',
+  id: 'string',
+  description: 'string',
+  tags: [],
+  generes: [ 'friction' ],
+  publicationYear: 1023,
+  bookCower: 'image url',
+  price: 120,
+  delivaryCharges: 50,
+  pages: 100,
+  seller: [ { name: 'string', id: 'string' } ],
+  authors: [ { name: 'string', id: 'string' } ] }
+2017-04-03T13:20:32.567Z - info: routes/bookRoutes.js : 71 Updated books ::::  {"title":"string","id":"786d8d90-ed58-4cac-8f0c-882f13cca061","description":"string","tags":[],"generes":["friction"],"publicationYear":1023,"bookCower":"image url","price":120,"delivaryCharges":50,"pages":100,"seller":[{"name":"string","id":"string"}],"authors":[{"name":"string","id":"string"}]}
+2017-04-03T13:20:32.569Z - info: routes/bookRoutes.js : 75 scheemaResult :-  { success: true,
+  data: 
+   { title: 'string',
+     id: '786d8d90-ed58-4cac-8f0c-882f13cca061',
+     description: 'string',
+     tags: [],
+     generes: [ 'friction' ],
+     publicationYear: 1023,
+     bookCower: 'image url',
+     price: 120,
+     delivaryCharges: 50,
+     pages: 100,
+     seller: [ [Object] ],
+     authors: [ [Object] ] } }
+2017-04-03T13:20:32.569Z - info: routes/bookRoutes.js : 77 success in validating scheema can proceed write to json
+2017-04-03T13:20:32.569Z - info: routes/bookRoutes.js : 83 adding new data to json 
+2017-04-03T13:20:32.571Z - info: routes/bookRoutes.js : 93 seding new data to responce.
+2017-04-03T13:20:33.529Z - info: index.js : 18 App Started
+2017-04-03T13:20:33.531Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T13:20:51.227Z - info: routes/bookRoutes.js : 58 POST /book
+2017-04-03T13:20:51.233Z - info: routes/bookRoutes.js : 68 Adding New book { title: 'string',
+  id: 'string',
+  description: 'string',
+  tags: [],
+  generes: [ 'friction' ],
+  publicationYear: 1023,
+  bookCower: 'image url',
+  price: 120,
+  delivaryCharges: 50,
+  pages: 100,
+  seller: [ { name: 'string', id: 'string' } ],
+  authors: [ { name: 'string', id: 'string' } ],
+  reviews: 
+   [ { reviewerName: 'string',
+       reviewerRating: 4,
+       reviewerRatingOutof: 4,
+       feedback: 'string',
+       date: 'date' } ] }
+2017-04-03T13:20:51.233Z - info: routes/bookRoutes.js : 71 Updated books ::::  {"title":"string","id":"3b873c11-1a7e-4107-8440-cd466fb51a02","description":"string","tags":[],"generes":["friction"],"publicationYear":1023,"bookCower":"image url","price":120,"delivaryCharges":50,"pages":100,"seller":[{"name":"string","id":"string"}],"authors":[{"name":"string","id":"string"}],"reviews":[{"reviewerName":"string","reviewerRating":4,"reviewerRatingOutof":4,"feedback":"string","date":"date"}]}
+2017-04-03T13:20:51.236Z - info: routes/bookRoutes.js : 75 scheemaResult :-  { success: true,
+  data: 
+   { title: 'string',
+     id: '3b873c11-1a7e-4107-8440-cd466fb51a02',
+     description: 'string',
+     tags: [],
+     generes: [ 'friction' ],
+     publicationYear: 1023,
+     bookCower: 'image url',
+     price: 120,
+     delivaryCharges: 50,
+     pages: 100,
+     seller: [ [Object] ],
+     authors: [ [Object] ],
+     reviews: [ [Object] ] } }
+2017-04-03T13:20:51.237Z - info: routes/bookRoutes.js : 77 success in validating scheema can proceed write to json
+2017-04-03T13:20:51.237Z - info: routes/bookRoutes.js : 83 adding new data to json 
+2017-04-03T13:20:51.238Z - info: routes/bookRoutes.js : 93 seding new data to responce.
+2017-04-03T13:20:52.148Z - info: index.js : 18 App Started
+2017-04-03T13:20:52.149Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T13:31:40.588Z - info: index.js : 18 App Started
+2017-04-03T13:31:40.590Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T13:31:41.581Z - info: index.js : 18 App Started
+2017-04-03T13:31:41.582Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T13:31:47.881Z - info: index.js : 18 App Started
+2017-04-03T13:31:47.883Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T13:34:25.418Z - info: routes/bookRoutes.js : 58 POST /book
+2017-04-03T13:34:25.422Z - info: routes/bookRoutes.js : 68 Adding New book { title: 'RESTful Web API Design with Node.js - Second Edition',
+  id: 'string',
+  description: 'Since JavaScript is the language of the web, building APIs using Node.js provides a seamless development experience on both the front end and the back end. Explore the practical side of REST to build data-centric applications with Node About This Video Work through a series of guidelines and best practices to efficiently design RESTful Web APIs with Node Understand the structure of APIs, their authentication protocols, and their implementation tools This practical guide provides the knowledge you need to delve into the endless possibilities enabled by Big Data In Detail RESTful Web APIs allow developers to create unprecedented applications by leveraging the data on the internet.',
+  tags: [],
+  generes: [ 'friction' ],
+  publicationYear: '2017',
+  publisher: 'Packt Publishing',
+  bookCower: '/images/id',
+  price: '1200',
+  delivaryCharges: '100',
+  pages: '150',
+  authors: [ { name: 'Saleh Hamadeh', id: 'string' } ],
+  seller: [ { name: 'Packt Publishing', id: 'string' } ],
+  reviews: 
+   [ { reviewerName: 'Srikanth',
+       reviewerRating: '4.5',
+       reviewerRatingOutof: '5',
+       feedback: 'Good books to Learn',
+       date: '3rd April' } ] }
+2017-04-03T13:34:25.423Z - info: routes/bookRoutes.js : 71 Updated books ::::  {"title":"RESTful Web API Design with Node.js - Second Edition","id":"31a0741f-6bbd-47d4-aad0-cfe1656c304f","description":"Since JavaScript is the language of the web, building APIs using Node.js provides a seamless development experience on both the front end and the back end. Explore the practical side of REST to build data-centric applications with Node About This Video Work through a series of guidelines and best practices to efficiently design RESTful Web APIs with Node Understand the structure of APIs, their authentication protocols, and their implementation tools This practical guide provides the knowledge you need to delve into the endless possibilities enabled by Big Data In Detail RESTful Web APIs allow developers to create unprecedented applications by leveraging the data on the internet.","tags":[],"generes":["friction"],"publicationYear":"2017","publisher":"Packt Publishing","bookCower":"/images/id","price":"1200","delivaryCharges":"100","pages":"150","authors":[{"name":"Saleh Hamadeh","id":"string"}],"seller":[{"name":"Packt Publishing","id":"string"}],"reviews":[{"reviewerName":"Srikanth","reviewerRating":"4.5","reviewerRatingOutof":"5","feedback":"Good books to Learn","date":"3rd April"}]}
+2017-04-03T13:34:25.425Z - info: routes/bookRoutes.js : 75 scheemaResult :-  { success: false,
+  error: 'Error: JSON object property \'publicationYear\' is a string when it should be a number' }
+2017-04-03T13:34:25.425Z - error: routes/bookRoutes.js : 80 something went wrong with scheema please check Error and proceed  'Error: JSON object property \'publicationYear\' is a string when it should be a number'
+2017-04-03T13:34:25.425Z - info: routes/bookRoutes.js : 83 adding new data to json 
+2017-04-03T13:34:25.426Z - info: routes/bookRoutes.js : 93 seding new data to responce.
+2017-04-03T13:34:26.347Z - info: index.js : 18 App Started
+2017-04-03T13:34:26.349Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T13:34:45.425Z - info: routes/bookRoutes.js : 58 POST /book
+2017-04-03T13:34:45.429Z - info: routes/bookRoutes.js : 68 Adding New book { title: 'RESTful Web API Design with Node.js - Second Edition',
+  id: 'string',
+  description: 'Since JavaScript is the language of the web, building APIs using Node.js provides a seamless development experience on both the front end and the back end. Explore the practical side of REST to build data-centric applications with Node About This Video Work through a series of guidelines and best practices to efficiently design RESTful Web APIs with Node Understand the structure of APIs, their authentication protocols, and their implementation tools This practical guide provides the knowledge you need to delve into the endless possibilities enabled by Big Data In Detail RESTful Web APIs allow developers to create unprecedented applications by leveraging the data on the internet.',
+  tags: [],
+  generes: [ 'friction' ],
+  publicationYear: 2017,
+  publisher: 'Packt Publishing',
+  bookCower: '/images/id',
+  price: '1200',
+  delivaryCharges: '100',
+  pages: '150',
+  authors: [ { name: 'Saleh Hamadeh', id: 'string' } ],
+  seller: [ { name: 'Packt Publishing', id: 'string' } ],
+  reviews: 
+   [ { reviewerName: 'Srikanth',
+       reviewerRating: '4.5',
+       reviewerRatingOutof: '5',
+       feedback: 'Good books to Learn',
+       date: '3rd April' } ] }
+2017-04-03T13:34:45.430Z - info: routes/bookRoutes.js : 71 Updated books ::::  {"title":"RESTful Web API Design with Node.js - Second Edition","id":"14897eb4-3546-4a3d-b40b-f431dc1aaaed","description":"Since JavaScript is the language of the web, building APIs using Node.js provides a seamless development experience on both the front end and the back end. Explore the practical side of REST to build data-centric applications with Node About This Video Work through a series of guidelines and best practices to efficiently design RESTful Web APIs with Node Understand the structure of APIs, their authentication protocols, and their implementation tools This practical guide provides the knowledge you need to delve into the endless possibilities enabled by Big Data In Detail RESTful Web APIs allow developers to create unprecedented applications by leveraging the data on the internet.","tags":[],"generes":["friction"],"publicationYear":2017,"publisher":"Packt Publishing","bookCower":"/images/id","price":"1200","delivaryCharges":"100","pages":"150","authors":[{"name":"Saleh Hamadeh","id":"string"}],"seller":[{"name":"Packt Publishing","id":"string"}],"reviews":[{"reviewerName":"Srikanth","reviewerRating":"4.5","reviewerRatingOutof":"5","feedback":"Good books to Learn","date":"3rd April"}]}
+2017-04-03T13:34:45.432Z - info: routes/bookRoutes.js : 75 scheemaResult :-  { success: false,
+  error: 'Error: JSON object property \'price\' is a string when it should be a number' }
+2017-04-03T13:34:45.432Z - error: routes/bookRoutes.js : 80 something went wrong with scheema please check Error and proceed  'Error: JSON object property \'price\' is a string when it should be a number'
+2017-04-03T13:34:45.432Z - info: routes/bookRoutes.js : 83 adding new data to json 
+2017-04-03T13:34:45.433Z - info: routes/bookRoutes.js : 93 seding new data to responce.
+2017-04-03T13:34:45.867Z - info: index.js : 18 App Started
+2017-04-03T13:34:45.869Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T13:35:37.898Z - info: routes/bookRoutes.js : 58 POST /book
+2017-04-03T13:35:37.904Z - info: routes/bookRoutes.js : 68 Adding New book { title: 'RESTful Web API Design with Node.js - Second Edition',
+  id: 'string',
+  description: 'Since JavaScript is the language of the web, building APIs using Node.js provides a seamless development experience on both the front end and the back end. Explore the practical side of REST to build data-centric applications with Node About This Video Work through a series of guidelines and best practices to efficiently design RESTful Web APIs with Node Understand the structure of APIs, their authentication protocols, and their implementation tools This practical guide provides the knowledge you need to delve into the endless possibilities enabled by Big Data In Detail RESTful Web APIs allow developers to create unprecedented applications by leveraging the data on the internet.',
+  tags: [],
+  generes: [ 'friction' ],
+  publicationYear: 2017,
+  publisher: 'Packt Publishing',
+  bookCower: '/images/id',
+  price: 1200,
+  delivaryCharges: 100,
+  pages: 150,
+  authors: [ { name: 'Saleh Hamadeh', id: 'string' } ],
+  seller: [ { name: 'Packt Publishing', id: 'string' } ],
+  reviews: 
+   [ { reviewerName: 'Srikanth',
+       reviewerRating: 4.5,
+       reviewerRatingOutof: 5,
+       feedback: 'Good books to Learn',
+       date: '3rd April' } ] }
+2017-04-03T13:35:37.905Z - info: routes/bookRoutes.js : 71 Updated books ::::  {"title":"RESTful Web API Design with Node.js - Second Edition","id":"95f5b406-f2af-45ba-b2fe-fc3e5b7d9568","description":"Since JavaScript is the language of the web, building APIs using Node.js provides a seamless development experience on both the front end and the back end. Explore the practical side of REST to build data-centric applications with Node About This Video Work through a series of guidelines and best practices to efficiently design RESTful Web APIs with Node Understand the structure of APIs, their authentication protocols, and their implementation tools This practical guide provides the knowledge you need to delve into the endless possibilities enabled by Big Data In Detail RESTful Web APIs allow developers to create unprecedented applications by leveraging the data on the internet.","tags":[],"generes":["friction"],"publicationYear":2017,"publisher":"Packt Publishing","bookCower":"/images/id","price":1200,"delivaryCharges":100,"pages":150,"authors":[{"name":"Saleh Hamadeh","id":"string"}],"seller":[{"name":"Packt Publishing","id":"string"}],"reviews":[{"reviewerName":"Srikanth","reviewerRating":4.5,"reviewerRatingOutof":5,"feedback":"Good books to Learn","date":"3rd April"}]}
+2017-04-03T13:35:37.907Z - info: routes/bookRoutes.js : 75 scheemaResult :-  { success: true,
+  data: 
+   { title: 'RESTful Web API Design with Node.js - Second Edition',
+     id: '95f5b406-f2af-45ba-b2fe-fc3e5b7d9568',
+     description: 'Since JavaScript is the language of the web, building APIs using Node.js provides a seamless development experience on both the front end and the back end. Explore the practical side of REST to build data-centric applications with Node About This Video Work through a series of guidelines and best practices to efficiently design RESTful Web APIs with Node Understand the structure of APIs, their authentication protocols, and their implementation tools This practical guide provides the knowledge you need to delve into the endless possibilities enabled by Big Data In Detail RESTful Web APIs allow developers to create unprecedented applications by leveraging the data on the internet.',
+     tags: [],
+     generes: [ 'friction' ],
+     publicationYear: 2017,
+     publisher: 'Packt Publishing',
+     bookCower: '/images/id',
+     price: 1200,
+     delivaryCharges: 100,
+     pages: 150,
+     authors: [ [Object] ],
+     seller: [ [Object] ],
+     reviews: [ [Object] ] } }
+2017-04-03T13:35:37.907Z - info: routes/bookRoutes.js : 77 success in validating scheema can proceed write to json
+2017-04-03T13:35:37.907Z - info: routes/bookRoutes.js : 83 adding new data to json 
+2017-04-03T13:35:37.909Z - info: routes/bookRoutes.js : 93 seding new data to responce.
+2017-04-03T13:35:38.897Z - info: index.js : 18 App Started
+2017-04-03T13:35:38.899Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T13:42:19.143Z - info: routes/bookRoutes.js : 58 POST /book
+2017-04-03T13:42:19.149Z - info: routes/bookRoutes.js : 68 Adding New book { title: 'Mastering Node.js',
+  id: 'string',
+  description: 'You will then learn to create your first Node.js application and also create a command line tool for Node.js. Learn how Node.js is working so you can use that knowledge in your advance. A deep understand how to use the node.js api’s to build enterprise grade applications.',
+  tags: [],
+  generes: [ 'IT' ],
+  publicationYear: '2017',
+  publisher: 'Packt Publishing',
+  bookCower: '/images/id',
+  price: '1200',
+  delivaryCharges: '100',
+  pages: '150',
+  authors: [ { name: 'Joris Hermans', id: 'string' } ],
+  seller: [ { name: 'Packt Publishing', id: 'string' } ],
+  reviews: 
+   [ { reviewerName: 'Srikanth',
+       reviewerRating: '3.5',
+       reviewerRatingOutof: '5',
+       feedback: 'Good books to Learn',
+       date: '3rd April' } ] }
+2017-04-03T13:42:19.150Z - info: routes/bookRoutes.js : 71 Updated books ::::  {"title":"Mastering Node.js","id":"2c252da4-9090-4728-b28b-e86c2c1e5282","description":"You will then learn to create your first Node.js application and also create a command line tool for Node.js. Learn how Node.js is working so you can use that knowledge in your advance. A deep understand how to use the node.js api’s to build enterprise grade applications.","tags":[],"generes":["IT"],"publicationYear":"2017","publisher":"Packt Publishing","bookCower":"/images/id","price":"1200","delivaryCharges":"100","pages":"150","authors":[{"name":"Joris Hermans","id":"string"}],"seller":[{"name":"Packt Publishing","id":"string"}],"reviews":[{"reviewerName":"Srikanth","reviewerRating":"3.5","reviewerRatingOutof":"5","feedback":"Good books to Learn","date":"3rd April"}]}
+2017-04-03T13:42:19.152Z - info: routes/bookRoutes.js : 75 scheemaResult :-  { success: false,
+  error: 'Error: JSON object property \'publicationYear\' is a string when it should be a number' }
+2017-04-03T13:42:19.152Z - error: routes/bookRoutes.js : 80 something went wrong with scheema please check Error and proceed  'Error: JSON object property \'publicationYear\' is a string when it should be a number'
+2017-04-03T13:42:19.152Z - info: routes/bookRoutes.js : 83 adding new data to json 
+2017-04-03T13:42:19.154Z - info: routes/bookRoutes.js : 93 seding new data to responce.
+2017-04-03T13:42:20.117Z - info: index.js : 18 App Started
+2017-04-03T13:42:20.119Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T13:43:34.436Z - info: routes/bookRoutes.js : 58 POST /book
+2017-04-03T13:43:34.442Z - info: routes/bookRoutes.js : 68 Adding New book { title: 'Mastering Node.js',
+  id: 'string',
+  description: 'You will then learn to create your first Node.js application and also create a command line tool for Node.js. Learn how Node.js is working so you can use that knowledge in your advance. A deep understand how to use the node.js api’s to build enterprise grade applications.',
+  tags: [],
+  generes: [ 'IT' ],
+  publicationYear: 2017,
+  publisher: 'Packt Publishing',
+  bookCower: '/images/id',
+  price: 1205,
+  delivaryCharges: 100,
+  pages: 150,
+  authors: [ { name: 'Joris Hermans', id: 'string' } ],
+  seller: [ { name: 'Packt Publishing', id: 'string' } ],
+  reviews: 
+   [ { reviewerName: 'Srikanth',
+       reviewerRating: 3.5,
+       reviewerRatingOutof: 5,
+       feedback: 'Good books to Learn',
+       date: '3rd April' } ] }
+2017-04-03T13:43:34.443Z - info: routes/bookRoutes.js : 71 Updated books ::::  {"title":"Mastering Node.js","id":"69d54661-7e22-4d06-b356-ac51556f7d68","description":"You will then learn to create your first Node.js application and also create a command line tool for Node.js. Learn how Node.js is working so you can use that knowledge in your advance. A deep understand how to use the node.js api’s to build enterprise grade applications.","tags":[],"generes":["IT"],"publicationYear":2017,"publisher":"Packt Publishing","bookCower":"/images/id","price":1205,"delivaryCharges":100,"pages":150,"authors":[{"name":"Joris Hermans","id":"string"}],"seller":[{"name":"Packt Publishing","id":"string"}],"reviews":[{"reviewerName":"Srikanth","reviewerRating":3.5,"reviewerRatingOutof":5,"feedback":"Good books to Learn","date":"3rd April"}]}
+2017-04-03T13:43:34.446Z - info: routes/bookRoutes.js : 75 scheemaResult :-  { success: true,
+  data: 
+   { title: 'Mastering Node.js',
+     id: '69d54661-7e22-4d06-b356-ac51556f7d68',
+     description: 'You will then learn to create your first Node.js application and also create a command line tool for Node.js. Learn how Node.js is working so you can use that knowledge in your advance. A deep understand how to use the node.js api’s to build enterprise grade applications.',
+     tags: [],
+     generes: [ 'IT' ],
+     publicationYear: 2017,
+     publisher: 'Packt Publishing',
+     bookCower: '/images/id',
+     price: 1205,
+     delivaryCharges: 100,
+     pages: 150,
+     authors: [ [Object] ],
+     seller: [ [Object] ],
+     reviews: [ [Object] ] } }
+2017-04-03T13:43:34.446Z - info: routes/bookRoutes.js : 77 success in validating scheema can proceed write to json
+2017-04-03T13:43:34.446Z - info: routes/bookRoutes.js : 83 adding new data to json 
+2017-04-03T13:43:34.448Z - info: routes/bookRoutes.js : 93 seding new data to responce.
+2017-04-03T13:43:34.941Z - info: index.js : 18 App Started
+2017-04-03T13:43:34.943Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T13:47:30.158Z - info: routes/bookRoutes.js : 58 POST /book
+2017-04-03T13:47:30.164Z - info: routes/bookRoutes.js : 68 Adding New book { title: 'Learning Node.js, Second Edition',
+  id: 'string',
+  description: 'He is the author of the book Learning Node.js (Addison-Wesley) and the video courses Learning AngularJS and Learning Node.js LiveLessons. In this video training, Marc starts by introducing Node.js, installing, and running it. Learning Node.js, Second Edition A clear, practical introduction to the important new web development technology for creating web server applications in JavaScript Description Learning Node.js LiveLessons provides developers with a practical introduction to Node.js, an important platform for developing web and network applications.',
+  tags: [],
+  generes: [ 'IT' ],
+  publicationYear: 2016,
+  publisher: 'Packt Publishing',
+  bookCower: '/images/id',
+  price: 125,
+  delivaryCharges: 50,
+  pages: 150,
+  authors: [ { name: 'Marc Wandschneider', id: 'string' } ],
+  seller: [ { name: 'Packt Publishing', id: 'string' } ],
+  reviews: 
+   [ { reviewerName: 'Srikanth',
+       reviewerRating: 3.5,
+       reviewerRatingOutof: 5,
+       feedback: 'Good books to Learn',
+       date: '3rd April' } ] }
+2017-04-03T13:47:30.165Z - info: routes/bookRoutes.js : 71 Updated books ::::  {"title":"Learning Node.js, Second Edition","id":"65cb9776-fc8d-4bf6-9de1-6d87bd392ec6","description":"He is the author of the book Learning Node.js (Addison-Wesley) and the video courses Learning AngularJS and Learning Node.js LiveLessons. In this video training, Marc starts by introducing Node.js, installing, and running it. Learning Node.js, Second Edition A clear, practical introduction to the important new web development technology for creating web server applications in JavaScript Description Learning Node.js LiveLessons provides developers with a practical introduction to Node.js, an important platform for developing web and network applications.","tags":[],"generes":["IT"],"publicationYear":2016,"publisher":"Packt Publishing","bookCower":"/images/id","price":125,"delivaryCharges":50,"pages":150,"authors":[{"name":"Marc Wandschneider","id":"string"}],"seller":[{"name":"Packt Publishing","id":"string"}],"reviews":[{"reviewerName":"Srikanth","reviewerRating":3.5,"reviewerRatingOutof":5,"feedback":"Good books to Learn","date":"3rd April"}]}
+2017-04-03T13:47:30.168Z - info: routes/bookRoutes.js : 75 scheemaResult :-  { success: true,
+  data: 
+   { title: 'Learning Node.js, Second Edition',
+     id: '65cb9776-fc8d-4bf6-9de1-6d87bd392ec6',
+     description: 'He is the author of the book Learning Node.js (Addison-Wesley) and the video courses Learning AngularJS and Learning Node.js LiveLessons. In this video training, Marc starts by introducing Node.js, installing, and running it. Learning Node.js, Second Edition A clear, practical introduction to the important new web development technology for creating web server applications in JavaScript Description Learning Node.js LiveLessons provides developers with a practical introduction to Node.js, an important platform for developing web and network applications.',
+     tags: [],
+     generes: [ 'IT' ],
+     publicationYear: 2016,
+     publisher: 'Packt Publishing',
+     bookCower: '/images/id',
+     price: 125,
+     delivaryCharges: 50,
+     pages: 150,
+     authors: [ [Object] ],
+     seller: [ [Object] ],
+     reviews: [ [Object] ] } }
+2017-04-03T13:47:30.168Z - info: routes/bookRoutes.js : 77 success in validating scheema can proceed write to json
+2017-04-03T13:47:30.168Z - info: routes/bookRoutes.js : 83 adding new data to json 
+2017-04-03T13:47:30.170Z - info: routes/bookRoutes.js : 93 seding new data to responce.
+2017-04-03T13:47:30.702Z - info: index.js : 18 App Started
+2017-04-03T13:47:30.705Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T13:50:43.827Z - info: routes/bookRoutes.js : 58 POST /book
+2017-04-03T13:50:43.833Z - info: routes/bookRoutes.js : 68 Adding New book { title: 'JavaScript Design Patterns 20 Patterns for Advancing Your JavaScript Skills',
+  id: 'string',
+  description: 'With the knowledge delivered throughout the course, developers will come away from JavaScript Design Patterns 20 Patterns for Advancing Your JavaScript Skills armed with a powerful arsenal for solving a wide array of different JavaScript programming problems.JavaScript Design Patterns 20 Patterns for Advancing Your JavaScript Skills will immerse you in the world of intelligent JavaScript programming, demonstrating to Web developers how to mobilize design patterns and presenting key programming concepts and common solutions to frequently occurring programming problems. Dive deep into JavaScript design patterns to write intelligent, pragmatic code for a wide array of real-world programming situations About This Video A deep exploration of 20 JavaScript design patterns Understand how to adopt and apply design patterns to a wide range of real world development scenarios Definitive coverage of the Creational, Structural, and Behavioral pattern types Take your JavaScript programming to an advanced level by understanding design patterns in depth.',
+  tags: [],
+  generes: [ 'IT' ],
+  publicationYear: 2015,
+  publisher: 'Packt Publishing',
+  bookCower: '/images/id',
+  price: 127,
+  delivaryCharges: 40,
+  pages: 150,
+  authors: [ { name: 'Ben Fhala', id: 'string' } ],
+  seller: [ { name: 'Packt Publishing', id: 'string' } ],
+  reviews: 
+   [ { reviewerName: 'Kanth',
+       reviewerRating: 4.5,
+       reviewerRatingOutof: 5,
+       feedback: 'Good books to Learn',
+       date: '3rd April' } ] }
+2017-04-03T13:50:43.834Z - info: routes/bookRoutes.js : 71 Updated books ::::  {"title":"JavaScript Design Patterns 20 Patterns for Advancing Your JavaScript Skills","id":"8457500d-24b3-4eb3-a678-ac1abdbc49b9","description":"With the knowledge delivered throughout the course, developers will come away from JavaScript Design Patterns 20 Patterns for Advancing Your JavaScript Skills armed with a powerful arsenal for solving a wide array of different JavaScript programming problems.JavaScript Design Patterns 20 Patterns for Advancing Your JavaScript Skills will immerse you in the world of intelligent JavaScript programming, demonstrating to Web developers how to mobilize design patterns and presenting key programming concepts and common solutions to frequently occurring programming problems. Dive deep into JavaScript design patterns to write intelligent, pragmatic code for a wide array of real-world programming situations About This Video A deep exploration of 20 JavaScript design patterns Understand how to adopt and apply design patterns to a wide range of real world development scenarios Definitive coverage of the Creational, Structural, and Behavioral pattern types Take your JavaScript programming to an advanced level by understanding design patterns in depth.","tags":[],"generes":["IT"],"publicationYear":2015,"publisher":"Packt Publishing","bookCower":"/images/id","price":127,"delivaryCharges":40,"pages":150,"authors":[{"name":"Ben Fhala","id":"string"}],"seller":[{"name":"Packt Publishing","id":"string"}],"reviews":[{"reviewerName":"Kanth","reviewerRating":4.5,"reviewerRatingOutof":5,"feedback":"Good books to Learn","date":"3rd April"}]}
+2017-04-03T13:50:43.836Z - info: routes/bookRoutes.js : 75 scheemaResult :-  { success: true,
+  data: 
+   { title: 'JavaScript Design Patterns 20 Patterns for Advancing Your JavaScript Skills',
+     id: '8457500d-24b3-4eb3-a678-ac1abdbc49b9',
+     description: 'With the knowledge delivered throughout the course, developers will come away from JavaScript Design Patterns 20 Patterns for Advancing Your JavaScript Skills armed with a powerful arsenal for solving a wide array of different JavaScript programming problems.JavaScript Design Patterns 20 Patterns for Advancing Your JavaScript Skills will immerse you in the world of intelligent JavaScript programming, demonstrating to Web developers how to mobilize design patterns and presenting key programming concepts and common solutions to frequently occurring programming problems. Dive deep into JavaScript design patterns to write intelligent, pragmatic code for a wide array of real-world programming situations About This Video A deep exploration of 20 JavaScript design patterns Understand how to adopt and apply design patterns to a wide range of real world development scenarios Definitive coverage of the Creational, Structural, and Behavioral pattern types Take your JavaScript programming to an advanced level by understanding design patterns in depth.',
+     tags: [],
+     generes: [ 'IT' ],
+     publicationYear: 2015,
+     publisher: 'Packt Publishing',
+     bookCower: '/images/id',
+     price: 127,
+     delivaryCharges: 40,
+     pages: 150,
+     authors: [ [Object] ],
+     seller: [ [Object] ],
+     reviews: [ [Object] ] } }
+2017-04-03T13:50:43.837Z - info: routes/bookRoutes.js : 77 success in validating scheema can proceed write to json
+2017-04-03T13:50:43.837Z - info: routes/bookRoutes.js : 83 adding new data to json 
+2017-04-03T13:50:43.839Z - info: routes/bookRoutes.js : 93 seding new data to responce.
+2017-04-03T13:50:44.772Z - info: index.js : 18 App Started
+2017-04-03T13:50:44.774Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T13:54:32.494Z - info: routes/bookRoutes.js : 58 POST /book
+2017-04-03T13:54:32.502Z - info: routes/bookRoutes.js : 68 Adding New book { title: 'avaScript: Functional Programming for JavaScript Developers',
+  id: 'string',
+  description: 'JavaScript is a high-level, dynamic, untyped, lightweight, and interpreted programming language and functional programming is a style that emphasizes and enables smarter code that minimizes complexity and increases modularity. It\'s a way of writing cleaner code through clever ways of mutating, combining, and using functions. And JavaScript provides an excellent medium for this approach. By learning how to expose JavaScript\'s true identity as a functional language, we can implement web apps that are more powerful, easier to maintain and more reliable. The java script: Functional Programming for JavaScript Developers course will take you on a journey to show how functional programming when combined with other techniques makes JavaScript programming more efficient. The first module Mastering JavaScript, stress on practical aspects of Javascript development like-Functions and Closures, Runtime debugging techniques, project layout, events and DOM processing, build tools, Object-oriented patterns, isomorphism-everything that a modern Javascript project would need.',
+  tags: [],
+  generes: [ 'IT' ],
+  publicationYear: 2016,
+  publisher: 'Packt Publishing',
+  bookCower: '/images/id',
+  price: 127,
+  delivaryCharges: 40,
+  pages: 150,
+  authors: 
+   [ { name: 'Dan Mantyla', id: 'string' },
+     { name: 'Simon Timms', id: 'string' },
+     { name: 'Ved Antani', id: 'string' } ],
+  seller: [ { name: 'Packt Publishing', id: 'string' } ],
+  reviews: 
+   [ { reviewerName: 'Kanth',
+       reviewerRating: 4.5,
+       reviewerRatingOutof: 5,
+       feedback: 'Good books to Learn',
+       date: '3rd April' } ] }
+2017-04-03T13:54:32.503Z - info: routes/bookRoutes.js : 71 Updated books ::::  {"title":"avaScript: Functional Programming for JavaScript Developers","id":"9e182efc-6855-4e66-b5f2-e7d6efeeea8c","description":"JavaScript is a high-level, dynamic, untyped, lightweight, and interpreted programming language and functional programming is a style that emphasizes and enables smarter code that minimizes complexity and increases modularity. It's a way of writing cleaner code through clever ways of mutating, combining, and using functions. And JavaScript provides an excellent medium for this approach. By learning how to expose JavaScript's true identity as a functional language, we can implement web apps that are more powerful, easier to maintain and more reliable. The java script: Functional Programming for JavaScript Developers course will take you on a journey to show how functional programming when combined with other techniques makes JavaScript programming more efficient. The first module Mastering JavaScript, stress on practical aspects of Javascript development like-Functions and Closures, Runtime debugging techniques, project layout, events and DOM processing, build tools, Object-oriented patterns, isomorphism-everything that a modern Javascript project would need.","tags":[],"generes":["IT"],"publicationYear":2016,"publisher":"Packt Publishing","bookCower":"/images/id","price":127,"delivaryCharges":40,"pages":150,"authors":[{"name":"Dan Mantyla","id":"string"},{"name":"Simon Timms","id":"string"},{"name":"Ved Antani","id":"string"}],"seller":[{"name":"Packt Publishing","id":"string"}],"reviews":[{"reviewerName":"Kanth","reviewerRating":4.5,"reviewerRatingOutof":5,"feedback":"Good books to Learn","date":"3rd April"}]}
+2017-04-03T13:54:32.507Z - info: routes/bookRoutes.js : 75 scheemaResult :-  { success: true,
+  data: 
+   { title: 'avaScript: Functional Programming for JavaScript Developers',
+     id: '9e182efc-6855-4e66-b5f2-e7d6efeeea8c',
+     description: 'JavaScript is a high-level, dynamic, untyped, lightweight, and interpreted programming language and functional programming is a style that emphasizes and enables smarter code that minimizes complexity and increases modularity. It\'s a way of writing cleaner code through clever ways of mutating, combining, and using functions. And JavaScript provides an excellent medium for this approach. By learning how to expose JavaScript\'s true identity as a functional language, we can implement web apps that are more powerful, easier to maintain and more reliable. The java script: Functional Programming for JavaScript Developers course will take you on a journey to show how functional programming when combined with other techniques makes JavaScript programming more efficient. The first module Mastering JavaScript, stress on practical aspects of Javascript development like-Functions and Closures, Runtime debugging techniques, project layout, events and DOM processing, build tools, Object-oriented patterns, isomorphism-everything that a modern Javascript project would need.',
+     tags: [],
+     generes: [ 'IT' ],
+     publicationYear: 2016,
+     publisher: 'Packt Publishing',
+     bookCower: '/images/id',
+     price: 127,
+     delivaryCharges: 40,
+     pages: 150,
+     authors: [ [Object], [Object], [Object] ],
+     seller: [ [Object] ],
+     reviews: [ [Object] ] } }
+2017-04-03T13:54:32.507Z - info: routes/bookRoutes.js : 77 success in validating scheema can proceed write to json
+2017-04-03T13:54:32.507Z - info: routes/bookRoutes.js : 83 adding new data to json 
+2017-04-03T13:54:32.510Z - info: routes/bookRoutes.js : 93 seding new data to responce.
+2017-04-03T13:54:33.454Z - info: index.js : 18 App Started
+2017-04-03T13:54:33.455Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T13:58:04.469Z - info: routes/bookRoutes.js : 58 POST /book
+2017-04-03T13:58:04.475Z - info: routes/bookRoutes.js : 68 Adding New book { title: 'Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript',
+  id: 'string',
+  description: 'ffective JavaScript is organized around 68 proven approaches for writing better JavaScript, backed by concrete examples. No matter how long you’ve been writing JavaScript code, Effective JavaScript will help deepen your understanding of this powerful language, so you can build more predictable, reliable, and maintainable programs. Author David Herman, with his years of experience on Ecma’s JavaScript standardization committee, illuminates the language’s inner workings as never before—helping you take full advantage of JavaScript’s expressiveness.',
+  tags: [],
+  generes: [ 'IT' ],
+  publicationYear: 2012,
+  publisher: 'Addison-Wesley Professional',
+  bookCower: '/images/id',
+  price: 227,
+  delivaryCharges: 40,
+  pages: 550,
+  authors: [ { name: 'David Herman', id: 'string' } ],
+  seller: [ { name: 'Packt Publishing', id: 'string' } ],
+  reviews: 
+   [ { reviewerName: 'Kanth',
+       reviewerRating: 4.5,
+       reviewerRatingOutof: 5,
+       feedback: 'Good books to Learn',
+       date: '3rd April' } ] }
+2017-04-03T13:58:04.476Z - info: routes/bookRoutes.js : 71 Updated books ::::  {"title":"Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript","id":"37b5afe8-8bb3-4d46-a2f1-588e5952dc35","description":"ffective JavaScript is organized around 68 proven approaches for writing better JavaScript, backed by concrete examples. No matter how long you’ve been writing JavaScript code, Effective JavaScript will help deepen your understanding of this powerful language, so you can build more predictable, reliable, and maintainable programs. Author David Herman, with his years of experience on Ecma’s JavaScript standardization committee, illuminates the language’s inner workings as never before—helping you take full advantage of JavaScript’s expressiveness.","tags":[],"generes":["IT"],"publicationYear":2012,"publisher":"Addison-Wesley Professional","bookCower":"/images/id","price":227,"delivaryCharges":40,"pages":550,"authors":[{"name":"David Herman","id":"string"}],"seller":[{"name":"Packt Publishing","id":"string"}],"reviews":[{"reviewerName":"Kanth","reviewerRating":4.5,"reviewerRatingOutof":5,"feedback":"Good books to Learn","date":"3rd April"}]}
+2017-04-03T13:58:04.479Z - info: routes/bookRoutes.js : 75 scheemaResult :-  { success: true,
+  data: 
+   { title: 'Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript',
+     id: '37b5afe8-8bb3-4d46-a2f1-588e5952dc35',
+     description: 'ffective JavaScript is organized around 68 proven approaches for writing better JavaScript, backed by concrete examples. No matter how long you’ve been writing JavaScript code, Effective JavaScript will help deepen your understanding of this powerful language, so you can build more predictable, reliable, and maintainable programs. Author David Herman, with his years of experience on Ecma’s JavaScript standardization committee, illuminates the language’s inner workings as never before—helping you take full advantage of JavaScript’s expressiveness.',
+     tags: [],
+     generes: [ 'IT' ],
+     publicationYear: 2012,
+     publisher: 'Addison-Wesley Professional',
+     bookCower: '/images/id',
+     price: 227,
+     delivaryCharges: 40,
+     pages: 550,
+     authors: [ [Object] ],
+     seller: [ [Object] ],
+     reviews: [ [Object] ] } }
+2017-04-03T13:58:04.479Z - info: routes/bookRoutes.js : 77 success in validating scheema can proceed write to json
+2017-04-03T13:58:04.480Z - info: routes/bookRoutes.js : 83 adding new data to json 
+2017-04-03T13:58:04.481Z - info: routes/bookRoutes.js : 93 seding new data to responce.
+2017-04-03T13:58:05.399Z - info: index.js : 18 App Started
+2017-04-03T13:58:05.400Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T14:00:05.167Z - info: routes/bookRoutes.js : 58 POST /book
+2017-04-03T14:00:05.173Z - info: routes/bookRoutes.js : 68 Adding New book { title: 'Reactive JavaScript Programming',
+  id: 'string',
+  description: 'Change the way you code: become efficient and up-to-date with an in depth coverage of Reactive JavaScript programming techniques About This Video Handle an infinite stream of incoming data using RxJs Explore the important RxJs operator Get acquainted with operators In Detail This video is a combination of the following three aspects: Introduction to Reactive Programming + Rx in Depth.',
+  tags: [],
+  generes: [ 'IT' ],
+  publicationYear: 2017,
+  publisher: 'Addison-Wesley Professional',
+  bookCower: '/images/id',
+  price: 227,
+  delivaryCharges: 40,
+  pages: 550,
+  authors: [ { name: 'Shriyans Bhatnagar', id: 'string' } ],
+  seller: [ { name: 'Packt Publishing', id: 'string' } ],
+  reviews: 
+   [ { reviewerName: 'Kanth',
+       reviewerRating: 4.5,
+       reviewerRatingOutof: 5,
+       feedback: 'Good books to Learn',
+       date: '3rd April' } ] }
+2017-04-03T14:00:05.174Z - info: routes/bookRoutes.js : 71 Updated books ::::  {"title":"Reactive JavaScript Programming","id":"7b6b19f5-5c7d-4106-a8db-44aff7431d35","description":"Change the way you code: become efficient and up-to-date with an in depth coverage of Reactive JavaScript programming techniques About This Video Handle an infinite stream of incoming data using RxJs Explore the important RxJs operator Get acquainted with operators In Detail This video is a combination of the following three aspects: Introduction to Reactive Programming + Rx in Depth.","tags":[],"generes":["IT"],"publicationYear":2017,"publisher":"Addison-Wesley Professional","bookCower":"/images/id","price":227,"delivaryCharges":40,"pages":550,"authors":[{"name":"Shriyans Bhatnagar","id":"string"}],"seller":[{"name":"Packt Publishing","id":"string"}],"reviews":[{"reviewerName":"Kanth","reviewerRating":4.5,"reviewerRatingOutof":5,"feedback":"Good books to Learn","date":"3rd April"}]}
+2017-04-03T14:00:05.177Z - info: routes/bookRoutes.js : 75 scheemaResult :-  { success: true,
+  data: 
+   { title: 'Reactive JavaScript Programming',
+     id: '7b6b19f5-5c7d-4106-a8db-44aff7431d35',
+     description: 'Change the way you code: become efficient and up-to-date with an in depth coverage of Reactive JavaScript programming techniques About This Video Handle an infinite stream of incoming data using RxJs Explore the important RxJs operator Get acquainted with operators In Detail This video is a combination of the following three aspects: Introduction to Reactive Programming + Rx in Depth.',
+     tags: [],
+     generes: [ 'IT' ],
+     publicationYear: 2017,
+     publisher: 'Addison-Wesley Professional',
+     bookCower: '/images/id',
+     price: 227,
+     delivaryCharges: 40,
+     pages: 550,
+     authors: [ [Object] ],
+     seller: [ [Object] ],
+     reviews: [ [Object] ] } }
+2017-04-03T14:00:05.177Z - info: routes/bookRoutes.js : 77 success in validating scheema can proceed write to json
+2017-04-03T14:00:05.177Z - info: routes/bookRoutes.js : 83 adding new data to json 
+2017-04-03T14:00:05.179Z - info: routes/bookRoutes.js : 93 seding new data to responce.
+2017-04-03T14:00:06.148Z - info: index.js : 18 App Started
+2017-04-03T14:00:06.151Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T14:02:44.454Z - info: routes/bookRoutes.js : 58 POST /book
+2017-04-03T14:02:44.460Z - info: routes/bookRoutes.js : 68 Adding New book { title: 'Learning JavaScript: A Hands-On Guide to the Fundamentals of Modern JavaScript',
+  id: 'string',
+  description: 'Get Started Fast with  Modern JavaScript Web Development! ... Smart, friendly, enthusiastic, and packed with modern examples, Learning JavaScript covers both design-level and development-level JavaScript. This complete, hands-on JavaScript tutorial covers everything you need to know now. ',
+  tags: [],
+  generes: [ 'IT' ],
+  publicationYear: 2012,
+  publisher: 'Addison-Wesley Professional',
+  bookCower: '/images/id',
+  price: 227,
+  delivaryCharges: 40,
+  pages: 550,
+  authors: [ { name: 'Tim Wright', id: 'string' } ],
+  seller: [ { name: 'Addison-Wesley Professional', id: 'string' } ],
+  reviews: 
+   [ { reviewerName: 'Kanth',
+       reviewerRating: 4.5,
+       reviewerRatingOutof: 5,
+       feedback: 'Good books to Learn',
+       date: '3rd April' } ] }
+2017-04-03T14:02:44.462Z - info: routes/bookRoutes.js : 71 Updated books ::::  {"title":"Learning JavaScript: A Hands-On Guide to the Fundamentals of Modern JavaScript","id":"16c7ea63-4e6d-4dbb-8969-e91d956243ef","description":"Get Started Fast with  Modern JavaScript Web Development! ... Smart, friendly, enthusiastic, and packed with modern examples, Learning JavaScript covers both design-level and development-level JavaScript. This complete, hands-on JavaScript tutorial covers everything you need to know now. ","tags":[],"generes":["IT"],"publicationYear":2012,"publisher":"Addison-Wesley Professional","bookCower":"/images/id","price":227,"delivaryCharges":40,"pages":550,"authors":[{"name":"Tim Wright","id":"string"}],"seller":[{"name":"Addison-Wesley Professional","id":"string"}],"reviews":[{"reviewerName":"Kanth","reviewerRating":4.5,"reviewerRatingOutof":5,"feedback":"Good books to Learn","date":"3rd April"}]}
+2017-04-03T14:02:44.464Z - info: routes/bookRoutes.js : 75 scheemaResult :-  { success: true,
+  data: 
+   { title: 'Learning JavaScript: A Hands-On Guide to the Fundamentals of Modern JavaScript',
+     id: '16c7ea63-4e6d-4dbb-8969-e91d956243ef',
+     description: 'Get Started Fast with  Modern JavaScript Web Development! ... Smart, friendly, enthusiastic, and packed with modern examples, Learning JavaScript covers both design-level and development-level JavaScript. This complete, hands-on JavaScript tutorial covers everything you need to know now. ',
+     tags: [],
+     generes: [ 'IT' ],
+     publicationYear: 2012,
+     publisher: 'Addison-Wesley Professional',
+     bookCower: '/images/id',
+     price: 227,
+     delivaryCharges: 40,
+     pages: 550,
+     authors: [ [Object] ],
+     seller: [ [Object] ],
+     reviews: [ [Object] ] } }
+2017-04-03T14:02:44.465Z - info: routes/bookRoutes.js : 77 success in validating scheema can proceed write to json
+2017-04-03T14:02:44.465Z - info: routes/bookRoutes.js : 83 adding new data to json 
+2017-04-03T14:02:44.467Z - info: routes/bookRoutes.js : 93 seding new data to responce.
+2017-04-03T14:02:44.894Z - info: index.js : 18 App Started
+2017-04-03T14:02:44.896Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T14:37:10.405Z - info: routes/bookRoutes.js : 58 POST /book
+2017-04-03T14:37:10.411Z - info: routes/bookRoutes.js : 68 Adding New book { title: 'A Case Study in Simulating IoT Innovation for Prescriptive Modeling Applications',
+  id: 'string',
+  description: 'In this video, we’ll cover how to simulate the Internet of Things, with the goal of building a greener home. We’ll start with a short review of the 5-step process that forms the logic of simulating innovations. From there, we explore how to simulate the connections between things, and discover smarter ways to achieve, for example, lower energy consumption--and how to actually simulate a business model based on this idea.',
+  tags: 
+   [ 'The Logic of Simulation: In a Nutshell',
+     'Simulating IoT. How to Build Greener Homes' ],
+  generes: [ 'IT' ],
+  publicationYear: 2017,
+  publisher: 'O\'Reilly Media, Inc.',
+  bookCower: '/images/id',
+  price: 227,
+  delivaryCharges: 40,
+  pages: 550,
+  authors: [ { name: 'Jerry Overton', id: 'string' } ],
+  seller: [ { name: 'O\'Reilly Media, Inc.', id: 'string' } ],
+  reviews: 
+   [ { reviewerName: 'Srikanth',
+       reviewerRating: 4.5,
+       reviewerRatingOutof: 5,
+       feedback: 'Good books to Learn',
+       date: '3rd April' } ] }
+2017-04-03T14:37:10.412Z - info: routes/bookRoutes.js : 71 Updated books ::::  {"title":"A Case Study in Simulating IoT Innovation for Prescriptive Modeling Applications","id":"d12f58dc-eead-4c42-a9ab-30963466fa15","description":"In this video, we’ll cover how to simulate the Internet of Things, with the goal of building a greener home. We’ll start with a short review of the 5-step process that forms the logic of simulating innovations. From there, we explore how to simulate the connections between things, and discover smarter ways to achieve, for example, lower energy consumption--and how to actually simulate a business model based on this idea.","tags":["The Logic of Simulation: In a Nutshell","Simulating IoT. How to Build Greener Homes"],"generes":["IT"],"publicationYear":2017,"publisher":"O'Reilly Media, Inc.","bookCower":"/images/id","price":227,"delivaryCharges":40,"pages":550,"authors":[{"name":"Jerry Overton","id":"string"}],"seller":[{"name":"O'Reilly Media, Inc.","id":"string"}],"reviews":[{"reviewerName":"Srikanth","reviewerRating":4.5,"reviewerRatingOutof":5,"feedback":"Good books to Learn","date":"3rd April"}]}
+2017-04-03T14:37:10.415Z - info: routes/bookRoutes.js : 75 scheemaResult :-  { success: true,
+  data: 
+   { title: 'A Case Study in Simulating IoT Innovation for Prescriptive Modeling Applications',
+     id: 'd12f58dc-eead-4c42-a9ab-30963466fa15',
+     description: 'In this video, we’ll cover how to simulate the Internet of Things, with the goal of building a greener home. We’ll start with a short review of the 5-step process that forms the logic of simulating innovations. From there, we explore how to simulate the connections between things, and discover smarter ways to achieve, for example, lower energy consumption--and how to actually simulate a business model based on this idea.',
+     tags: 
+      [ 'The Logic of Simulation: In a Nutshell',
+        'Simulating IoT. How to Build Greener Homes' ],
+     generes: [ 'IT' ],
+     publicationYear: 2017,
+     publisher: 'O\'Reilly Media, Inc.',
+     bookCower: '/images/id',
+     price: 227,
+     delivaryCharges: 40,
+     pages: 550,
+     authors: [ [Object] ],
+     seller: [ [Object] ],
+     reviews: [ [Object] ] } }
+2017-04-03T14:37:10.415Z - info: routes/bookRoutes.js : 77 success in validating scheema can proceed write to json
+2017-04-03T14:37:10.415Z - info: routes/bookRoutes.js : 83 adding new data to json 
+2017-04-03T14:37:10.417Z - info: routes/bookRoutes.js : 93 seding new data to responce.
+2017-04-03T14:37:11.327Z - info: index.js : 18 App Started
+2017-04-03T14:37:11.329Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T14:44:42.915Z - info: routes/bookRoutes.js : 58 POST /book
+2017-04-03T14:44:42.920Z - info: routes/bookRoutes.js : 68 Adding New book { title: 'Introduction to the ESP8266 and the IoT',
+  id: 'string',
+  description: 'This course demonstrates how to design, build and deploy WiFI connected IoT devices. It introduces you to a low cost ESP8266 IoT computer, shows you how to configure the ESP8266 using the Arduino IDE (integrated development environment), explains the Grove \'no-soldering-required\' prototyping system, and leads you through two start-to-finish IoT projects. Designed for learners with a very basic understanding of programming, electronic components (resistors, switches, etc.), and the interconnection between servers and browsers, this course requires the following IoT hardware and software: Arduino IDE, ESP8266 SDK, the Adafruit Huzzah, an FTDI Cable, and a set of Grove prototyping devices. Each requirement is explained at the beginning of the course.',
+  tags: 
+   [ 'Introduction',
+     'Hardware and Software',
+     'Building a Web Server',
+     'Prototyping IoT Devices',
+     'MQTT',
+     'Conclusion' ],
+  generes: [ 'Raspberry Pi' ],
+  publicationYear: 2017,
+  publisher: 'O\'Reilly Media, Inc.',
+  bookCower: '/images/id',
+  price: 227,
+  delivaryCharges: 40,
+  pages: 550,
+  authors: [ { name: 'John C Shovic', id: 'string' } ],
+  seller: [ { name: 'O\'Reilly Media, Inc.', id: 'string' } ],
+  reviews: 
+   [ { reviewerName: 'Srikanth',
+       reviewerRating: 4.5,
+       reviewerRatingOutof: 5,
+       feedback: 'Good books to Learn',
+       date: '3rd April' } ] }
+2017-04-03T14:44:42.921Z - info: routes/bookRoutes.js : 71 Updated books ::::  {"title":"Introduction to the ESP8266 and the IoT","id":"b68ce062-7406-4627-ade8-4b7cd2cdf232","description":"This course demonstrates how to design, build and deploy WiFI connected IoT devices. It introduces you to a low cost ESP8266 IoT computer, shows you how to configure the ESP8266 using the Arduino IDE (integrated development environment), explains the Grove 'no-soldering-required' prototyping system, and leads you through two start-to-finish IoT projects. Designed for learners with a very basic understanding of programming, electronic components (resistors, switches, etc.), and the interconnection between servers and browsers, this course requires the following IoT hardware and software: Arduino IDE, ESP8266 SDK, the Adafruit Huzzah, an FTDI Cable, and a set of Grove prototyping devices. Each requirement is explained at the beginning of the course.","tags":["Introduction","Hardware and Software","Building a Web Server","Prototyping IoT Devices","MQTT","Conclusion"],"generes":["Raspberry Pi"],"publicationYear":2017,"publisher":"O'Reilly Media, Inc.","bookCower":"/images/id","price":227,"delivaryCharges":40,"pages":550,"authors":[{"name":"John C Shovic","id":"string"}],"seller":[{"name":"O'Reilly Media, Inc.","id":"string"}],"reviews":[{"reviewerName":"Srikanth","reviewerRating":4.5,"reviewerRatingOutof":5,"feedback":"Good books to Learn","date":"3rd April"}]}
+2017-04-03T14:44:42.923Z - info: routes/bookRoutes.js : 75 scheemaResult :-  { success: true,
+  data: 
+   { title: 'Introduction to the ESP8266 and the IoT',
+     id: 'b68ce062-7406-4627-ade8-4b7cd2cdf232',
+     description: 'This course demonstrates how to design, build and deploy WiFI connected IoT devices. It introduces you to a low cost ESP8266 IoT computer, shows you how to configure the ESP8266 using the Arduino IDE (integrated development environment), explains the Grove \'no-soldering-required\' prototyping system, and leads you through two start-to-finish IoT projects. Designed for learners with a very basic understanding of programming, electronic components (resistors, switches, etc.), and the interconnection between servers and browsers, this course requires the following IoT hardware and software: Arduino IDE, ESP8266 SDK, the Adafruit Huzzah, an FTDI Cable, and a set of Grove prototyping devices. Each requirement is explained at the beginning of the course.',
+     tags: 
+      [ 'Introduction',
+        'Hardware and Software',
+        'Building a Web Server',
+        'Prototyping IoT Devices',
+        'MQTT',
+        'Conclusion' ],
+     generes: [ 'Raspberry Pi' ],
+     publicationYear: 2017,
+     publisher: 'O\'Reilly Media, Inc.',
+     bookCower: '/images/id',
+     price: 227,
+     delivaryCharges: 40,
+     pages: 550,
+     authors: [ [Object] ],
+     seller: [ [Object] ],
+     reviews: [ [Object] ] } }
+2017-04-03T14:44:42.923Z - info: routes/bookRoutes.js : 77 success in validating scheema can proceed write to json
+2017-04-03T14:44:42.923Z - info: routes/bookRoutes.js : 83 adding new data to json 
+2017-04-03T14:44:42.925Z - info: routes/bookRoutes.js : 93 seding new data to responce.
+2017-04-03T14:44:43.362Z - info: index.js : 18 App Started
+2017-04-03T14:44:43.364Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T14:55:25.685Z - info: routes/bookRoutes.js : 58 POST /book
+2017-04-03T14:55:25.692Z - info: routes/bookRoutes.js : 68 Adding New book { title: 'Designing interconnected (IoT) environments',
+  id: 'string',
+  description: 'We spend 90 percent of our lives indoors, in increasingly interconnected environments. Internet-enabled devices creep into the spaces we inhabit, and these devices report back on spatial conditions such as light, radiation, air quality and temperature, count the number of people stopping at retail displays minute by minute, detect intruders and security breaches, monitor locations and track characteristics of equipment and supply chain elements, enable us to open locked doors remotely using our mobile devices, and pass terabytes of data to backend systems that analyze, report, and modify the environments we occupy.',
+  tags: 
+   [ 'The Blur of Interconnected Environments',
+     'Theorizing Digital Culture: New Models of Convergence',
+     'Hybrid Design Practice',
+     'Changing Definitions of Space',
+     'A Framework for Interconnected Environments',
+     'Spheres of Inquiry',
+     'An Exercise in Hybrid Design Practice',
+     'Architecture as Interface',
+     'Conclusion' ],
+  generes: [ 'Interaction Design' ],
+  publicationYear: 2016,
+  publisher: 'O\'Reilly Media, Inc.',
+  bookCower: '/images/id',
+  price: 227,
+  delivaryCharges: 40,
+  pages: 550,
+  authors: 
+   [ { name: 'Jonathan Follett, Erin Rae Hoffer', id: 'string' },
+     { name: 'Erin Rae Hoffer', id: 'string' } ],
+  seller: [ { name: 'O\'Reilly Media, Inc.', id: 'string' } ],
+  reviews: 
+   [ { reviewerName: 'Srikanth',
+       reviewerRating: 4.5,
+       reviewerRatingOutof: 5,
+       feedback: 'Good books to Learn',
+       date: '3rd April' } ] }
+2017-04-03T14:55:25.693Z - info: routes/bookRoutes.js : 71 Updated books ::::  {"title":"Designing interconnected (IoT) environments","id":"411f98fd-ac69-4788-8c0e-e75232252d00","description":"We spend 90 percent of our lives indoors, in increasingly interconnected environments. Internet-enabled devices creep into the spaces we inhabit, and these devices report back on spatial conditions such as light, radiation, air quality and temperature, count the number of people stopping at retail displays minute by minute, detect intruders and security breaches, monitor locations and track characteristics of equipment and supply chain elements, enable us to open locked doors remotely using our mobile devices, and pass terabytes of data to backend systems that analyze, report, and modify the environments we occupy.","tags":["The Blur of Interconnected Environments","Theorizing Digital Culture: New Models of Convergence","Hybrid Design Practice","Changing Definitions of Space","A Framework for Interconnected Environments","Spheres of Inquiry","An Exercise in Hybrid Design Practice","Architecture as Interface","Conclusion"],"generes":["Interaction Design"],"publicationYear":2016,"publisher":"O'Reilly Media, Inc.","bookCower":"/images/id","price":227,"delivaryCharges":40,"pages":550,"authors":[{"name":"Jonathan Follett, Erin Rae Hoffer","id":"string"},{"name":"Erin Rae Hoffer","id":"string"}],"seller":[{"name":"O'Reilly Media, Inc.","id":"string"}],"reviews":[{"reviewerName":"Srikanth","reviewerRating":4.5,"reviewerRatingOutof":5,"feedback":"Good books to Learn","date":"3rd April"}]}
+2017-04-03T14:55:25.697Z - info: routes/bookRoutes.js : 75 scheemaResult :-  { success: true,
+  data: 
+   { title: 'Designing interconnected (IoT) environments',
+     id: '411f98fd-ac69-4788-8c0e-e75232252d00',
+     description: 'We spend 90 percent of our lives indoors, in increasingly interconnected environments. Internet-enabled devices creep into the spaces we inhabit, and these devices report back on spatial conditions such as light, radiation, air quality and temperature, count the number of people stopping at retail displays minute by minute, detect intruders and security breaches, monitor locations and track characteristics of equipment and supply chain elements, enable us to open locked doors remotely using our mobile devices, and pass terabytes of data to backend systems that analyze, report, and modify the environments we occupy.',
+     tags: 
+      [ 'The Blur of Interconnected Environments',
+        'Theorizing Digital Culture: New Models of Convergence',
+        'Hybrid Design Practice',
+        'Changing Definitions of Space',
+        'A Framework for Interconnected Environments',
+        'Spheres of Inquiry',
+        'An Exercise in Hybrid Design Practice',
+        'Architecture as Interface',
+        'Conclusion' ],
+     generes: [ 'Interaction Design' ],
+     publicationYear: 2016,
+     publisher: 'O\'Reilly Media, Inc.',
+     bookCower: '/images/id',
+     price: 227,
+     delivaryCharges: 40,
+     pages: 550,
+     authors: [ [Object], [Object] ],
+     seller: [ [Object] ],
+     reviews: [ [Object] ] } }
+2017-04-03T14:55:25.697Z - info: routes/bookRoutes.js : 77 success in validating scheema can proceed write to json
+2017-04-03T14:55:25.697Z - info: routes/bookRoutes.js : 83 adding new data to json 
+2017-04-03T14:55:25.699Z - info: routes/bookRoutes.js : 93 seding new data to responce.
+2017-04-03T14:55:26.647Z - info: index.js : 18 App Started
+2017-04-03T14:55:26.648Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:01:54.417Z - info: routes/bookRoutes.js : 58 POST /book
+2017-04-03T15:01:54.424Z - info: routes/bookRoutes.js : 68 Adding New book { title: 'Beginning HTML5 Media : Make the most of the new video and audio standards for the Web, Second Edition',
+  id: 'string',
+  description: 'Beginning HTML5 Media, Second Edition is a comprehensive introduction to HTML5 video and audio. The HTML5 video standard enables browsers to support audio and video elements natively. This makes it very easy for web developers to publish audio and video, integrating both within the general presentation of web pages. For example, media elements can be styled using CSS (style sheets), viewed on a mobile device, and manipulated in a Canvas or an audio filter graph. The book offers techniques for providing accessibility to media elements, enabling consistent handling of alternative representations of media resources. The update includes all of the changes and revisions since the first HTML5 draft.',
+  tags: 
+   [ 'Cover',
+     'Encoding Video',
+     'Using and Manipulating HTML5 Video and Audio Elements',
+     'The JavaScript API',
+     'Acknowledgments',
+     '' ],
+  generes: [ 'Interaction Design' ],
+  publicationYear: 2015,
+  publisher: 'O\'Reilly Media, Inc.',
+  bookCower: '/images/id',
+  price: 227,
+  delivaryCharges: 40,
+  pages: 550,
+  authors: 
+   [ { name: 'Tom Green', id: 'string' },
+     { name: 'Silvia Pfeiffer', id: 'string' } ],
+  seller: [ { name: 'O\'Reilly Media, Inc.', id: 'string' } ],
+  reviews: 
+   [ { reviewerName: 'Srikanth',
+       reviewerRating: 4.5,
+       reviewerRatingOutof: 5,
+       feedback: 'Good books to Learn',
+       date: '3rd April' } ] }
+2017-04-03T15:01:54.425Z - info: routes/bookRoutes.js : 71 Updated books ::::  {"title":"Beginning HTML5 Media : Make the most of the new video and audio standards for the Web, Second Edition","id":"c660bfcd-81ae-48a7-9d07-5445a9520e22","description":"Beginning HTML5 Media, Second Edition is a comprehensive introduction to HTML5 video and audio. The HTML5 video standard enables browsers to support audio and video elements natively. This makes it very easy for web developers to publish audio and video, integrating both within the general presentation of web pages. For example, media elements can be styled using CSS (style sheets), viewed on a mobile device, and manipulated in a Canvas or an audio filter graph. The book offers techniques for providing accessibility to media elements, enabling consistent handling of alternative representations of media resources. The update includes all of the changes and revisions since the first HTML5 draft.","tags":["Cover","Encoding Video","Using and Manipulating HTML5 Video and Audio Elements","The JavaScript API","Acknowledgments",""],"generes":["Interaction Design"],"publicationYear":2015,"publisher":"O'Reilly Media, Inc.","bookCower":"/images/id","price":227,"delivaryCharges":40,"pages":550,"authors":[{"name":"Tom Green","id":"string"},{"name":"Silvia Pfeiffer","id":"string"}],"seller":[{"name":"O'Reilly Media, Inc.","id":"string"}],"reviews":[{"reviewerName":"Srikanth","reviewerRating":4.5,"reviewerRatingOutof":5,"feedback":"Good books to Learn","date":"3rd April"}]}
+2017-04-03T15:01:54.427Z - info: routes/bookRoutes.js : 75 scheemaResult :-  { success: true,
+  data: 
+   { title: 'Beginning HTML5 Media : Make the most of the new video and audio standards for the Web, Second Edition',
+     id: 'c660bfcd-81ae-48a7-9d07-5445a9520e22',
+     description: 'Beginning HTML5 Media, Second Edition is a comprehensive introduction to HTML5 video and audio. The HTML5 video standard enables browsers to support audio and video elements natively. This makes it very easy for web developers to publish audio and video, integrating both within the general presentation of web pages. For example, media elements can be styled using CSS (style sheets), viewed on a mobile device, and manipulated in a Canvas or an audio filter graph. The book offers techniques for providing accessibility to media elements, enabling consistent handling of alternative representations of media resources. The update includes all of the changes and revisions since the first HTML5 draft.',
+     tags: 
+      [ 'Cover',
+        'Encoding Video',
+        'Using and Manipulating HTML5 Video and Audio Elements',
+        'The JavaScript API',
+        'Acknowledgments',
+        '' ],
+     generes: [ 'Interaction Design' ],
+     publicationYear: 2015,
+     publisher: 'O\'Reilly Media, Inc.',
+     bookCower: '/images/id',
+     price: 227,
+     delivaryCharges: 40,
+     pages: 550,
+     authors: [ [Object], [Object] ],
+     seller: [ [Object] ],
+     reviews: [ [Object] ] } }
+2017-04-03T15:01:54.427Z - info: routes/bookRoutes.js : 77 success in validating scheema can proceed write to json
+2017-04-03T15:01:54.427Z - info: routes/bookRoutes.js : 83 adding new data to json 
+2017-04-03T15:01:54.429Z - info: routes/bookRoutes.js : 93 seding new data to responce.
+2017-04-03T15:01:54.906Z - info: index.js : 18 App Started
+2017-04-03T15:01:54.908Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:02:53.402Z - info: index.js : 18 App Started
+2017-04-03T15:02:53.404Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:03:33.630Z - info: index.js : 18 App Started
+2017-04-03T15:03:33.632Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:04:11.544Z - info: index.js : 18 App Started
+2017-04-03T15:04:11.546Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:04:11.803Z - info: index.js : 18 App Started
+2017-04-03T15:04:11.805Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:04:12.562Z - info: index.js : 18 App Started
+2017-04-03T15:04:12.564Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:04:14.485Z - info: index.js : 18 App Started
+2017-04-03T15:04:14.487Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:04:18.689Z - info: index.js : 18 App Started
+2017-04-03T15:04:18.691Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:17:12.773Z - info: index.js : 18 App Started
+2017-04-03T15:17:12.775Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:17:12.994Z - info: index.js : 18 App Started
+2017-04-03T15:17:12.996Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:17:16.589Z - info: index.js : 18 App Started
+2017-04-03T15:17:16.591Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:18:51.805Z - info: index.js : 18 App Started
+2017-04-03T15:18:51.807Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:19:44.878Z - info: index.js : 18 App Started
+2017-04-03T15:19:44.880Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:19:45.100Z - info: index.js : 18 App Started
+2017-04-03T15:19:45.102Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:20:10.826Z - info: index.js : 18 App Started
+2017-04-03T15:20:10.828Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:20:11.132Z - info: index.js : 18 App Started
+2017-04-03T15:20:11.133Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:20:52.204Z - info: index.js : 18 App Started
+2017-04-03T15:20:52.206Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:20:52.450Z - info: index.js : 18 App Started
+2017-04-03T15:20:52.452Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:20:53.069Z - info: index.js : 18 App Started
+2017-04-03T15:20:53.072Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:20:53.421Z - info: index.js : 18 App Started
+2017-04-03T15:20:53.423Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:21:10.345Z - info: index.js : 18 App Started
+2017-04-03T15:21:10.347Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:21:10.758Z - info: index.js : 18 App Started
+2017-04-03T15:21:10.760Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:21:11.150Z - info: index.js : 18 App Started
+2017-04-03T15:21:11.152Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:21:22.139Z - info: index.js : 18 App Started
+2017-04-03T15:21:22.141Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:21:22.499Z - info: index.js : 18 App Started
+2017-04-03T15:21:22.501Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:21:53.386Z - info: index.js : 18 App Started
+2017-04-03T15:21:53.388Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:22:06.187Z - info: index.js : 18 App Started
+2017-04-03T15:22:06.189Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:22:26.227Z - info: index.js : 18 App Started
+2017-04-03T15:22:26.229Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:22:26.631Z - info: index.js : 18 App Started
+2017-04-03T15:22:26.633Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:22:27.308Z - info: index.js : 18 App Started
+2017-04-03T15:22:27.310Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:22:35.720Z - info: index.js : 18 App Started
+2017-04-03T15:22:35.722Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:22:36.015Z - info: index.js : 18 App Started
+2017-04-03T15:22:36.018Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:22:36.238Z - info: index.js : 18 App Started
+2017-04-03T15:22:36.239Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:22:36.513Z - info: index.js : 18 App Started
+2017-04-03T15:22:36.515Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:33:56.323Z - info: index.js : 18 App Started
+2017-04-03T15:33:56.324Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:33:56.600Z - info: index.js : 18 App Started
+2017-04-03T15:33:56.602Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:33:56.920Z - info: index.js : 18 App Started
+2017-04-03T15:33:56.922Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:33:57.537Z - info: index.js : 18 App Started
+2017-04-03T15:33:57.539Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:33:57.978Z - info: index.js : 18 App Started
+2017-04-03T15:33:57.980Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:33:58.826Z - info: index.js : 18 App Started
+2017-04-03T15:33:58.828Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:34:11.730Z - info: index.js : 18 App Started
+2017-04-03T15:34:11.732Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:34:12.078Z - info: index.js : 18 App Started
+2017-04-03T15:34:12.080Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:34:26.687Z - info: routes/bookRoutes.js : 20 GET /
+2017-04-03T15:34:26.687Z - info: routes/bookRoutes.js : 21 Rendering json data in get call
+2017-04-03T15:34:34.615Z - info: routes/bookRoutes.js : 30 GET /books
+2017-04-03T15:34:34.617Z - info: routes/bookRoutes.js : 41 req Body in get call {}
+2017-04-03T15:34:34.618Z - info: routes/bookRoutes.js : 43 Rendering success JSON data in  get call :-  title=RESTful Web API Design with Node.js - Second Edition, id=95f5b406-f2af-45ba-b2fe-fc3e5b7d9568, description=Since JavaScript is the language of the web, building APIs using Node.js provides a seamless development experience on both the front end and the back end. Explore the practical side of REST to build data-centric applications with Node About This Video Work through a series of guidelines and best practices to efficiently design RESTful Web APIs with Node Understand the structure of APIs, their authentication protocols, and their implementation tools This practical guide provides the knowledge you need to delve into the endless possibilities enabled by Big Data In Detail RESTful Web APIs allow developers to create unprecedented applications by leveraging the data on the internet., tags=[], generes=[friction], publicationYear=2017, publisher=Packt Publishing, bookCower=/images/id, price=1200, delivaryCharges=100, pages=150, authors=[name=Saleh Hamadeh, id=string], seller=[name=Packt Publishing, id=string], reviews=[reviewerName=Srikanth, reviewerRating=4.5, reviewerRatingOutof=5, feedback=Good books to Learn, date=3rd April], title=Mastering Node.js, id=69d54661-7e22-4d06-b356-ac51556f7d68, description=You will then learn to create your first Node.js application and also create a command line tool for Node.js. Learn how Node.js is working so you can use that knowledge in your advance. A deep understand how to use the node.js api’s to build enterprise grade applications., tags=[], generes=[IT], publicationYear=2017, publisher=Packt Publishing, bookCower=/images/id, price=1205, delivaryCharges=100, pages=150, authors=[name=Joris Hermans, id=string], seller=[name=Packt Publishing, id=string], reviews=[reviewerName=Srikanth, reviewerRating=3.5, reviewerRatingOutof=5, feedback=Good books to Learn, date=3rd April], title=Learning Node.js, Second Edition, id=65cb9776-fc8d-4bf6-9de1-6d87bd392ec6, description=He is the author of the book Learning Node.js (Addison-Wesley) and the video courses Learning AngularJS and Learning Node.js LiveLessons. In this video training, Marc starts by introducing Node.js, installing, and running it. Learning Node.js, Second Edition A clear, practical introduction to the important new web development technology for creating web server applications in JavaScript Description Learning Node.js LiveLessons provides developers with a practical introduction to Node.js, an important platform for developing web and network applications., tags=[], generes=[IT], publicationYear=2016, publisher=Packt Publishing, bookCower=/images/id, price=125, delivaryCharges=50, pages=150, authors=[name=Marc Wandschneider, id=string], seller=[name=Packt Publishing, id=string], reviews=[reviewerName=Srikanth, reviewerRating=3.5, reviewerRatingOutof=5, feedback=Good books to Learn, date=3rd April], title=JavaScript Design Patterns 20 Patterns for Advancing Your JavaScript Skills, id=8457500d-24b3-4eb3-a678-ac1abdbc49b9, description=With the knowledge delivered throughout the course, developers will come away from JavaScript Design Patterns 20 Patterns for Advancing Your JavaScript Skills armed with a powerful arsenal for solving a wide array of different JavaScript programming problems.JavaScript Design Patterns 20 Patterns for Advancing Your JavaScript Skills will immerse you in the world of intelligent JavaScript programming, demonstrating to Web developers how to mobilize design patterns and presenting key programming concepts and common solutions to frequently occurring programming problems. Dive deep into JavaScript design patterns to write intelligent, pragmatic code for a wide array of real-world programming situations About This Video A deep exploration of 20 JavaScript design patterns Understand how to adopt and apply design patterns to a wide range of real world development scenarios Definitive coverage of the Creational, Structural, and Behavioral pattern types Take your JavaScript programming to an advanced level by understanding design patterns in depth., tags=[], generes=[IT], publicationYear=2015, publisher=Packt Publishing, bookCower=/images/id, price=127, delivaryCharges=40, pages=150, authors=[name=Ben Fhala, id=string], seller=[name=Packt Publishing, id=string], reviews=[reviewerName=Kanth, reviewerRating=4.5, reviewerRatingOutof=5, feedback=Good books to Learn, date=3rd April], title=avaScript: Functional Programming for JavaScript Developers, id=9e182efc-6855-4e66-b5f2-e7d6efeeea8c, description=JavaScript is a high-level, dynamic, untyped, lightweight, and interpreted programming language and functional programming is a style that emphasizes and enables smarter code that minimizes complexity and increases modularity. It's a way of writing cleaner code through clever ways of mutating, combining, and using functions. And JavaScript provides an excellent medium for this approach. By learning how to expose JavaScript's true identity as a functional language, we can implement web apps that are more powerful, easier to maintain and more reliable. The java script: Functional Programming for JavaScript Developers course will take you on a journey to show how functional programming when combined with other techniques makes JavaScript programming more efficient. The first module Mastering JavaScript, stress on practical aspects of Javascript development like-Functions and Closures, Runtime debugging techniques, project layout, events and DOM processing, build tools, Object-oriented patterns, isomorphism-everything that a modern Javascript project would need., tags=[], generes=[IT], publicationYear=2016, publisher=Packt Publishing, bookCower=/images/id, price=127, delivaryCharges=40, pages=150, authors=[name=Dan Mantyla, id=string, name=Simon Timms, id=string, name=Ved Antani, id=string], seller=[name=Packt Publishing, id=string], reviews=[reviewerName=Kanth, reviewerRating=4.5, reviewerRatingOutof=5, feedback=Good books to Learn, date=3rd April], title=Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript, id=37b5afe8-8bb3-4d46-a2f1-588e5952dc35, description=ffective JavaScript is organized around 68 proven approaches for writing better JavaScript, backed by concrete examples. No matter how long you’ve been writing JavaScript code, Effective JavaScript will help deepen your understanding of this powerful language, so you can build more predictable, reliable, and maintainable programs. Author David Herman, with his years of experience on Ecma’s JavaScript standardization committee, illuminates the language’s inner workings as never before—helping you take full advantage of JavaScript’s expressiveness., tags=[], generes=[IT], publicationYear=2012, publisher=Addison-Wesley Professional, bookCower=/images/id, price=227, delivaryCharges=40, pages=550, authors=[name=David Herman, id=string], seller=[name=Packt Publishing, id=string], reviews=[reviewerName=Kanth, reviewerRating=4.5, reviewerRatingOutof=5, feedback=Good books to Learn, date=3rd April], title=Reactive JavaScript Programming, id=7b6b19f5-5c7d-4106-a8db-44aff7431d35, description=Change the way you code: become efficient and up-to-date with an in depth coverage of Reactive JavaScript programming techniques About This Video Handle an infinite stream of incoming data using RxJs Explore the important RxJs operator Get acquainted with operators In Detail This video is a combination of the following three aspects: Introduction to Reactive Programming + Rx in Depth., tags=[], generes=[IT], publicationYear=2017, publisher=Addison-Wesley Professional, bookCower=/images/id, price=227, delivaryCharges=40, pages=550, authors=[name=Shriyans Bhatnagar, id=string], seller=[name=Packt Publishing, id=string], reviews=[reviewerName=Kanth, reviewerRating=4.5, reviewerRatingOutof=5, feedback=Good books to Learn, date=3rd April], title=Learning JavaScript: A Hands-On Guide to the Fundamentals of Modern JavaScript, id=16c7ea63-4e6d-4dbb-8969-e91d956243ef, description=Get Started Fast with  Modern JavaScript Web Development! ... Smart, friendly, enthusiastic, and packed with modern examples, Learning JavaScript covers both design-level and development-level JavaScript. This complete, hands-on JavaScript tutorial covers everything you need to know now. , tags=[], generes=[IT], publicationYear=2012, publisher=Addison-Wesley Professional, bookCower=/images/id, price=227, delivaryCharges=40, pages=550, authors=[name=Tim Wright, id=string], seller=[name=Addison-Wesley Professional, id=string], reviews=[reviewerName=Kanth, reviewerRating=4.5, reviewerRatingOutof=5, feedback=Good books to Learn, date=3rd April], title=A Case Study in Simulating IoT Innovation for Prescriptive Modeling Applications, id=d12f58dc-eead-4c42-a9ab-30963466fa15, description=In this video, we’ll cover how to simulate the Internet of Things, with the goal of building a greener home. We’ll start with a short review of the 5-step process that forms the logic of simulating innovations. From there, we explore how to simulate the connections between things, and discover smarter ways to achieve, for example, lower energy consumption--and how to actually simulate a business model based on this idea., tags=[The Logic of Simulation: In a Nutshell, Simulating IoT. How to Build Greener Homes], generes=[IT], publicationYear=2017, publisher=O'Reilly Media, Inc., bookCower=/images/id, price=227, delivaryCharges=40, pages=550, authors=[name=Jerry Overton, id=string], seller=[name=O'Reilly Media, Inc., id=string], reviews=[reviewerName=Srikanth, reviewerRating=4.5, reviewerRatingOutof=5, feedback=Good books to Learn, date=3rd April], title=Introduction to the ESP8266 and the IoT, id=b68ce062-7406-4627-ade8-4b7cd2cdf232, description=This course demonstrates how to design, build and deploy WiFI connected IoT devices. It introduces you to a low cost ESP8266 IoT computer, shows you how to configure the ESP8266 using the Arduino IDE (integrated development environment), explains the Grove 'no-soldering-required' prototyping system, and leads you through two start-to-finish IoT projects. Designed for learners with a very basic understanding of programming, electronic components (resistors, switches, etc.), and the interconnection between servers and browsers, this course requires the following IoT hardware and software: Arduino IDE, ESP8266 SDK, the Adafruit Huzzah, an FTDI Cable, and a set of Grove prototyping devices. Each requirement is explained at the beginning of the course., tags=[Introduction, Hardware and Software, Building a Web Server, Prototyping IoT Devices, MQTT, Conclusion], generes=[Raspberry Pi], publicationYear=2017, publisher=O'Reilly Media, Inc., bookCower=/images/id, price=227, delivaryCharges=40, pages=550, authors=[name=John C Shovic, id=string], seller=[name=O'Reilly Media, Inc., id=string], reviews=[reviewerName=Srikanth, reviewerRating=4.5, reviewerRatingOutof=5, feedback=Good books to Learn, date=3rd April], title=Designing interconnected (IoT) environments, id=411f98fd-ac69-4788-8c0e-e75232252d00, description=We spend 90 percent of our lives indoors, in increasingly interconnected environments. Internet-enabled devices creep into the spaces we inhabit, and these devices report back on spatial conditions such as light, radiation, air quality and temperature, count the number of people stopping at retail displays minute by minute, detect intruders and security breaches, monitor locations and track characteristics of equipment and supply chain elements, enable us to open locked doors remotely using our mobile devices, and pass terabytes of data to backend systems that analyze, report, and modify the environments we occupy., tags=[The Blur of Interconnected Environments, Theorizing Digital Culture: New Models of Convergence, Hybrid Design Practice, Changing Definitions of Space, A Framework for Interconnected Environments, Spheres of Inquiry, An Exercise in Hybrid Design Practice, Architecture as Interface, Conclusion], generes=[Interaction Design], publicationYear=2016, publisher=O'Reilly Media, Inc., bookCower=/images/id, price=227, delivaryCharges=40, pages=550, authors=[name=Jonathan Follett, Erin Rae Hoffer, id=string, name=Erin Rae Hoffer, id=string], seller=[name=O'Reilly Media, Inc., id=string], reviews=[reviewerName=Srikanth, reviewerRating=4.5, reviewerRatingOutof=5, feedback=Good books to Learn, date=3rd April], title=Beginning HTML5 Media : Make the most of the new video and audio standards for the Web, Second Edition, id=c660bfcd-81ae-48a7-9d07-5445a9520e22, description=Beginning HTML5 Media, Second Edition is a comprehensive introduction to HTML5 video and audio. The HTML5 video standard enables browsers to support audio and video elements natively. This makes it very easy for web developers to publish audio and video, integrating both within the general presentation of web pages. For example, media elements can be styled using CSS (style sheets), viewed on a mobile device, and manipulated in a Canvas or an audio filter graph. The book offers techniques for providing accessibility to media elements, enabling consistent handling of alternative representations of media resources. The update includes all of the changes and revisions since the first HTML5 draft., tags=[Cover, Encoding Video, Using and Manipulating HTML5 Video and Audio Elements, The JavaScript API, Acknowledgments, ], generes=[Interaction Design], publicationYear=2015, publisher=O'Reilly Media, Inc., bookCower=/images/id, price=227, delivaryCharges=40, pages=550, authors=[name=Tom Green, id=string, name=Silvia Pfeiffer, id=string], seller=[name=O'Reilly Media, Inc., id=string], reviews=[reviewerName=Srikanth, reviewerRating=4.5, reviewerRatingOutof=5, feedback=Good books to Learn, date=3rd April]
+2017-04-03T15:35:39.015Z - info: routes/bookRoutes.js : 30 GET /books
+2017-04-03T15:35:39.016Z - info: routes/bookRoutes.js : 41 req Body in get call {}
+2017-04-03T15:35:39.017Z - info: routes/bookRoutes.js : 43 Rendering success JSON data in  get call :-  title=RESTful Web API Design with Node.js - Second Edition, id=95f5b406-f2af-45ba-b2fe-fc3e5b7d9568, description=Since JavaScript is the language of the web, building APIs using Node.js provides a seamless development experience on both the front end and the back end. Explore the practical side of REST to build data-centric applications with Node About This Video Work through a series of guidelines and best practices to efficiently design RESTful Web APIs with Node Understand the structure of APIs, their authentication protocols, and their implementation tools This practical guide provides the knowledge you need to delve into the endless possibilities enabled by Big Data In Detail RESTful Web APIs allow developers to create unprecedented applications by leveraging the data on the internet., tags=[], generes=[friction], publicationYear=2017, publisher=Packt Publishing, bookCower=/images/id, price=1200, delivaryCharges=100, pages=150, authors=[name=Saleh Hamadeh, id=string], seller=[name=Packt Publishing, id=string], reviews=[reviewerName=Srikanth, reviewerRating=4.5, reviewerRatingOutof=5, feedback=Good books to Learn, date=3rd April], title=Mastering Node.js, id=69d54661-7e22-4d06-b356-ac51556f7d68, description=You will then learn to create your first Node.js application and also create a command line tool for Node.js. Learn how Node.js is working so you can use that knowledge in your advance. A deep understand how to use the node.js api’s to build enterprise grade applications., tags=[], generes=[IT], publicationYear=2017, publisher=Packt Publishing, bookCower=/images/id, price=1205, delivaryCharges=100, pages=150, authors=[name=Joris Hermans, id=string], seller=[name=Packt Publishing, id=string], reviews=[reviewerName=Srikanth, reviewerRating=3.5, reviewerRatingOutof=5, feedback=Good books to Learn, date=3rd April], title=Learning Node.js, Second Edition, id=65cb9776-fc8d-4bf6-9de1-6d87bd392ec6, description=He is the author of the book Learning Node.js (Addison-Wesley) and the video courses Learning AngularJS and Learning Node.js LiveLessons. In this video training, Marc starts by introducing Node.js, installing, and running it. Learning Node.js, Second Edition A clear, practical introduction to the important new web development technology for creating web server applications in JavaScript Description Learning Node.js LiveLessons provides developers with a practical introduction to Node.js, an important platform for developing web and network applications., tags=[], generes=[IT], publicationYear=2016, publisher=Packt Publishing, bookCower=/images/id, price=125, delivaryCharges=50, pages=150, authors=[name=Marc Wandschneider, id=string], seller=[name=Packt Publishing, id=string], reviews=[reviewerName=Srikanth, reviewerRating=3.5, reviewerRatingOutof=5, feedback=Good books to Learn, date=3rd April], title=JavaScript Design Patterns 20 Patterns for Advancing Your JavaScript Skills, id=8457500d-24b3-4eb3-a678-ac1abdbc49b9, description=With the knowledge delivered throughout the course, developers will come away from JavaScript Design Patterns 20 Patterns for Advancing Your JavaScript Skills armed with a powerful arsenal for solving a wide array of different JavaScript programming problems.JavaScript Design Patterns 20 Patterns for Advancing Your JavaScript Skills will immerse you in the world of intelligent JavaScript programming, demonstrating to Web developers how to mobilize design patterns and presenting key programming concepts and common solutions to frequently occurring programming problems. Dive deep into JavaScript design patterns to write intelligent, pragmatic code for a wide array of real-world programming situations About This Video A deep exploration of 20 JavaScript design patterns Understand how to adopt and apply design patterns to a wide range of real world development scenarios Definitive coverage of the Creational, Structural, and Behavioral pattern types Take your JavaScript programming to an advanced level by understanding design patterns in depth., tags=[], generes=[IT], publicationYear=2015, publisher=Packt Publishing, bookCower=/images/id, price=127, delivaryCharges=40, pages=150, authors=[name=Ben Fhala, id=string], seller=[name=Packt Publishing, id=string], reviews=[reviewerName=Kanth, reviewerRating=4.5, reviewerRatingOutof=5, feedback=Good books to Learn, date=3rd April], title=avaScript: Functional Programming for JavaScript Developers, id=9e182efc-6855-4e66-b5f2-e7d6efeeea8c, description=JavaScript is a high-level, dynamic, untyped, lightweight, and interpreted programming language and functional programming is a style that emphasizes and enables smarter code that minimizes complexity and increases modularity. It's a way of writing cleaner code through clever ways of mutating, combining, and using functions. And JavaScript provides an excellent medium for this approach. By learning how to expose JavaScript's true identity as a functional language, we can implement web apps that are more powerful, easier to maintain and more reliable. The java script: Functional Programming for JavaScript Developers course will take you on a journey to show how functional programming when combined with other techniques makes JavaScript programming more efficient. The first module Mastering JavaScript, stress on practical aspects of Javascript development like-Functions and Closures, Runtime debugging techniques, project layout, events and DOM processing, build tools, Object-oriented patterns, isomorphism-everything that a modern Javascript project would need., tags=[], generes=[IT], publicationYear=2016, publisher=Packt Publishing, bookCower=/images/id, price=127, delivaryCharges=40, pages=150, authors=[name=Dan Mantyla, id=string, name=Simon Timms, id=string, name=Ved Antani, id=string], seller=[name=Packt Publishing, id=string], reviews=[reviewerName=Kanth, reviewerRating=4.5, reviewerRatingOutof=5, feedback=Good books to Learn, date=3rd April], title=Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript, id=37b5afe8-8bb3-4d46-a2f1-588e5952dc35, description=ffective JavaScript is organized around 68 proven approaches for writing better JavaScript, backed by concrete examples. No matter how long you’ve been writing JavaScript code, Effective JavaScript will help deepen your understanding of this powerful language, so you can build more predictable, reliable, and maintainable programs. Author David Herman, with his years of experience on Ecma’s JavaScript standardization committee, illuminates the language’s inner workings as never before—helping you take full advantage of JavaScript’s expressiveness., tags=[], generes=[IT], publicationYear=2012, publisher=Addison-Wesley Professional, bookCower=/images/id, price=227, delivaryCharges=40, pages=550, authors=[name=David Herman, id=string], seller=[name=Packt Publishing, id=string], reviews=[reviewerName=Kanth, reviewerRating=4.5, reviewerRatingOutof=5, feedback=Good books to Learn, date=3rd April], title=Reactive JavaScript Programming, id=7b6b19f5-5c7d-4106-a8db-44aff7431d35, description=Change the way you code: become efficient and up-to-date with an in depth coverage of Reactive JavaScript programming techniques About This Video Handle an infinite stream of incoming data using RxJs Explore the important RxJs operator Get acquainted with operators In Detail This video is a combination of the following three aspects: Introduction to Reactive Programming + Rx in Depth., tags=[], generes=[IT], publicationYear=2017, publisher=Addison-Wesley Professional, bookCower=/images/id, price=227, delivaryCharges=40, pages=550, authors=[name=Shriyans Bhatnagar, id=string], seller=[name=Packt Publishing, id=string], reviews=[reviewerName=Kanth, reviewerRating=4.5, reviewerRatingOutof=5, feedback=Good books to Learn, date=3rd April], title=Learning JavaScript: A Hands-On Guide to the Fundamentals of Modern JavaScript, id=16c7ea63-4e6d-4dbb-8969-e91d956243ef, description=Get Started Fast with  Modern JavaScript Web Development! ... Smart, friendly, enthusiastic, and packed with modern examples, Learning JavaScript covers both design-level and development-level JavaScript. This complete, hands-on JavaScript tutorial covers everything you need to know now. , tags=[], generes=[IT], publicationYear=2012, publisher=Addison-Wesley Professional, bookCower=/images/id, price=227, delivaryCharges=40, pages=550, authors=[name=Tim Wright, id=string], seller=[name=Addison-Wesley Professional, id=string], reviews=[reviewerName=Kanth, reviewerRating=4.5, reviewerRatingOutof=5, feedback=Good books to Learn, date=3rd April], title=A Case Study in Simulating IoT Innovation for Prescriptive Modeling Applications, id=d12f58dc-eead-4c42-a9ab-30963466fa15, description=In this video, we’ll cover how to simulate the Internet of Things, with the goal of building a greener home. We’ll start with a short review of the 5-step process that forms the logic of simulating innovations. From there, we explore how to simulate the connections between things, and discover smarter ways to achieve, for example, lower energy consumption--and how to actually simulate a business model based on this idea., tags=[The Logic of Simulation: In a Nutshell, Simulating IoT. How to Build Greener Homes], generes=[IT], publicationYear=2017, publisher=O'Reilly Media, Inc., bookCower=/images/id, price=227, delivaryCharges=40, pages=550, authors=[name=Jerry Overton, id=string], seller=[name=O'Reilly Media, Inc., id=string], reviews=[reviewerName=Srikanth, reviewerRating=4.5, reviewerRatingOutof=5, feedback=Good books to Learn, date=3rd April], title=Introduction to the ESP8266 and the IoT, id=b68ce062-7406-4627-ade8-4b7cd2cdf232, description=This course demonstrates how to design, build and deploy WiFI connected IoT devices. It introduces you to a low cost ESP8266 IoT computer, shows you how to configure the ESP8266 using the Arduino IDE (integrated development environment), explains the Grove 'no-soldering-required' prototyping system, and leads you through two start-to-finish IoT projects. Designed for learners with a very basic understanding of programming, electronic components (resistors, switches, etc.), and the interconnection between servers and browsers, this course requires the following IoT hardware and software: Arduino IDE, ESP8266 SDK, the Adafruit Huzzah, an FTDI Cable, and a set of Grove prototyping devices. Each requirement is explained at the beginning of the course., tags=[Introduction, Hardware and Software, Building a Web Server, Prototyping IoT Devices, MQTT, Conclusion], generes=[Raspberry Pi], publicationYear=2017, publisher=O'Reilly Media, Inc., bookCower=/images/id, price=227, delivaryCharges=40, pages=550, authors=[name=John C Shovic, id=string], seller=[name=O'Reilly Media, Inc., id=string], reviews=[reviewerName=Srikanth, reviewerRating=4.5, reviewerRatingOutof=5, feedback=Good books to Learn, date=3rd April], title=Designing interconnected (IoT) environments, id=411f98fd-ac69-4788-8c0e-e75232252d00, description=We spend 90 percent of our lives indoors, in increasingly interconnected environments. Internet-enabled devices creep into the spaces we inhabit, and these devices report back on spatial conditions such as light, radiation, air quality and temperature, count the number of people stopping at retail displays minute by minute, detect intruders and security breaches, monitor locations and track characteristics of equipment and supply chain elements, enable us to open locked doors remotely using our mobile devices, and pass terabytes of data to backend systems that analyze, report, and modify the environments we occupy., tags=[The Blur of Interconnected Environments, Theorizing Digital Culture: New Models of Convergence, Hybrid Design Practice, Changing Definitions of Space, A Framework for Interconnected Environments, Spheres of Inquiry, An Exercise in Hybrid Design Practice, Architecture as Interface, Conclusion], generes=[Interaction Design], publicationYear=2016, publisher=O'Reilly Media, Inc., bookCower=/images/id, price=227, delivaryCharges=40, pages=550, authors=[name=Jonathan Follett, Erin Rae Hoffer, id=string, name=Erin Rae Hoffer, id=string], seller=[name=O'Reilly Media, Inc., id=string], reviews=[reviewerName=Srikanth, reviewerRating=4.5, reviewerRatingOutof=5, feedback=Good books to Learn, date=3rd April], title=Beginning HTML5 Media : Make the most of the new video and audio standards for the Web, Second Edition, id=c660bfcd-81ae-48a7-9d07-5445a9520e22, description=Beginning HTML5 Media, Second Edition is a comprehensive introduction to HTML5 video and audio. The HTML5 video standard enables browsers to support audio and video elements natively. This makes it very easy for web developers to publish audio and video, integrating both within the general presentation of web pages. For example, media elements can be styled using CSS (style sheets), viewed on a mobile device, and manipulated in a Canvas or an audio filter graph. The book offers techniques for providing accessibility to media elements, enabling consistent handling of alternative representations of media resources. The update includes all of the changes and revisions since the first HTML5 draft., tags=[Cover, Encoding Video, Using and Manipulating HTML5 Video and Audio Elements, The JavaScript API, Acknowledgments, ], generes=[Interaction Design], publicationYear=2015, publisher=O'Reilly Media, Inc., bookCower=/images/id, price=227, delivaryCharges=40, pages=550, authors=[name=Tom Green, id=string, name=Silvia Pfeiffer, id=string], seller=[name=O'Reilly Media, Inc., id=string], reviews=[reviewerName=Srikanth, reviewerRating=4.5, reviewerRatingOutof=5, feedback=Good books to Learn, date=3rd April]
+2017-04-03T15:39:06.919Z - info: index.js : 18 App Started
+2017-04-03T15:39:06.921Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:39:27.748Z - info: index.js : 18 App Started
+2017-04-03T15:39:27.750Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:39:36.622Z - info: index.js : 18 App Started
+2017-04-03T15:39:36.624Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:39:36.954Z - info: index.js : 18 App Started
+2017-04-03T15:39:36.956Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:39:39.079Z - info: index.js : 18 App Started
+2017-04-03T15:39:39.081Z - info: routes/bookRoutes.js : 17 in to Books routes init function
+2017-04-03T15:39:57.714Z - info: index.js : 18 App Started
+2017-04-03T15:39:57.716Z - info: routes/bookRoutes.js : 17 in to Books routes init function

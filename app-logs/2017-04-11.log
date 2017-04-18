@@ -1,0 +1,3129 @@
+2017-04-11T15:34:54.791Z - info: db_connection.js : 29 connecting to booksDb
+2017-04-11T15:34:54.825Z - info: db_connection.js : 33 connecting to authorBD
+2017-04-11T15:34:54.826Z - error: db_connection.js : 53 Mongoose default connection error:  Error: Trying to open unclosed connection.
+    at NativeConnection.Connection.open (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/connection.js:240:11)
+    at Mongoose.connect (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/index.js:242:47)
+    at Object.connectDB (/Users/anandpotta/sri/book-inv-data-app/src/utils/db_connection.js:45:12)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/routes/authorRoutes.js:15:13)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/index.js:6:22)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+2017-04-11T15:34:54.830Z - info: db_connection.js : 37 connecting to userBD
+2017-04-11T15:34:54.831Z - error: db_connection.js : 53 Mongoose default connection error:  Error: Trying to open unclosed connection.
+    at NativeConnection.Connection.open (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/connection.js:240:11)
+    at Mongoose.connect (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/index.js:242:47)
+    at Object.connectDB (/Users/anandpotta/sri/book-inv-data-app/src/utils/db_connection.js:45:12)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/routes/userRoutes.js:15:13)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/index.js:7:20)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+2017-04-11T15:34:54.831Z - error: db_connection.js : 53 Mongoose default connection error:  Error: Trying to open unclosed connection.
+    at NativeConnection.Connection.open (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/connection.js:240:11)
+    at Mongoose.connect (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/index.js:242:47)
+    at Object.connectDB (/Users/anandpotta/sri/book-inv-data-app/src/utils/db_connection.js:45:12)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/routes/userRoutes.js:15:13)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/index.js:7:20)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+2017-04-11T15:34:54.837Z - info: ../index.js : 15 App Started
+2017-04-11T15:34:54.837Z - info: ../routes/bookRoutes.js : 15 in to Books routes init function
+2017-04-11T15:34:54.838Z - info: ../routes/authorRoutes.js : 18 authors routes init functionality
+2017-04-11T15:34:54.839Z - info: ../index.js : 19 -------------------- done ----------------------- 
+2017-04-11T15:34:54.849Z - info: db_connection.js : 68 unhandledRejection Error: Trying to open unclosed connection.
+    at NativeConnection.Connection.open (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/connection.js:240:11)
+    at Mongoose.connect (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/index.js:242:47)
+    at Object.connectDB (/Users/anandpotta/sri/book-inv-data-app/src/utils/db_connection.js:45:12)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/routes/authorRoutes.js:15:13)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/index.js:6:22)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+2017-04-11T15:34:54.849Z - info: db_connection.js : 68 unhandledRejection Error: Trying to open unclosed connection.
+    at NativeConnection.Connection.open (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/connection.js:240:11)
+    at Mongoose.connect (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/index.js:242:47)
+    at Object.connectDB (/Users/anandpotta/sri/book-inv-data-app/src/utils/db_connection.js:45:12)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/routes/authorRoutes.js:15:13)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/index.js:6:22)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+2017-04-11T15:34:54.849Z - info: db_connection.js : 68 unhandledRejection Error: Trying to open unclosed connection.
+    at NativeConnection.Connection.open (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/connection.js:240:11)
+    at Mongoose.connect (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/index.js:242:47)
+    at Object.connectDB (/Users/anandpotta/sri/book-inv-data-app/src/utils/db_connection.js:45:12)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/routes/authorRoutes.js:15:13)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/index.js:6:22)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+2017-04-11T15:34:54.849Z - info: db_connection.js : 68 unhandledRejection Error: Trying to open unclosed connection.
+    at NativeConnection.Connection.open (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/connection.js:240:11)
+    at Mongoose.connect (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/index.js:242:47)
+    at Object.connectDB (/Users/anandpotta/sri/book-inv-data-app/src/utils/db_connection.js:45:12)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/routes/userRoutes.js:15:13)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/index.js:7:20)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+2017-04-11T15:34:54.850Z - info: db_connection.js : 68 unhandledRejection Error: Trying to open unclosed connection.
+    at NativeConnection.Connection.open (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/connection.js:240:11)
+    at Mongoose.connect (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/index.js:242:47)
+    at Object.connectDB (/Users/anandpotta/sri/book-inv-data-app/src/utils/db_connection.js:45:12)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/routes/userRoutes.js:15:13)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/index.js:7:20)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+2017-04-11T15:34:54.850Z - info: db_connection.js : 68 unhandledRejection Error: Trying to open unclosed connection.
+    at NativeConnection.Connection.open (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/connection.js:240:11)
+    at Mongoose.connect (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/index.js:242:47)
+    at Object.connectDB (/Users/anandpotta/sri/book-inv-data-app/src/utils/db_connection.js:45:12)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/routes/userRoutes.js:15:13)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/index.js:7:20)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+2017-04-11T15:34:54.858Z - info: db_connection.js : 57 Mongoose default connection disconnected
+2017-04-11T15:34:54.858Z - info: db_connection.js : 57 Mongoose default connection disconnected
+2017-04-11T15:34:54.859Z - info: db_connection.js : 57 Mongoose default connection disconnected
+2017-04-11T15:34:54.860Z - error: db_connection.js : 53 Mongoose default connection error:  MongoError: failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongodb-core/lib/topologies/server.js:327:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongodb-core/lib/connection/pool.js:274:12)
+    at Object.onceWrapper (events.js:290:19)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongodb-core/lib/connection/connection.js:177:49)
+    at Object.onceWrapper (events.js:290:19)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1281:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+2017-04-11T15:34:54.860Z - error: db_connection.js : 53 Mongoose default connection error:  MongoError: failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongodb-core/lib/topologies/server.js:327:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongodb-core/lib/connection/pool.js:274:12)
+    at Object.onceWrapper (events.js:290:19)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongodb-core/lib/connection/connection.js:177:49)
+    at Object.onceWrapper (events.js:290:19)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1281:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+2017-04-11T15:34:54.860Z - error: db_connection.js : 53 Mongoose default connection error:  MongoError: failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongodb-core/lib/topologies/server.js:327:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongodb-core/lib/connection/pool.js:274:12)
+    at Object.onceWrapper (events.js:290:19)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongodb-core/lib/connection/connection.js:177:49)
+    at Object.onceWrapper (events.js:290:19)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1281:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+2017-04-11T15:34:54.860Z - info: db_connection.js : 68 unhandledRejection MongoError: failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongodb-core/lib/topologies/server.js:327:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongodb-core/lib/connection/pool.js:274:12)
+    at Object.onceWrapper (events.js:290:19)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongodb-core/lib/connection/connection.js:177:49)
+    at Object.onceWrapper (events.js:290:19)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1281:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+2017-04-11T15:34:54.860Z - info: db_connection.js : 68 unhandledRejection MongoError: failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongodb-core/lib/topologies/server.js:327:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongodb-core/lib/connection/pool.js:274:12)
+    at Object.onceWrapper (events.js:290:19)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongodb-core/lib/connection/connection.js:177:49)
+    at Object.onceWrapper (events.js:290:19)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1281:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+2017-04-11T15:34:54.860Z - info: db_connection.js : 68 unhandledRejection MongoError: failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongodb-core/lib/topologies/server.js:327:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongodb-core/lib/connection/pool.js:274:12)
+    at Object.onceWrapper (events.js:290:19)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongodb-core/lib/connection/connection.js:177:49)
+    at Object.onceWrapper (events.js:290:19)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1281:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+2017-04-11T15:35:02.230Z - info: ../routes/bookRoutes.js : 17 GET /
+2017-04-11T15:35:02.231Z - info: ../routes/bookRoutes.js : 18 Rendering json data in get call
+2017-04-11T15:35:10.288Z - info: ../routes/userRoutes.js : 28 GET /users
+2017-04-11T15:35:10.496Z - info: ../routes/userRoutes.js : 28 GET /users
+2017-04-11T15:35:49.441Z - info: ../routes/bookRoutes.js : 17 GET /
+2017-04-11T15:35:49.442Z - info: ../routes/bookRoutes.js : 18 Rendering json data in get call
+2017-04-11T15:36:03.815Z - info: ../routes/userRoutes.js : 28 GET /users
+2017-04-11T15:36:04.936Z - info: ../routes/userRoutes.js : 28 GET /users
+2017-04-11T15:36:29.691Z - info: ../routes/bookRoutes.js : 27 GET /books
+2017-04-11T15:36:30.904Z - info: ../routes/bookRoutes.js : 27 GET /books
+2017-04-11T15:37:55.362Z - info: ../routes/bookRoutes.js : 27 GET /books
+2017-04-11T15:38:46.015Z - info: db_connection.js : 21 Mongoose default connection closing from
+2017-04-11T15:38:52.020Z - info: db_connection.js : 29 connecting to booksDb
+2017-04-11T15:38:52.047Z - info: db_connection.js : 33 connecting to authorBD
+2017-04-11T15:38:52.048Z - error: db_connection.js : 53 Mongoose default connection error:  Error: Trying to open unclosed connection.
+    at NativeConnection.Connection.open (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/connection.js:240:11)
+    at Mongoose.connect (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/index.js:242:47)
+    at Object.connectDB (/Users/anandpotta/sri/book-inv-data-app/src/utils/db_connection.js:45:12)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/routes/authorRoutes.js:15:13)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/index.js:6:22)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+2017-04-11T15:38:52.053Z - info: db_connection.js : 37 connecting to userBD
+2017-04-11T15:38:52.053Z - error: db_connection.js : 53 Mongoose default connection error:  Error: Trying to open unclosed connection.
+    at NativeConnection.Connection.open (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/connection.js:240:11)
+    at Mongoose.connect (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/index.js:242:47)
+    at Object.connectDB (/Users/anandpotta/sri/book-inv-data-app/src/utils/db_connection.js:45:12)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/routes/userRoutes.js:15:13)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/index.js:7:20)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+2017-04-11T15:38:52.054Z - error: db_connection.js : 53 Mongoose default connection error:  Error: Trying to open unclosed connection.
+    at NativeConnection.Connection.open (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/connection.js:240:11)
+    at Mongoose.connect (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/index.js:242:47)
+    at Object.connectDB (/Users/anandpotta/sri/book-inv-data-app/src/utils/db_connection.js:45:12)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/routes/userRoutes.js:15:13)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/index.js:7:20)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+2017-04-11T15:38:52.059Z - info: ../index.js : 15 App Started
+2017-04-11T15:38:52.060Z - info: ../routes/bookRoutes.js : 15 in to Books routes init function
+2017-04-11T15:38:52.061Z - info: ../routes/authorRoutes.js : 18 authors routes init functionality
+2017-04-11T15:38:52.062Z - info: ../index.js : 19 -------------------- done ----------------------- 
+2017-04-11T15:38:52.072Z - info: db_connection.js : 68 unhandledRejection Error: Trying to open unclosed connection.
+    at NativeConnection.Connection.open (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/connection.js:240:11)
+    at Mongoose.connect (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/index.js:242:47)
+    at Object.connectDB (/Users/anandpotta/sri/book-inv-data-app/src/utils/db_connection.js:45:12)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/routes/authorRoutes.js:15:13)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/index.js:6:22)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+2017-04-11T15:38:52.072Z - info: db_connection.js : 68 unhandledRejection Error: Trying to open unclosed connection.
+    at NativeConnection.Connection.open (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/connection.js:240:11)
+    at Mongoose.connect (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/index.js:242:47)
+    at Object.connectDB (/Users/anandpotta/sri/book-inv-data-app/src/utils/db_connection.js:45:12)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/routes/authorRoutes.js:15:13)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/index.js:6:22)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+2017-04-11T15:38:52.072Z - info: db_connection.js : 68 unhandledRejection Error: Trying to open unclosed connection.
+    at NativeConnection.Connection.open (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/connection.js:240:11)
+    at Mongoose.connect (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/index.js:242:47)
+    at Object.connectDB (/Users/anandpotta/sri/book-inv-data-app/src/utils/db_connection.js:45:12)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/routes/authorRoutes.js:15:13)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/index.js:6:22)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+2017-04-11T15:38:52.072Z - info: db_connection.js : 68 unhandledRejection Error: Trying to open unclosed connection.
+    at NativeConnection.Connection.open (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/connection.js:240:11)
+    at Mongoose.connect (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/index.js:242:47)
+    at Object.connectDB (/Users/anandpotta/sri/book-inv-data-app/src/utils/db_connection.js:45:12)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/routes/userRoutes.js:15:13)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/index.js:7:20)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+2017-04-11T15:38:52.073Z - info: db_connection.js : 68 unhandledRejection Error: Trying to open unclosed connection.
+    at NativeConnection.Connection.open (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/connection.js:240:11)
+    at Mongoose.connect (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/index.js:242:47)
+    at Object.connectDB (/Users/anandpotta/sri/book-inv-data-app/src/utils/db_connection.js:45:12)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/routes/userRoutes.js:15:13)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/index.js:7:20)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+2017-04-11T15:38:52.073Z - info: db_connection.js : 68 unhandledRejection Error: Trying to open unclosed connection.
+    at NativeConnection.Connection.open (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/connection.js:240:11)
+    at Mongoose.connect (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/index.js:242:47)
+    at Object.connectDB (/Users/anandpotta/sri/book-inv-data-app/src/utils/db_connection.js:45:12)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/routes/userRoutes.js:15:13)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/index.js:7:20)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+2017-04-11T15:38:52.091Z - info: db_connection.js : 49 Mongoose default connection open to  mongodb://localhost/bookBD
+2017-04-11T15:38:52.092Z - info: db_connection.js : 49 Mongoose default connection open to  mongodb://localhost/authorBD
+2017-04-11T15:38:52.092Z - info: db_connection.js : 49 Mongoose default connection open to  mongodb://localhost/userBD
+2017-04-11T15:39:00.830Z - info: ../routes/bookRoutes.js : 27 GET /books
+2017-04-11T15:39:00.868Z - info: ../routes/bookRoutes.js : 38 req Body in get call {}
+2017-04-11T15:39:00.868Z - info: ../routes/bookRoutes.js : 40 Rendering success JSON data in  get call :-  strictMode=true, , shardval=undefined, saveError=undefined, validationError=undefined, adhocPaths=undefined, removing=undefined, inserting=undefined, version=undefined, , _id=undefined, populate=undefined, populated=undefined, wasPopulated=false, scope=undefined, tags=init, genres=init, authors=init, seller=init, reviews=init, __v=init, price=init, publicationYear=init, _id=init, , , tags=true, genres=true, authors=true, seller=true, reviews=true, __v=true, price=true, publicationYear=true, _id=true, , , stateNames=[require, modify, init, default, ignore], ownerDocument=undefined, fullPath=undefined, domain=null, save=[function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }], isNew=[function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }], _eventsCount=2, _maxListeners=0, isNew=false, errors=undefined, tags=[], genres=[], authors=[], seller=[], reviews=[], __v=0, price=200, publicationYear=2017, _bsontype=ObjectID, 0=88, 1=235, 2=133, 3=198, 4=38, 5=187, 6=157, 7=37, 8=139, 9=240, 10=36, 11=58, strictMode=true, $ref=$[0]["$__"]["selected"], shardval=undefined, saveError=undefined, validationError=undefined, adhocPaths=undefined, removing=undefined, inserting=undefined, version=undefined, , _id=undefined, populate=undefined, populated=undefined, wasPopulated=false, scope=undefined, tags=init, genres=init, authors=init, seller=init, reviews=init, __v=init, pages=init, deliveryCharges=init, price=init, bookCower=init, publisher=init, publicationYear=init, description=init, title=init, _id=init, , , __v=true, tags=true, genres=true, authors=true, seller=true, reviews=true, pages=true, deliveryCharges=true, price=true, bookCower=true, publisher=true, publicationYear=true, description=true, title=true, _id=true, , , $ref=$[0]["$__"]["activePaths"]["stateNames"], ownerDocument=undefined, fullPath=undefined, domain=null, save=[function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }], isNew=[function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }], _eventsCount=2, _maxListeners=0, isNew=false, errors=undefined, tags=[], genres=[friction], authors=[$ref=$[1]["_doc"]["authors"], $ref=$[1], __index=0, strictMode=true, selected=undefined, shardval=undefined, saveError=undefined, validationError=undefined, adhocPaths=undefined, removing=undefined, inserting=undefined, version=undefined, , _id=undefined, populate=undefined, populated=undefined, wasPopulated=false, scope=undefined, id=init, name=init, _id=init, , , _id=true, id=true, name=true, , , $ref=$[0]["$__"]["activePaths"]["stateNames"], $ref=$[1], fullPath=authors, domain=null, isNew=function (val) {
+    _this.isNew = val;
+  }, save=function () {
+    _this.constructor.emit('save', _this);
+  }, _eventsCount=2, _maxListeners=0, isNew=false, errors=undefined, _bsontype=ObjectID, 0=88, 1=235, 2=186, 3=167, 4=48, 5=246, 6=97, 7=40, 8=178, 9=140, 10=58, 11=128, id=string, name=Saleh Hamadeh], seller=[$ref=$[1]["_doc"]["seller"], $ref=$[1], __index=0, strictMode=true, selected=undefined, shardval=undefined, saveError=undefined, validationError=undefined, adhocPaths=undefined, removing=undefined, inserting=undefined, version=undefined, , _id=undefined, populate=undefined, populated=undefined, wasPopulated=false, scope=undefined, id=init, name=init, _id=init, , , _id=true, id=true, name=true, , , $ref=$[0]["$__"]["activePaths"]["stateNames"], $ref=$[1], fullPath=seller, domain=null, isNew=function (val) {
+    _this.isNew = val;
+  }, save=function () {
+    _this.constructor.emit('save', _this);
+  }, _eventsCount=2, _maxListeners=0, isNew=false, errors=undefined, _bsontype=ObjectID, 0=88, 1=235, 2=186, 3=167, 4=48, 5=246, 6=97, 7=40, 8=178, 9=140, 10=58, 11=127, id=string, name=Packt Publishing], reviews=[$ref=$[1]["_doc"]["reviews"], $ref=$[1], __index=0, strictMode=true, selected=undefined, shardval=undefined, saveError=undefined, validationError=undefined, adhocPaths=undefined, removing=undefined, inserting=undefined, version=undefined, , _id=undefined, populate=undefined, populated=undefined, wasPopulated=false, scope=undefined, reviewerRatingOutof=init, date=init, _id=init, feedback=init, reviewerRating=init, reviewerName=init, , , date=true, _id=true, feedback=true, reviewerRatingOutof=true, reviewerRating=true, reviewerName=true, , , $ref=$[0]["$__"]["activePaths"]["stateNames"], $ref=$[1], fullPath=reviews, domain=null, isNew=function (val) {
+    _this.isNew = val;
+  }, save=function () {
+    _this.constructor.emit('save', _this);
+  }, _eventsCount=2, _maxListeners=0, isNew=false, errors=undefined, date=null, _bsontype=ObjectID, 0=88, 1=235, 2=186, 3=167, 4=48, 5=246, 6=97, 7=40, 8=178, 9=140, 10=58, 11=126, feedback=Good books to Learn, reviewerRatingOutof=5, reviewerRating=4.5, reviewerName=Srikanth], __v=0, pages=150, deliveryCharges=100, price=1200, bookCower=/images/id, publisher=Packt Publishing, publicationYear=2017, description=Since JavaScript is the language of the web, building APIs using Node.js provides a seamless development experience on both the front end and the back end. Explore the practical side of REST to build data-centric applications with Node About This Video Work through a series of guidelines and best practices to efficiently design RESTful Web APIs with Node Understand the structure of APIs, their authentication protocols, and their implementation tools This practical guide provides the knowledge you need to delve into the endless possibilities enabled by Big Data In Detail RESTful Web APIs allow developers to create unprecedented applications by leveraging the data on the internet., title=RESTful Web API Design with Node.js - Second Edition, _bsontype=ObjectID, 0=88, 1=235, 2=186, 3=167, 4=48, 5=246, 6=97, 7=40, 8=178, 9=140, 10=58, 11=125, strictMode=true, $ref=$[0]["$__"]["selected"], shardval=undefined, saveError=undefined, validationError=undefined, adhocPaths=undefined, removing=undefined, inserting=undefined, version=undefined, , _id=undefined, populate=undefined, populated=undefined, wasPopulated=false, scope=undefined, tags=init, genres=init, authors=init, seller=init, reviews=init, __v=init, pages=init, deliveryCharges=init, price=init, bookCower=init, publisher=init, publicationYear=init, description=init, title=init, _id=init, , , __v=true, tags=true, genres=true, authors=true, seller=true, reviews=true, pages=true, deliveryCharges=true, price=true, bookCower=true, publisher=true, publicationYear=true, description=true, title=true, _id=true, , , $ref=$[0]["$__"]["activePaths"]["stateNames"], ownerDocument=undefined, fullPath=undefined, domain=null, save=[function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }], isNew=[function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }], _eventsCount=2, _maxListeners=0, isNew=false, errors=undefined, tags=[], genres=[friction], authors=[$ref=$[2]["_doc"]["authors"], $ref=$[2], __index=0, strictMode=true, selected=undefined, shardval=undefined, saveError=undefined, validationError=undefined, adhocPaths=undefined, removing=undefined, inserting=undefined, version=undefined, , _id=undefined, populate=undefined, populated=undefined, wasPopulated=false, scope=undefined, id=init, name=init, _id=init, , , _id=true, id=true, name=true, , , $ref=$[0]["$__"]["activePaths"]["stateNames"], $ref=$[2], fullPath=authors, domain=null, isNew=function (val) {
+    _this.isNew = val;
+  }, save=function () {
+    _this.constructor.emit('save', _this);
+  }, _eventsCount=2, _maxListeners=0, isNew=false, errors=undefined, _bsontype=ObjectID, 0=88, 1=235, 2=186, 3=203, 4=48, 5=246, 6=97, 7=40, 8=178, 9=140, 10=58, 11=132, id=string, name=Saleh Hamadeh], seller=[$ref=$[2]["_doc"]["seller"], $ref=$[2], __index=0, strictMode=true, selected=undefined, shardval=undefined, saveError=undefined, validationError=undefined, adhocPaths=undefined, removing=undefined, inserting=undefined, version=undefined, , _id=undefined, populate=undefined, populated=undefined, wasPopulated=false, scope=undefined, id=init, name=init, _id=init, , , _id=true, id=true, name=true, , , $ref=$[0]["$__"]["activePaths"]["stateNames"], $ref=$[2], fullPath=seller, domain=null, isNew=function (val) {
+    _this.isNew = val;
+  }, save=function () {
+    _this.constructor.emit('save', _this);
+  }, _eventsCount=2, _maxListeners=0, isNew=false, errors=undefined, _bsontype=ObjectID, 0=88, 1=235, 2=186, 3=203, 4=48, 5=246, 6=97, 7=40, 8=178, 9=140, 10=58, 11=131, id=string, name=Packt Publishing], reviews=[$ref=$[2]["_doc"]["reviews"], $ref=$[2], __index=0, strictMode=true, selected=undefined, shardval=undefined, saveError=undefined, validationError=undefined, adhocPaths=undefined, removing=undefined, inserting=undefined, version=undefined, , _id=undefined, populate=undefined, populated=undefined, wasPopulated=false, scope=undefined, reviewerRatingOutof=init, date=init, _id=init, feedback=init, reviewerRating=init, reviewerName=init, , , date=true, _id=true, feedback=true, reviewerRatingOutof=true, reviewerRating=true, reviewerName=true, , , $ref=$[0]["$__"]["activePaths"]["stateNames"], $ref=$[2], fullPath=reviews, domain=null, isNew=function (val) {
+    _this.isNew = val;
+  }, save=function () {
+    _this.constructor.emit('save', _this);
+  }, _eventsCount=2, _maxListeners=0, isNew=false, errors=undefined, date=Mon Apr 10 2017 22:32:00 GMT+0530 (IST), _bsontype=ObjectID, 0=88, 1=235, 2=186, 3=203, 4=48, 5=246, 6=97, 7=40, 8=178, 9=140, 10=58, 11=130, feedback=Good books to Learn, reviewerRatingOutof=5, reviewerRating=4.5, reviewerName=Srikanth], __v=0, pages=150, deliveryCharges=100, price=1200, bookCower=/images/id, publisher=Packt Publishing, publicationYear=2017, description=Since JavaScript is the language of the web, building APIs using Node.js provides a seamless development experience on both the front end and the back end. Explore the practical side of REST to build data-centric applications with Node About This Video Work through a series of guidelines and best practices to efficiently design RESTful Web APIs with Node Understand the structure of APIs, their authentication protocols, and their implementation tools This practical guide provides the knowledge you need to delve into the endless possibilities enabled by Big Data In Detail RESTful Web APIs allow developers to create unprecedented applications by leveraging the data on the internet., title=RESTful Web API Design with Node.js - Second Edition, _bsontype=ObjectID, 0=88, 1=235, 2=186, 3=203, 4=48, 5=246, 6=97, 7=40, 8=178, 9=140, 10=58, 11=129, strictMode=true, $ref=$[0]["$__"]["selected"], shardval=undefined, saveError=undefined, validationError=undefined, adhocPaths=undefined, removing=undefined, inserting=undefined, version=undefined, , _id=undefined, populate=undefined, populated=undefined, wasPopulated=false, scope=undefined, tags=init, genres=init, authors=init, seller=init, reviews=init, __v=init, _id=init, , , __v=true, tags=true, genres=true, authors=true, seller=true, reviews=true, _id=true, , , $ref=$[0]["$__"]["activePaths"]["stateNames"], ownerDocument=undefined, fullPath=undefined, domain=null, save=[function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }], isNew=[function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }], _eventsCount=2, _maxListeners=0, isNew=false, errors=undefined, tags=[], genres=[], authors=[], seller=[], reviews=[], __v=0, _bsontype=ObjectID, 0=88, 1=235, 2=236, 3=206, 4=83, 5=232, 6=180, 7=45, 8=182, 9=89, 10=2, 11=134
+2017-04-11T15:39:06.762Z - info: ../routes/bookRoutes.js : 27 GET /books
+2017-04-11T15:39:06.783Z - info: ../routes/bookRoutes.js : 38 req Body in get call {}
+2017-04-11T15:39:06.783Z - info: ../routes/bookRoutes.js : 40 Rendering success JSON data in  get call :-  strictMode=true, , shardval=undefined, saveError=undefined, validationError=undefined, adhocPaths=undefined, removing=undefined, inserting=undefined, version=undefined, , _id=undefined, populate=undefined, populated=undefined, wasPopulated=false, scope=undefined, tags=init, genres=init, authors=init, seller=init, reviews=init, __v=init, price=init, publicationYear=init, _id=init, , , tags=true, genres=true, authors=true, seller=true, reviews=true, __v=true, price=true, publicationYear=true, _id=true, , , stateNames=[require, modify, init, default, ignore], ownerDocument=undefined, fullPath=undefined, domain=null, save=[function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }], isNew=[function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }], _eventsCount=2, _maxListeners=0, isNew=false, errors=undefined, tags=[], genres=[], authors=[], seller=[], reviews=[], __v=0, price=200, publicationYear=2017, _bsontype=ObjectID, 0=88, 1=235, 2=133, 3=198, 4=38, 5=187, 6=157, 7=37, 8=139, 9=240, 10=36, 11=58, strictMode=true, $ref=$[0]["$__"]["selected"], shardval=undefined, saveError=undefined, validationError=undefined, adhocPaths=undefined, removing=undefined, inserting=undefined, version=undefined, , _id=undefined, populate=undefined, populated=undefined, wasPopulated=false, scope=undefined, tags=init, genres=init, authors=init, seller=init, reviews=init, __v=init, pages=init, deliveryCharges=init, price=init, bookCower=init, publisher=init, publicationYear=init, description=init, title=init, _id=init, , , __v=true, tags=true, genres=true, authors=true, seller=true, reviews=true, pages=true, deliveryCharges=true, price=true, bookCower=true, publisher=true, publicationYear=true, description=true, title=true, _id=true, , , $ref=$[0]["$__"]["activePaths"]["stateNames"], ownerDocument=undefined, fullPath=undefined, domain=null, save=[function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }], isNew=[function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }], _eventsCount=2, _maxListeners=0, isNew=false, errors=undefined, tags=[], genres=[friction], authors=[$ref=$[1]["_doc"]["authors"], $ref=$[1], __index=0, strictMode=true, selected=undefined, shardval=undefined, saveError=undefined, validationError=undefined, adhocPaths=undefined, removing=undefined, inserting=undefined, version=undefined, , _id=undefined, populate=undefined, populated=undefined, wasPopulated=false, scope=undefined, id=init, name=init, _id=init, , , _id=true, id=true, name=true, , , $ref=$[0]["$__"]["activePaths"]["stateNames"], $ref=$[1], fullPath=authors, domain=null, isNew=function (val) {
+    _this.isNew = val;
+  }, save=function () {
+    _this.constructor.emit('save', _this);
+  }, _eventsCount=2, _maxListeners=0, isNew=false, errors=undefined, _bsontype=ObjectID, 0=88, 1=235, 2=186, 3=167, 4=48, 5=246, 6=97, 7=40, 8=178, 9=140, 10=58, 11=128, id=string, name=Saleh Hamadeh], seller=[$ref=$[1]["_doc"]["seller"], $ref=$[1], __index=0, strictMode=true, selected=undefined, shardval=undefined, saveError=undefined, validationError=undefined, adhocPaths=undefined, removing=undefined, inserting=undefined, version=undefined, , _id=undefined, populate=undefined, populated=undefined, wasPopulated=false, scope=undefined, id=init, name=init, _id=init, , , _id=true, id=true, name=true, , , $ref=$[0]["$__"]["activePaths"]["stateNames"], $ref=$[1], fullPath=seller, domain=null, isNew=function (val) {
+    _this.isNew = val;
+  }, save=function () {
+    _this.constructor.emit('save', _this);
+  }, _eventsCount=2, _maxListeners=0, isNew=false, errors=undefined, _bsontype=ObjectID, 0=88, 1=235, 2=186, 3=167, 4=48, 5=246, 6=97, 7=40, 8=178, 9=140, 10=58, 11=127, id=string, name=Packt Publishing], reviews=[$ref=$[1]["_doc"]["reviews"], $ref=$[1], __index=0, strictMode=true, selected=undefined, shardval=undefined, saveError=undefined, validationError=undefined, adhocPaths=undefined, removing=undefined, inserting=undefined, version=undefined, , _id=undefined, populate=undefined, populated=undefined, wasPopulated=false, scope=undefined, reviewerRatingOutof=init, date=init, _id=init, feedback=init, reviewerRating=init, reviewerName=init, , , date=true, _id=true, feedback=true, reviewerRatingOutof=true, reviewerRating=true, reviewerName=true, , , $ref=$[0]["$__"]["activePaths"]["stateNames"], $ref=$[1], fullPath=reviews, domain=null, isNew=function (val) {
+    _this.isNew = val;
+  }, save=function () {
+    _this.constructor.emit('save', _this);
+  }, _eventsCount=2, _maxListeners=0, isNew=false, errors=undefined, date=null, _bsontype=ObjectID, 0=88, 1=235, 2=186, 3=167, 4=48, 5=246, 6=97, 7=40, 8=178, 9=140, 10=58, 11=126, feedback=Good books to Learn, reviewerRatingOutof=5, reviewerRating=4.5, reviewerName=Srikanth], __v=0, pages=150, deliveryCharges=100, price=1200, bookCower=/images/id, publisher=Packt Publishing, publicationYear=2017, description=Since JavaScript is the language of the web, building APIs using Node.js provides a seamless development experience on both the front end and the back end. Explore the practical side of REST to build data-centric applications with Node About This Video Work through a series of guidelines and best practices to efficiently design RESTful Web APIs with Node Understand the structure of APIs, their authentication protocols, and their implementation tools This practical guide provides the knowledge you need to delve into the endless possibilities enabled by Big Data In Detail RESTful Web APIs allow developers to create unprecedented applications by leveraging the data on the internet., title=RESTful Web API Design with Node.js - Second Edition, _bsontype=ObjectID, 0=88, 1=235, 2=186, 3=167, 4=48, 5=246, 6=97, 7=40, 8=178, 9=140, 10=58, 11=125, strictMode=true, $ref=$[0]["$__"]["selected"], shardval=undefined, saveError=undefined, validationError=undefined, adhocPaths=undefined, removing=undefined, inserting=undefined, version=undefined, , _id=undefined, populate=undefined, populated=undefined, wasPopulated=false, scope=undefined, tags=init, genres=init, authors=init, seller=init, reviews=init, __v=init, pages=init, deliveryCharges=init, price=init, bookCower=init, publisher=init, publicationYear=init, description=init, title=init, _id=init, , , __v=true, tags=true, genres=true, authors=true, seller=true, reviews=true, pages=true, deliveryCharges=true, price=true, bookCower=true, publisher=true, publicationYear=true, description=true, title=true, _id=true, , , $ref=$[0]["$__"]["activePaths"]["stateNames"], ownerDocument=undefined, fullPath=undefined, domain=null, save=[function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }], isNew=[function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }], _eventsCount=2, _maxListeners=0, isNew=false, errors=undefined, tags=[], genres=[friction], authors=[$ref=$[2]["_doc"]["authors"], $ref=$[2], __index=0, strictMode=true, selected=undefined, shardval=undefined, saveError=undefined, validationError=undefined, adhocPaths=undefined, removing=undefined, inserting=undefined, version=undefined, , _id=undefined, populate=undefined, populated=undefined, wasPopulated=false, scope=undefined, id=init, name=init, _id=init, , , _id=true, id=true, name=true, , , $ref=$[0]["$__"]["activePaths"]["stateNames"], $ref=$[2], fullPath=authors, domain=null, isNew=function (val) {
+    _this.isNew = val;
+  }, save=function () {
+    _this.constructor.emit('save', _this);
+  }, _eventsCount=2, _maxListeners=0, isNew=false, errors=undefined, _bsontype=ObjectID, 0=88, 1=235, 2=186, 3=203, 4=48, 5=246, 6=97, 7=40, 8=178, 9=140, 10=58, 11=132, id=string, name=Saleh Hamadeh], seller=[$ref=$[2]["_doc"]["seller"], $ref=$[2], __index=0, strictMode=true, selected=undefined, shardval=undefined, saveError=undefined, validationError=undefined, adhocPaths=undefined, removing=undefined, inserting=undefined, version=undefined, , _id=undefined, populate=undefined, populated=undefined, wasPopulated=false, scope=undefined, id=init, name=init, _id=init, , , _id=true, id=true, name=true, , , $ref=$[0]["$__"]["activePaths"]["stateNames"], $ref=$[2], fullPath=seller, domain=null, isNew=function (val) {
+    _this.isNew = val;
+  }, save=function () {
+    _this.constructor.emit('save', _this);
+  }, _eventsCount=2, _maxListeners=0, isNew=false, errors=undefined, _bsontype=ObjectID, 0=88, 1=235, 2=186, 3=203, 4=48, 5=246, 6=97, 7=40, 8=178, 9=140, 10=58, 11=131, id=string, name=Packt Publishing], reviews=[$ref=$[2]["_doc"]["reviews"], $ref=$[2], __index=0, strictMode=true, selected=undefined, shardval=undefined, saveError=undefined, validationError=undefined, adhocPaths=undefined, removing=undefined, inserting=undefined, version=undefined, , _id=undefined, populate=undefined, populated=undefined, wasPopulated=false, scope=undefined, reviewerRatingOutof=init, date=init, _id=init, feedback=init, reviewerRating=init, reviewerName=init, , , date=true, _id=true, feedback=true, reviewerRatingOutof=true, reviewerRating=true, reviewerName=true, , , $ref=$[0]["$__"]["activePaths"]["stateNames"], $ref=$[2], fullPath=reviews, domain=null, isNew=function (val) {
+    _this.isNew = val;
+  }, save=function () {
+    _this.constructor.emit('save', _this);
+  }, _eventsCount=2, _maxListeners=0, isNew=false, errors=undefined, date=Mon Apr 10 2017 22:32:00 GMT+0530 (IST), _bsontype=ObjectID, 0=88, 1=235, 2=186, 3=203, 4=48, 5=246, 6=97, 7=40, 8=178, 9=140, 10=58, 11=130, feedback=Good books to Learn, reviewerRatingOutof=5, reviewerRating=4.5, reviewerName=Srikanth], __v=0, pages=150, deliveryCharges=100, price=1200, bookCower=/images/id, publisher=Packt Publishing, publicationYear=2017, description=Since JavaScript is the language of the web, building APIs using Node.js provides a seamless development experience on both the front end and the back end. Explore the practical side of REST to build data-centric applications with Node About This Video Work through a series of guidelines and best practices to efficiently design RESTful Web APIs with Node Understand the structure of APIs, their authentication protocols, and their implementation tools This practical guide provides the knowledge you need to delve into the endless possibilities enabled by Big Data In Detail RESTful Web APIs allow developers to create unprecedented applications by leveraging the data on the internet., title=RESTful Web API Design with Node.js - Second Edition, _bsontype=ObjectID, 0=88, 1=235, 2=186, 3=203, 4=48, 5=246, 6=97, 7=40, 8=178, 9=140, 10=58, 11=129, strictMode=true, $ref=$[0]["$__"]["selected"], shardval=undefined, saveError=undefined, validationError=undefined, adhocPaths=undefined, removing=undefined, inserting=undefined, version=undefined, , _id=undefined, populate=undefined, populated=undefined, wasPopulated=false, scope=undefined, tags=init, genres=init, authors=init, seller=init, reviews=init, __v=init, _id=init, , , __v=true, tags=true, genres=true, authors=true, seller=true, reviews=true, _id=true, , , $ref=$[0]["$__"]["activePaths"]["stateNames"], ownerDocument=undefined, fullPath=undefined, domain=null, save=[function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }], isNew=[function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }], _eventsCount=2, _maxListeners=0, isNew=false, errors=undefined, tags=[], genres=[], authors=[], seller=[], reviews=[], __v=0, _bsontype=ObjectID, 0=88, 1=235, 2=236, 3=206, 4=83, 5=232, 6=180, 7=45, 8=182, 9=89, 10=2, 11=134
+2017-04-11T15:39:13.044Z - info: ../routes/userRoutes.js : 28 GET /users
+2017-04-11T15:39:13.047Z - info: ../routes/userRoutes.js : 35 Success in getting authors info []
+2017-04-11T15:43:35.368Z - info: db_connection.js : 57 Mongoose default connection disconnected
+2017-04-11T15:43:46.598Z - info: db_connection.js : 29 connecting to booksDb
+2017-04-11T15:43:46.629Z - info: db_connection.js : 33 connecting to authorBD
+2017-04-11T15:43:46.631Z - error: db_connection.js : 53 Mongoose default connection error:  Error: Trying to open unclosed connection.
+    at NativeConnection.Connection.open (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/connection.js:240:11)
+    at Mongoose.connect (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/index.js:242:47)
+    at Object.connectDB (/Users/anandpotta/sri/book-inv-data-app/src/utils/db_connection.js:45:12)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/routes/authorRoutes.js:15:13)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/index.js:6:22)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+2017-04-11T15:43:46.635Z - info: db_connection.js : 37 connecting to userBD
+2017-04-11T15:43:46.635Z - error: db_connection.js : 53 Mongoose default connection error:  Error: Trying to open unclosed connection.
+    at NativeConnection.Connection.open (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/connection.js:240:11)
+    at Mongoose.connect (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/index.js:242:47)
+    at Object.connectDB (/Users/anandpotta/sri/book-inv-data-app/src/utils/db_connection.js:45:12)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/routes/userRoutes.js:15:13)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/index.js:7:20)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+2017-04-11T15:43:46.635Z - error: db_connection.js : 53 Mongoose default connection error:  Error: Trying to open unclosed connection.
+    at NativeConnection.Connection.open (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/connection.js:240:11)
+    at Mongoose.connect (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/index.js:242:47)
+    at Object.connectDB (/Users/anandpotta/sri/book-inv-data-app/src/utils/db_connection.js:45:12)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/routes/userRoutes.js:15:13)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/index.js:7:20)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+2017-04-11T15:43:46.641Z - info: ../index.js : 15 App Started
+2017-04-11T15:43:46.642Z - info: ../routes/bookRoutes.js : 15 in to Books routes init function
+2017-04-11T15:43:46.643Z - info: ../routes/authorRoutes.js : 18 authors routes init functionality
+2017-04-11T15:43:46.643Z - info: ../index.js : 19 -------------------- done ----------------------- 
+2017-04-11T15:43:46.654Z - info: db_connection.js : 68 unhandledRejection Error: Trying to open unclosed connection.
+    at NativeConnection.Connection.open (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/connection.js:240:11)
+    at Mongoose.connect (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/index.js:242:47)
+    at Object.connectDB (/Users/anandpotta/sri/book-inv-data-app/src/utils/db_connection.js:45:12)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/routes/authorRoutes.js:15:13)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/index.js:6:22)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+2017-04-11T15:43:46.655Z - info: db_connection.js : 68 unhandledRejection Error: Trying to open unclosed connection.
+    at NativeConnection.Connection.open (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/connection.js:240:11)
+    at Mongoose.connect (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/index.js:242:47)
+    at Object.connectDB (/Users/anandpotta/sri/book-inv-data-app/src/utils/db_connection.js:45:12)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/routes/authorRoutes.js:15:13)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/index.js:6:22)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+2017-04-11T15:43:46.655Z - info: db_connection.js : 68 unhandledRejection Error: Trying to open unclosed connection.
+    at NativeConnection.Connection.open (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/connection.js:240:11)
+    at Mongoose.connect (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/index.js:242:47)
+    at Object.connectDB (/Users/anandpotta/sri/book-inv-data-app/src/utils/db_connection.js:45:12)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/routes/authorRoutes.js:15:13)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/index.js:6:22)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+2017-04-11T15:43:46.655Z - info: db_connection.js : 68 unhandledRejection Error: Trying to open unclosed connection.
+    at NativeConnection.Connection.open (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/connection.js:240:11)
+    at Mongoose.connect (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/index.js:242:47)
+    at Object.connectDB (/Users/anandpotta/sri/book-inv-data-app/src/utils/db_connection.js:45:12)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/routes/userRoutes.js:15:13)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/index.js:7:20)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+2017-04-11T15:43:46.655Z - info: db_connection.js : 68 unhandledRejection Error: Trying to open unclosed connection.
+    at NativeConnection.Connection.open (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/connection.js:240:11)
+    at Mongoose.connect (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/index.js:242:47)
+    at Object.connectDB (/Users/anandpotta/sri/book-inv-data-app/src/utils/db_connection.js:45:12)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/routes/userRoutes.js:15:13)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/index.js:7:20)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+2017-04-11T15:43:46.655Z - info: db_connection.js : 68 unhandledRejection Error: Trying to open unclosed connection.
+    at NativeConnection.Connection.open (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/connection.js:240:11)
+    at Mongoose.connect (/Users/anandpotta/sri/book-inv-data-app/node_modules/mongoose/lib/index.js:242:47)
+    at Object.connectDB (/Users/anandpotta/sri/book-inv-data-app/src/utils/db_connection.js:45:12)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/routes/userRoutes.js:15:13)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/anandpotta/sri/book-inv-data-app/src/index.js:7:20)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+2017-04-11T15:43:46.673Z - info: db_connection.js : 49 Mongoose default connection open to  mongodb://localhost/bookBD
+2017-04-11T15:43:46.673Z - info: db_connection.js : 49 Mongoose default connection open to  mongodb://localhost/authorBD
+2017-04-11T15:43:46.674Z - info: db_connection.js : 49 Mongoose default connection open to  mongodb://localhost/userBD
+2017-04-11T15:43:59.665Z - info: ../routes/userRoutes.js : 28 GET /users
+2017-04-11T15:43:59.676Z - info: ../routes/userRoutes.js : 35 Success in getting authors info []
+2017-04-11T15:48:57.933Z - info: ../routes/bookRoutes.js : 27 GET /books
+2017-04-11T15:48:57.947Z - info: ../routes/bookRoutes.js : 38 req Body in get call {}
+2017-04-11T15:48:57.947Z - info: ../routes/bookRoutes.js : 40 Rendering success JSON data in  get call :-  strictMode=true, , shardval=undefined, saveError=undefined, validationError=undefined, adhocPaths=undefined, removing=undefined, inserting=undefined, version=undefined, , _id=undefined, populate=undefined, populated=undefined, wasPopulated=false, scope=undefined, tags=init, genres=init, authors=init, seller=init, reviews=init, __v=init, price=init, publicationYear=init, _id=init, , , tags=true, genres=true, authors=true, seller=true, reviews=true, __v=true, price=true, publicationYear=true, _id=true, , , stateNames=[require, modify, init, default, ignore], ownerDocument=undefined, fullPath=undefined, domain=null, save=[function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }], isNew=[function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }], _eventsCount=2, _maxListeners=0, isNew=false, errors=undefined, tags=[], genres=[], authors=[], seller=[], reviews=[], __v=0, price=200, publicationYear=2017, _bsontype=ObjectID, 0=88, 1=235, 2=133, 3=198, 4=38, 5=187, 6=157, 7=37, 8=139, 9=240, 10=36, 11=58, strictMode=true, $ref=$[0]["$__"]["selected"], shardval=undefined, saveError=undefined, validationError=undefined, adhocPaths=undefined, removing=undefined, inserting=undefined, version=undefined, , _id=undefined, populate=undefined, populated=undefined, wasPopulated=false, scope=undefined, tags=init, genres=init, authors=init, seller=init, reviews=init, __v=init, pages=init, deliveryCharges=init, price=init, bookCower=init, publisher=init, publicationYear=init, description=init, title=init, _id=init, , , __v=true, tags=true, genres=true, authors=true, seller=true, reviews=true, pages=true, deliveryCharges=true, price=true, bookCower=true, publisher=true, publicationYear=true, description=true, title=true, _id=true, , , $ref=$[0]["$__"]["activePaths"]["stateNames"], ownerDocument=undefined, fullPath=undefined, domain=null, save=[function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }], isNew=[function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }], _eventsCount=2, _maxListeners=0, isNew=false, errors=undefined, tags=[], genres=[friction], authors=[$ref=$[1]["_doc"]["authors"], $ref=$[1], __index=0, strictMode=true, selected=undefined, shardval=undefined, saveError=undefined, validationError=undefined, adhocPaths=undefined, removing=undefined, inserting=undefined, version=undefined, , _id=undefined, populate=undefined, populated=undefined, wasPopulated=false, scope=undefined, id=init, name=init, _id=init, , , _id=true, id=true, name=true, , , $ref=$[0]["$__"]["activePaths"]["stateNames"], $ref=$[1], fullPath=authors, domain=null, isNew=function (val) {
+    _this.isNew = val;
+  }, save=function () {
+    _this.constructor.emit('save', _this);
+  }, _eventsCount=2, _maxListeners=0, isNew=false, errors=undefined, _bsontype=ObjectID, 0=88, 1=235, 2=186, 3=167, 4=48, 5=246, 6=97, 7=40, 8=178, 9=140, 10=58, 11=128, id=string, name=Saleh Hamadeh], seller=[$ref=$[1]["_doc"]["seller"], $ref=$[1], __index=0, strictMode=true, selected=undefined, shardval=undefined, saveError=undefined, validationError=undefined, adhocPaths=undefined, removing=undefined, inserting=undefined, version=undefined, , _id=undefined, populate=undefined, populated=undefined, wasPopulated=false, scope=undefined, id=init, name=init, _id=init, , , _id=true, id=true, name=true, , , $ref=$[0]["$__"]["activePaths"]["stateNames"], $ref=$[1], fullPath=seller, domain=null, isNew=function (val) {
+    _this.isNew = val;
+  }, save=function () {
+    _this.constructor.emit('save', _this);
+  }, _eventsCount=2, _maxListeners=0, isNew=false, errors=undefined, _bsontype=ObjectID, 0=88, 1=235, 2=186, 3=167, 4=48, 5=246, 6=97, 7=40, 8=178, 9=140, 10=58, 11=127, id=string, name=Packt Publishing], reviews=[$ref=$[1]["_doc"]["reviews"], $ref=$[1], __index=0, strictMode=true, selected=undefined, shardval=undefined, saveError=undefined, validationError=undefined, adhocPaths=undefined, removing=undefined, inserting=undefined, version=undefined, , _id=undefined, populate=undefined, populated=undefined, wasPopulated=false, scope=undefined, reviewerRatingOutof=init, date=init, _id=init, feedback=init, reviewerRating=init, reviewerName=init, , , date=true, _id=true, feedback=true, reviewerRatingOutof=true, reviewerRating=true, reviewerName=true, , , $ref=$[0]["$__"]["activePaths"]["stateNames"], $ref=$[1], fullPath=reviews, domain=null, isNew=function (val) {
+    _this.isNew = val;
+  }, save=function () {
+    _this.constructor.emit('save', _this);
+  }, _eventsCount=2, _maxListeners=0, isNew=false, errors=undefined, date=null, _bsontype=ObjectID, 0=88, 1=235, 2=186, 3=167, 4=48, 5=246, 6=97, 7=40, 8=178, 9=140, 10=58, 11=126, feedback=Good books to Learn, reviewerRatingOutof=5, reviewerRating=4.5, reviewerName=Srikanth], __v=0, pages=150, deliveryCharges=100, price=1200, bookCower=/images/id, publisher=Packt Publishing, publicationYear=2017, description=Since JavaScript is the language of the web, building APIs using Node.js provides a seamless development experience on both the front end and the back end. Explore the practical side of REST to build data-centric applications with Node About This Video Work through a series of guidelines and best practices to efficiently design RESTful Web APIs with Node Understand the structure of APIs, their authentication protocols, and their implementation tools This practical guide provides the knowledge you need to delve into the endless possibilities enabled by Big Data In Detail RESTful Web APIs allow developers to create unprecedented applications by leveraging the data on the internet., title=RESTful Web API Design with Node.js - Second Edition, _bsontype=ObjectID, 0=88, 1=235, 2=186, 3=167, 4=48, 5=246, 6=97, 7=40, 8=178, 9=140, 10=58, 11=125, strictMode=true, $ref=$[0]["$__"]["selected"], shardval=undefined, saveError=undefined, validationError=undefined, adhocPaths=undefined, removing=undefined, inserting=undefined, version=undefined, , _id=undefined, populate=undefined, populated=undefined, wasPopulated=false, scope=undefined, tags=init, genres=init, authors=init, seller=init, reviews=init, __v=init, pages=init, deliveryCharges=init, price=init, bookCower=init, publisher=init, publicationYear=init, description=init, title=init, _id=init, , , __v=true, tags=true, genres=true, authors=true, seller=true, reviews=true, pages=true, deliveryCharges=true, price=true, bookCower=true, publisher=true, publicationYear=true, description=true, title=true, _id=true, , , $ref=$[0]["$__"]["activePaths"]["stateNames"], ownerDocument=undefined, fullPath=undefined, domain=null, save=[function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }], isNew=[function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }], _eventsCount=2, _maxListeners=0, isNew=false, errors=undefined, tags=[], genres=[friction], authors=[$ref=$[2]["_doc"]["authors"], $ref=$[2], __index=0, strictMode=true, selected=undefined, shardval=undefined, saveError=undefined, validationError=undefined, adhocPaths=undefined, removing=undefined, inserting=undefined, version=undefined, , _id=undefined, populate=undefined, populated=undefined, wasPopulated=false, scope=undefined, id=init, name=init, _id=init, , , _id=true, id=true, name=true, , , $ref=$[0]["$__"]["activePaths"]["stateNames"], $ref=$[2], fullPath=authors, domain=null, isNew=function (val) {
+    _this.isNew = val;
+  }, save=function () {
+    _this.constructor.emit('save', _this);
+  }, _eventsCount=2, _maxListeners=0, isNew=false, errors=undefined, _bsontype=ObjectID, 0=88, 1=235, 2=186, 3=203, 4=48, 5=246, 6=97, 7=40, 8=178, 9=140, 10=58, 11=132, id=string, name=Saleh Hamadeh], seller=[$ref=$[2]["_doc"]["seller"], $ref=$[2], __index=0, strictMode=true, selected=undefined, shardval=undefined, saveError=undefined, validationError=undefined, adhocPaths=undefined, removing=undefined, inserting=undefined, version=undefined, , _id=undefined, populate=undefined, populated=undefined, wasPopulated=false, scope=undefined, id=init, name=init, _id=init, , , _id=true, id=true, name=true, , , $ref=$[0]["$__"]["activePaths"]["stateNames"], $ref=$[2], fullPath=seller, domain=null, isNew=function (val) {
+    _this.isNew = val;
+  }, save=function () {
+    _this.constructor.emit('save', _this);
+  }, _eventsCount=2, _maxListeners=0, isNew=false, errors=undefined, _bsontype=ObjectID, 0=88, 1=235, 2=186, 3=203, 4=48, 5=246, 6=97, 7=40, 8=178, 9=140, 10=58, 11=131, id=string, name=Packt Publishing], reviews=[$ref=$[2]["_doc"]["reviews"], $ref=$[2], __index=0, strictMode=true, selected=undefined, shardval=undefined, saveError=undefined, validationError=undefined, adhocPaths=undefined, removing=undefined, inserting=undefined, version=undefined, , _id=undefined, populate=undefined, populated=undefined, wasPopulated=false, scope=undefined, reviewerRatingOutof=init, date=init, _id=init, feedback=init, reviewerRating=init, reviewerName=init, , , date=true, _id=true, feedback=true, reviewerRatingOutof=true, reviewerRating=true, reviewerName=true, , , $ref=$[0]["$__"]["activePaths"]["stateNames"], $ref=$[2], fullPath=reviews, domain=null, isNew=function (val) {
+    _this.isNew = val;
+  }, save=function () {
+    _this.constructor.emit('save', _this);
+  }, _eventsCount=2, _maxListeners=0, isNew=false, errors=undefined, date=Mon Apr 10 2017 22:32:00 GMT+0530 (IST), _bsontype=ObjectID, 0=88, 1=235, 2=186, 3=203, 4=48, 5=246, 6=97, 7=40, 8=178, 9=140, 10=58, 11=130, feedback=Good books to Learn, reviewerRatingOutof=5, reviewerRating=4.5, reviewerName=Srikanth], __v=0, pages=150, deliveryCharges=100, price=1200, bookCower=/images/id, publisher=Packt Publishing, publicationYear=2017, description=Since JavaScript is the language of the web, building APIs using Node.js provides a seamless development experience on both the front end and the back end. Explore the practical side of REST to build data-centric applications with Node About This Video Work through a series of guidelines and best practices to efficiently design RESTful Web APIs with Node Understand the structure of APIs, their authentication protocols, and their implementation tools This practical guide provides the knowledge you need to delve into the endless possibilities enabled by Big Data In Detail RESTful Web APIs allow developers to create unprecedented applications by leveraging the data on the internet., title=RESTful Web API Design with Node.js - Second Edition, _bsontype=ObjectID, 0=88, 1=235, 2=186, 3=203, 4=48, 5=246, 6=97, 7=40, 8=178, 9=140, 10=58, 11=129, strictMode=true, $ref=$[0]["$__"]["selected"], shardval=undefined, saveError=undefined, validationError=undefined, adhocPaths=undefined, removing=undefined, inserting=undefined, version=undefined, , _id=undefined, populate=undefined, populated=undefined, wasPopulated=false, scope=undefined, tags=init, genres=init, authors=init, seller=init, reviews=init, __v=init, _id=init, , , __v=true, tags=true, genres=true, authors=true, seller=true, reviews=true, _id=true, , , $ref=$[0]["$__"]["activePaths"]["stateNames"], ownerDocument=undefined, fullPath=undefined, domain=null, save=[function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }], isNew=[function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }, function notify(val) {
+      var i = _this.length;
+      while (i--) {
+        if (!_this[i]) {
+          continue;
+        }
+        switch (event) {
+          // only swap for save event for now, we may change this to all event types later
+          case 'save':
+            val = _this[i];
+            break;
+          default:
+            // NO-OP
+            break;
+        }
+        _this[i].emit(event, val);
+      }
+    }], _eventsCount=2, _maxListeners=0, isNew=false, errors=undefined, tags=[], genres=[], authors=[], seller=[], reviews=[], __v=0, _bsontype=ObjectID, 0=88, 1=235, 2=236, 3=206, 4=83, 5=232, 6=180, 7=45, 8=182, 9=89, 10=2, 11=134
+2017-04-11T15:49:33.660Z - info: ../routes/userRoutes.js : 28 GET /users
+2017-04-11T15:49:33.663Z - info: ../routes/userRoutes.js : 35 Success in getting authors info []
+2017-04-11T15:50:27.280Z - info: ../routes/userRoutes.js : 47 POST /addToCart
+2017-04-11T15:50:27.316Z - info: ../routes/userRoutes.js : 55 Succeed in creating newAuthor to userBD

@@ -1,0 +1,394 @@
+2017-04-02T18:23:47.864Z - info: index.js : 52 POST /book
+2017-04-02T18:25:28.088Z - info: index.js : 17 App Started
+2017-04-02T18:25:30.993Z - info: index.js : 52 POST /book
+2017-04-02T18:25:30.997Z - info: index.js : 59 Adding New book { title: 'EXTJS-3', price: '999', author: [ 'ben' ] }
+2017-04-02T18:25:30.998Z - info: index.js : 63 Updated books ::::  [{"title":"EXTJS-3","price":"999","author":["ben"],"id":"ec5a32b4-95e1-4b92-b086-44a281699316"}]
+2017-04-02T18:25:31.000Z - info: index.js : 65 scheemaResult :-  { success: true,
+  data: 
+   [ { title: 'EXTJS-3',
+       price: '999',
+       author: [Object],
+       id: 'ec5a32b4-95e1-4b92-b086-44a281699316' } ] }
+2017-04-02T18:25:31.001Z - info: index.js : 68 success in validating scheema can proceed write to json
+2017-04-02T18:25:31.001Z - info: index.js : 74 adding new data to json 
+2017-04-02T18:25:31.004Z - info: index.js : 84 seding new data to responce.
+2017-04-02T18:25:31.416Z - info: index.js : 17 App Started
+2017-04-02T18:33:06.654Z - info: index.js : 17 App Started
+2017-04-02T18:33:07.002Z - info: index.js : 17 App Started
+2017-04-02T18:33:09.553Z - info: index.js : 17 App Started
+2017-04-02T18:33:26.991Z - info: index.js : 52 POST /book
+2017-04-02T18:33:57.885Z - info: index.js : 17 App Started
+2017-04-02T18:33:58.608Z - info: index.js : 17 App Started
+2017-04-02T18:34:01.986Z - info: index.js : 52 POST /book
+2017-04-02T18:34:01.992Z - info: index.js : 59 Adding New book { title: 'js-3', price: '111', author: [ 'ben' ] }
+2017-04-02T18:34:01.993Z - info: index.js : 63 Updated books ::::  [{"title":"js-3","price":"111","author":["ben"],"id":"e1f9ee87-71f7-4631-b11d-e4636200459d"}]
+2017-04-02T18:34:01.995Z - info: index.js : 65 scheemaResult :-  { success: true,
+  data: 
+   [ { title: 'js-3',
+       price: '111',
+       author: [Object],
+       id: 'e1f9ee87-71f7-4631-b11d-e4636200459d' } ] }
+2017-04-02T18:34:01.996Z - info: index.js : 68 success in validating scheema can proceed write to json
+2017-04-02T18:34:01.996Z - info: index.js : 74 adding new data to json 
+2017-04-02T18:34:01.998Z - info: index.js : 84 seding new data to responce.
+2017-04-02T18:34:02.411Z - info: index.js : 17 App Started
+2017-04-02T18:36:24.060Z - info: index.js : 17 App Started
+2017-04-02T18:36:25.053Z - info: index.js : 17 App Started
+2017-04-02T18:36:41.542Z - info: index.js : 17 App Started
+2017-04-02T18:36:49.248Z - info: index.js : 52 POST /book
+2017-04-02T18:36:49.252Z - info: index.js : 59 Adding New book { title: 'js-3', price: '111', author: [ 'ben' ] }
+2017-04-02T18:36:49.253Z - info: index.js : 63 Updated books ::::  [{"title":"js-3","price":"111","author":["ben"],"id":"f9c5edc7-8566-45c0-9dfb-91ea12aedc4a"}]
+2017-04-02T18:36:49.255Z - info: index.js : 65 scheemaResult :-  { success: true,
+  data: 
+   [ { title: 'js-3',
+       price: '111',
+       author: [Object],
+       id: 'f9c5edc7-8566-45c0-9dfb-91ea12aedc4a' } ] }
+2017-04-02T18:36:49.255Z - info: index.js : 68 success in validating scheema can proceed write to json
+2017-04-02T18:36:49.255Z - info: index.js : 74 adding new data to json 
+2017-04-02T18:36:49.258Z - info: index.js : 84 seding new data to responce.
+2017-04-02T18:36:49.666Z - info: index.js : 17 App Started
+2017-04-02T18:37:47.819Z - info: index.js : 17 App Started
+2017-04-02T18:37:48.236Z - info: index.js : 17 App Started
+2017-04-02T18:37:48.857Z - info: index.js : 17 App Started
+2017-04-02T18:38:11.267Z - info: index.js : 17 App Started
+2017-04-02T18:38:11.856Z - info: index.js : 17 App Started
+2017-04-02T18:38:57.652Z - info: index.js : 17 App Started
+2017-04-02T18:38:58.271Z - info: index.js : 17 App Started
+2017-04-02T18:38:58.713Z - info: index.js : 17 App Started
+2017-04-02T18:38:59.041Z - info: index.js : 17 App Started
+2017-04-02T18:39:12.759Z - info: index.js : 17 App Started
+2017-04-02T18:39:16.600Z - info: index.js : 52 POST /book
+2017-04-02T18:39:16.604Z - info: index.js : 62 Adding New book { title: 'js-3', price: '111', author: [ 'ben' ] }
+2017-04-02T18:39:16.604Z - info: index.js : 66 Updated books ::::  [{"title":"js-3","price":"111","author":["ben"],"id":"86295c66-d6de-406c-ab18-654b2b26e4b9"}]
+2017-04-02T18:39:16.606Z - info: index.js : 69 scheemaResult :-  { success: true,
+  data: 
+   [ { title: 'js-3',
+       price: '111',
+       author: [Object],
+       id: '86295c66-d6de-406c-ab18-654b2b26e4b9' } ] }
+2017-04-02T18:39:16.607Z - info: index.js : 72 success in validating scheema can proceed write to json
+2017-04-02T18:39:16.607Z - info: index.js : 78 adding new data to json 
+2017-04-02T18:39:16.610Z - info: index.js : 88 seding new data to responce.
+2017-04-02T18:39:16.975Z - info: index.js : 17 App Started
+2017-04-02T18:39:45.994Z - info: index.js : 17 App Started
+2017-04-02T18:39:47.200Z - info: index.js : 17 App Started
+2017-04-02T18:40:29.499Z - info: index.js : 17 App Started
+2017-04-02T18:40:29.754Z - info: index.js : 17 App Started
+2017-04-02T18:40:30.553Z - info: index.js : 17 App Started
+2017-04-02T18:40:33.113Z - info: index.js : 17 App Started
+2017-04-02T18:40:37.580Z - info: index.js : 52 POST /book
+2017-04-02T18:40:37.584Z - info: index.js : 62 Adding New book { title: 'js-3', price: '111', author: [ 'ben' ] }
+2017-04-02T18:40:37.584Z - info: index.js : 66 Updated books ::::  [{"title":"js-3","price":"111","author":["ben"],"id":"c740a5de-8dab-402f-8eb7-942fe656064a"}]
+2017-04-02T18:40:37.586Z - info: index.js : 69 scheemaResult :-  { success: true,
+  data: 
+   [ { title: 'js-3',
+       price: '111',
+       author: [Object],
+       id: 'c740a5de-8dab-402f-8eb7-942fe656064a' } ] }
+2017-04-02T18:40:37.588Z - info: index.js : 72 success in validating scheema can proceed write to json
+2017-04-02T18:40:37.588Z - info: index.js : 78 adding new data to json 
+2017-04-02T18:40:37.590Z - info: index.js : 88 seding new data to responce.
+2017-04-02T18:40:37.951Z - info: index.js : 17 App Started
+2017-04-02T18:43:08.928Z - info: index.js : 17 App Started
+2017-04-02T18:49:36.271Z - info: index.js : 17 App Started
+2017-04-02T18:49:37.472Z - info: index.js : 17 App Started
+2017-04-02T18:49:49.773Z - info: index.js : 52 POST /book
+2017-04-02T18:50:03.829Z - info: index.js : 17 App Started
+2017-04-02T18:50:08.234Z - info: index.js : 52 POST /book
+2017-04-02T18:50:08.239Z - info: index.js : 62 Adding New book { title: 'js-3', price: '111', author: [ 'ben' ] }
+2017-04-02T18:50:08.240Z - info: index.js : 66 Updated books ::::  [{"title":"js-3","price":"111","author":["ben"],"id":"c3967a0b-a8e2-4150-a3bf-de94892241ec"}]
+2017-04-02T18:50:08.241Z - info: index.js : 69 scheemaResult :-  { success: true,
+  data: 
+   [ { title: 'js-3',
+       price: '111',
+       author: [Object],
+       id: 'c3967a0b-a8e2-4150-a3bf-de94892241ec' } ] }
+2017-04-02T18:50:08.242Z - info: index.js : 72 success in validating scheema can proceed write to json
+2017-04-02T18:50:08.242Z - info: index.js : 78 adding new data to json 
+2017-04-02T18:50:08.244Z - info: index.js : 88 seding new data to responce.
+2017-04-02T18:50:08.653Z - info: index.js : 17 App Started
+2017-04-02T18:50:58.316Z - info: index.js : 17 App Started
+2017-04-02T18:51:00.264Z - info: index.js : 17 App Started
+2017-04-02T18:51:09.431Z - info: index.js : 52 POST /book
+2017-04-02T18:51:25.637Z - info: index.js : 17 App Started
+2017-04-02T18:51:29.642Z - info: index.js : 52 POST /book
+2017-04-02T18:51:29.647Z - info: index.js : 62 Adding New book { title: 'js-3', price: '111', author: [ 'ben' ] }
+2017-04-02T18:51:29.648Z - info: index.js : 66 Updated books ::::  [{"title":"js-3","price":"111","author":["ben"],"id":"01ec59be-7e72-439f-8f2d-c36a49d6c323"}]
+2017-04-02T18:51:29.652Z - info: index.js : 69 scheemaResult :-  { success: true,
+  data: 
+   [ { title: 'js-3',
+       price: '111',
+       author: [Object],
+       id: '01ec59be-7e72-439f-8f2d-c36a49d6c323' } ] }
+2017-04-02T18:51:29.653Z - info: index.js : 72 success in validating scheema can proceed write to json
+2017-04-02T18:51:29.653Z - info: index.js : 78 adding new data to json 
+2017-04-02T18:51:29.656Z - info: index.js : 88 seding new data to responce.
+2017-04-02T18:51:30.074Z - info: index.js : 17 App Started
+2017-04-02T18:52:03.674Z - info: index.js : 52 POST /book
+2017-04-02T18:52:03.678Z - info: index.js : 62 Adding New book { title: 'EXTJS', price: '121', author: [ 'ben' ] }
+2017-04-02T18:52:03.678Z - info: index.js : 66 Updated books ::::  [{"title":"js-3","price":"111","author":["ben"],"id":"01ec59be-7e72-439f-8f2d-c36a49d6c323"},{"title":"EXTJS","price":"121","author":["ben"],"id":"2a1bb0c4-034e-4b19-bc4f-6fa9ad4a45c1"}]
+2017-04-02T18:52:03.681Z - info: index.js : 69 scheemaResult :-  { success: true,
+  data: 
+   [ { title: 'js-3',
+       price: '111',
+       author: [Object],
+       id: '01ec59be-7e72-439f-8f2d-c36a49d6c323' },
+     { title: 'EXTJS',
+       price: '121',
+       author: [Object],
+       id: '2a1bb0c4-034e-4b19-bc4f-6fa9ad4a45c1' } ] }
+2017-04-02T18:52:03.682Z - info: index.js : 72 success in validating scheema can proceed write to json
+2017-04-02T18:52:03.682Z - info: index.js : 78 adding new data to json 
+2017-04-02T18:52:03.684Z - info: index.js : 88 seding new data to responce.
+2017-04-02T18:52:04.672Z - info: index.js : 17 App Started
+2017-04-02T18:52:48.482Z - info: index.js : 17 App Started
+2017-04-02T18:53:11.765Z - info: index.js : 17 App Started
+2017-04-02T18:53:24.919Z - info: index.js : 17 App Started
+2017-04-02T18:53:25.512Z - info: index.js : 17 App Started
+2017-04-02T18:53:42.281Z - info: index.js : 52 POST /book
+2017-04-02T18:53:42.285Z - info: index.js : 62 Adding New book { title: 'EXTJS', price: 'k121', author: [ 'ben' ] }
+2017-04-02T18:53:42.286Z - info: index.js : 66 Updated books ::::  [{"title":"js-3","price":"111","author":["ben"],"id":"01ec59be-7e72-439f-8f2d-c36a49d6c323"},{"title":"EXTJS","price":"121","author":["ben"],"id":"2a1bb0c4-034e-4b19-bc4f-6fa9ad4a45c1"},{"title":"EXTJS","price":"k121","author":["ben"],"id":"1bf898d3-775f-4a88-be3a-71a4c378b18e"}]
+2017-04-02T18:53:42.287Z - info: index.js : 69 scheemaResult :-  { success: true,
+  data: 
+   [ { title: 'js-3',
+       price: '111',
+       author: [Object],
+       id: '01ec59be-7e72-439f-8f2d-c36a49d6c323' },
+     { title: 'EXTJS',
+       price: '121',
+       author: [Object],
+       id: '2a1bb0c4-034e-4b19-bc4f-6fa9ad4a45c1' },
+     { title: 'EXTJS',
+       price: 'k121',
+       author: [Object],
+       id: '1bf898d3-775f-4a88-be3a-71a4c378b18e' } ] }
+2017-04-02T18:53:42.287Z - info: index.js : 71 success in validating scheema can proceed write to json
+2017-04-02T18:53:42.287Z - info: index.js : 77 adding new data to json 
+2017-04-02T18:53:42.289Z - info: index.js : 87 seding new data to responce.
+2017-04-02T18:53:42.692Z - info: index.js : 17 App Started
+2017-04-02T18:56:09.250Z - info: index.js : 17 App Started
+2017-04-02T18:56:09.494Z - info: index.js : 17 App Started
+2017-04-02T18:56:10.080Z - info: index.js : 17 App Started
+2017-04-02T18:56:10.468Z - info: index.js : 17 App Started
+2017-04-02T18:56:25.195Z - info: index.js : 52 POST /book
+2017-04-02T18:56:25.203Z - info: index.js : 62 Adding New book { title: 'EXTJS-1', price: 'k121', author: [ 'ben' ] }
+2017-04-02T18:56:25.206Z - info: index.js : 66 Updated books ::::  [{"title":"js-3","price":"111","author":["ben"],"id":"01ec59be-7e72-439f-8f2d-c36a49d6c323"},{"title":"EXTJS","price":"121","author":["ben"],"id":"2a1bb0c4-034e-4b19-bc4f-6fa9ad4a45c1"},{"title":"EXTJS","price":"k121","author":["ben"],"id":"1bf898d3-775f-4a88-be3a-71a4c378b18e"},{"title":"EXTJS-1","price":"k121","author":["ben"],"id":"5c26fbdb-e1b4-4f8d-890d-5f49fc341881"}]
+2017-04-02T18:56:25.209Z - info: index.js : 69 scheemaResult :-  { success: true,
+  data: 
+   [ { title: 'js-3',
+       price: '111',
+       author: [Object],
+       id: '01ec59be-7e72-439f-8f2d-c36a49d6c323' },
+     { title: 'EXTJS',
+       price: '121',
+       author: [Object],
+       id: '2a1bb0c4-034e-4b19-bc4f-6fa9ad4a45c1' },
+     { title: 'EXTJS',
+       price: 'k121',
+       author: [Object],
+       id: '1bf898d3-775f-4a88-be3a-71a4c378b18e' },
+     { title: 'EXTJS-1',
+       price: 'k121',
+       author: [Object],
+       id: '5c26fbdb-e1b4-4f8d-890d-5f49fc341881' } ] }
+2017-04-02T18:56:25.210Z - info: index.js : 71 success in validating scheema can proceed write to json
+2017-04-02T18:56:25.210Z - info: index.js : 77 adding new data to json 
+2017-04-02T18:56:25.213Z - info: index.js : 87 seding new data to responce.
+2017-04-02T18:56:26.202Z - info: index.js : 17 App Started
+2017-04-02T19:00:18.239Z - info: index.js : 17 App Started
+2017-04-02T19:00:19.294Z - info: index.js : 17 App Started
+2017-04-02T19:00:19.850Z - info: index.js : 17 App Started
+2017-04-02T19:00:42.603Z - info: index.js : 52 POST /book
+2017-04-02T19:00:42.609Z - info: index.js : 62 Adding New book { title: 'EXTJS-2', price: 'kaaa121', author: [ 'ben' ] }
+2017-04-02T19:00:42.610Z - info: index.js : 66 Updated books ::::  [{"title":"js-3","price":"111","author":["ben"],"id":"01ec59be-7e72-439f-8f2d-c36a49d6c323"},{"title":"EXTJS","price":"121","author":["ben"],"id":"2a1bb0c4-034e-4b19-bc4f-6fa9ad4a45c1"},{"title":"EXTJS","price":"k121","author":["ben"],"id":"1bf898d3-775f-4a88-be3a-71a4c378b18e"},{"title":"EXTJS-1","price":"k121","author":["ben"],"id":"5c26fbdb-e1b4-4f8d-890d-5f49fc341881"},{"title":"EXTJS-2","price":"kaaa121","author":["ben"],"id":"d55103c3-00fd-4754-81cf-a50b601fd799"}]
+2017-04-02T19:00:42.611Z - info: index.js : 69 scheemaResult :-  { success: true,
+  data: 
+   [ { title: 'js-3',
+       price: '111',
+       author: [Object],
+       id: '01ec59be-7e72-439f-8f2d-c36a49d6c323' },
+     { title: 'EXTJS',
+       price: '121',
+       author: [Object],
+       id: '2a1bb0c4-034e-4b19-bc4f-6fa9ad4a45c1' },
+     { title: 'EXTJS',
+       price: 'k121',
+       author: [Object],
+       id: '1bf898d3-775f-4a88-be3a-71a4c378b18e' },
+     { title: 'EXTJS-1',
+       price: 'k121',
+       author: [Object],
+       id: '5c26fbdb-e1b4-4f8d-890d-5f49fc341881' },
+     { title: 'EXTJS-2',
+       price: 'kaaa121',
+       author: [Object],
+       id: 'd55103c3-00fd-4754-81cf-a50b601fd799' } ] }
+2017-04-02T19:00:42.612Z - info: index.js : 71 success in validating scheema can proceed write to json
+2017-04-02T19:00:42.612Z - info: index.js : 77 adding new data to json 
+2017-04-02T19:00:42.613Z - info: index.js : 87 seding new data to responce.
+2017-04-02T19:00:43.592Z - info: index.js : 17 App Started
+2017-04-02T19:01:15.877Z - info: index.js : 17 App Started
+2017-04-02T19:01:20.208Z - info: index.js : 52 POST /book
+2017-04-02T19:01:20.212Z - info: index.js : 62 Adding New book { title: 'EXTJS-2', price: 'kaaa121', author: [ 'ben' ] }
+2017-04-02T19:01:20.213Z - info: index.js : 66 Updated books ::::  [{"title":"js-3","price":"111","author":["ben"],"id":"01ec59be-7e72-439f-8f2d-c36a49d6c323"},{"title":"EXTJS","price":"121","author":["ben"],"id":"2a1bb0c4-034e-4b19-bc4f-6fa9ad4a45c1"},{"title":"EXTJS","price":"k121","author":["ben"],"id":"1bf898d3-775f-4a88-be3a-71a4c378b18e"},{"title":"EXTJS-1","price":"k121","author":["ben"],"id":"5c26fbdb-e1b4-4f8d-890d-5f49fc341881"},{"title":"EXTJS-2","price":"kaaa121","author":["ben"],"id":"d55103c3-00fd-4754-81cf-a50b601fd799"},{"title":"EXTJS-2","price":"kaaa121","author":["ben"],"id":"cc54db16-fa3a-4324-ac01-d01faa1d44d7"}]
+2017-04-02T19:01:20.214Z - info: index.js : 69 scheemaResult :-  { success: true,
+  data: 
+   [ { title: 'js-3',
+       price: '111',
+       author: [Object],
+       id: '01ec59be-7e72-439f-8f2d-c36a49d6c323' },
+     { title: 'EXTJS',
+       price: '121',
+       author: [Object],
+       id: '2a1bb0c4-034e-4b19-bc4f-6fa9ad4a45c1' },
+     { title: 'EXTJS',
+       price: 'k121',
+       author: [Object],
+       id: '1bf898d3-775f-4a88-be3a-71a4c378b18e' },
+     { title: 'EXTJS-1',
+       price: 'k121',
+       author: [Object],
+       id: '5c26fbdb-e1b4-4f8d-890d-5f49fc341881' },
+     { title: 'EXTJS-2',
+       price: 'kaaa121',
+       author: [Object],
+       id: 'd55103c3-00fd-4754-81cf-a50b601fd799' },
+     { title: 'EXTJS-2',
+       price: 'kaaa121',
+       author: [Object],
+       id: 'cc54db16-fa3a-4324-ac01-d01faa1d44d7' } ] }
+2017-04-02T19:01:20.215Z - info: index.js : 71 success in validating scheema can proceed write to json
+2017-04-02T19:01:20.215Z - info: index.js : 77 adding new data to json 
+2017-04-02T19:01:20.217Z - info: index.js : 87 seding new data to responce.
+2017-04-02T19:01:20.618Z - info: index.js : 17 App Started
+2017-04-02T19:03:22.834Z - info: index.js : 17 App Started
+2017-04-02T19:03:23.293Z - info: index.js : 17 App Started
+2017-04-02T19:03:24.129Z - info: index.js : 17 App Started
+2017-04-02T19:03:38.108Z - info: index.js : 52 POST /book
+2017-04-02T19:03:38.112Z - info: index.js : 62 Adding New book { title: 'EXTJS-2', price: 'kaaa121', author: [ 'ben' ] }
+2017-04-02T19:03:38.113Z - info: index.js : 66 Updated books ::::  [{"title":"js-3","price":"111","author":["ben"],"id":"01ec59be-7e72-439f-8f2d-c36a49d6c323"},{"title":"EXTJS","price":"121","author":["ben"],"id":"2a1bb0c4-034e-4b19-bc4f-6fa9ad4a45c1"},{"title":"EXTJS","price":"k121","author":["ben"],"id":"1bf898d3-775f-4a88-be3a-71a4c378b18e"},{"title":"EXTJS-1","price":"k121","author":["ben"],"id":"5c26fbdb-e1b4-4f8d-890d-5f49fc341881"},{"title":"EXTJS-2","price":"kaaa121","author":["ben"],"id":"d55103c3-00fd-4754-81cf-a50b601fd799"},{"title":"EXTJS-2","price":"kaaa121","author":["ben"],"id":"cc54db16-fa3a-4324-ac01-d01faa1d44d7"},{"title":"EXTJS-2","price":"kaaa121","author":["ben"],"id":"7bf27cb7-3561-4a85-bfcd-a1845b4afaa4"}]
+2017-04-02T19:03:38.115Z - info: index.js : 69 scheemaResult :-  { success: true,
+  data: 
+   [ { title: 'js-3',
+       price: '111',
+       author: [Object],
+       id: '01ec59be-7e72-439f-8f2d-c36a49d6c323' },
+     { title: 'EXTJS',
+       price: '121',
+       author: [Object],
+       id: '2a1bb0c4-034e-4b19-bc4f-6fa9ad4a45c1' },
+     { title: 'EXTJS',
+       price: 'k121',
+       author: [Object],
+       id: '1bf898d3-775f-4a88-be3a-71a4c378b18e' },
+     { title: 'EXTJS-1',
+       price: 'k121',
+       author: [Object],
+       id: '5c26fbdb-e1b4-4f8d-890d-5f49fc341881' },
+     { title: 'EXTJS-2',
+       price: 'kaaa121',
+       author: [Object],
+       id: 'd55103c3-00fd-4754-81cf-a50b601fd799' },
+     { title: 'EXTJS-2',
+       price: 'kaaa121',
+       author: [Object],
+       id: 'cc54db16-fa3a-4324-ac01-d01faa1d44d7' },
+     { title: 'EXTJS-2',
+       price: 'kaaa121',
+       author: [Object],
+       id: '7bf27cb7-3561-4a85-bfcd-a1845b4afaa4' } ] }
+2017-04-02T19:03:38.116Z - info: index.js : 71 success in validating scheema can proceed write to json
+2017-04-02T19:03:38.116Z - info: index.js : 77 adding new data to json 
+2017-04-02T19:03:38.118Z - info: index.js : 87 seding new data to responce.
+2017-04-02T19:03:39.128Z - info: index.js : 17 App Started
+2017-04-02T19:03:56.667Z - info: index.js : 17 App Started
+2017-04-02T19:04:06.102Z - info: index.js : 17 App Started
+2017-04-02T19:04:20.037Z - info: index.js : 52 POST /book
+2017-04-02T19:04:20.042Z - info: index.js : 62 Adding New book { title: 'EXTJS-3', price: 'kaaa121', author: [ 'ben' ] }
+2017-04-02T19:04:20.043Z - info: index.js : 66 Updated books ::::  [{"title":"js-3","price":"111","author":["ben"],"id":"01ec59be-7e72-439f-8f2d-c36a49d6c323"},{"title":"EXTJS","price":"121","author":["ben"],"id":"2a1bb0c4-034e-4b19-bc4f-6fa9ad4a45c1"},{"title":"EXTJS-3","price":"kaaa121","author":["ben"],"id":"08bf1de5-8ae5-4340-bdbc-22871138db28"}]
+2017-04-02T19:04:20.045Z - info: index.js : 69 scheemaResult :-  { success: true,
+  data: 
+   [ { title: 'js-3',
+       price: '111',
+       author: [Object],
+       id: '01ec59be-7e72-439f-8f2d-c36a49d6c323' },
+     { title: 'EXTJS',
+       price: '121',
+       author: [Object],
+       id: '2a1bb0c4-034e-4b19-bc4f-6fa9ad4a45c1' },
+     { title: 'EXTJS-3',
+       price: 'kaaa121',
+       author: [Object],
+       id: '08bf1de5-8ae5-4340-bdbc-22871138db28' } ] }
+2017-04-02T19:04:20.046Z - info: index.js : 71 success in validating scheema can proceed write to json
+2017-04-02T19:04:20.047Z - info: index.js : 77 adding new data to json 
+2017-04-02T19:04:20.049Z - info: index.js : 87 seding new data to responce.
+2017-04-02T19:04:20.452Z - info: index.js : 17 App Started
+2017-04-02T19:05:13.100Z - info: index.js : 17 App Started
+2017-04-02T19:05:18.015Z - info: index.js : 17 App Started
+2017-04-02T19:05:31.956Z - info: index.js : 52 POST /book
+2017-04-02T19:05:31.962Z - info: index.js : 62 Adding New book { title: 'aaaaaa', price: 'kaaa121', author: [ 'ben' ] }
+2017-04-02T19:05:31.963Z - info: index.js : 66 Updated books ::::  [{"title":"js-3","price":"111","author":["ben"],"id":"01ec59be-7e72-439f-8f2d-c36a49d6c323"},{"title":"EXTJS","price":"121","author":["ben"],"id":"2a1bb0c4-034e-4b19-bc4f-6fa9ad4a45c1"},{"title":"EXTJS-3","price":"kaaa121","author":["ben"],"id":"08bf1de5-8ae5-4340-bdbc-22871138db28"},{"title":"aaaaaa","price":"kaaa121","author":["ben"],"id":"3096c36a-39a9-41e6-aec9-a1c8d7b8ef96"}]
+2017-04-02T19:05:31.965Z - info: index.js : 69 scheemaResult :-  { success: true,
+  data: 
+   [ { title: 'js-3',
+       price: '111',
+       author: [Object],
+       id: '01ec59be-7e72-439f-8f2d-c36a49d6c323' },
+     { title: 'EXTJS',
+       price: '121',
+       author: [Object],
+       id: '2a1bb0c4-034e-4b19-bc4f-6fa9ad4a45c1' },
+     { title: 'EXTJS-3',
+       price: 'kaaa121',
+       author: [Object],
+       id: '08bf1de5-8ae5-4340-bdbc-22871138db28' },
+     { title: 'aaaaaa',
+       price: 'kaaa121',
+       author: [Object],
+       id: '3096c36a-39a9-41e6-aec9-a1c8d7b8ef96' } ] }
+2017-04-02T19:05:31.966Z - info: index.js : 71 success in validating scheema can proceed write to json
+2017-04-02T19:05:31.966Z - info: index.js : 77 adding new data to json 
+2017-04-02T19:05:31.969Z - info: index.js : 87 seding new data to responce.
+2017-04-02T19:05:32.264Z - info: index.js : 17 App Started
+2017-04-02T19:07:38.503Z - info: index.js : 17 App Started
+2017-04-02T19:07:39.319Z - info: index.js : 17 App Started
+2017-04-02T19:08:43.464Z - info: index.js : 17 App Started
+2017-04-02T19:08:52.909Z - info: index.js : 17 App Started
+2017-04-02T19:09:07.016Z - info: index.js : 17 App Started
+2017-04-02T19:09:07.340Z - info: index.js : 17 App Started
+2017-04-02T19:09:43.002Z - info: index.js : 17 App Started
+2017-04-02T19:10:03.442Z - info: index.js : 17 App Started
+2017-04-02T19:10:03.772Z - info: index.js : 17 App Started
+2017-04-02T19:10:04.525Z - info: index.js : 17 App Started
+2017-04-02T19:10:13.761Z - info: index.js : 52 POST /book
+2017-04-02T19:10:13.767Z - info: index.js : 62 Adding New book { title: 'aaaaaa', price: 'kaaa121', author: [ 'ben' ] }
+2017-04-02T19:11:47.801Z - info: index.js : 17 App Started
+2017-04-02T19:11:59.138Z - info: index.js : 52 POST /book
+2017-04-02T19:11:59.143Z - info: index.js : 62 Adding New book { title: 'aaaaaa', price: 'kaaa121', author: [ 'ben' ] }
+2017-04-02T19:11:59.143Z - info: index.js : 66 Updated books ::::  [{"title":"js-3","price":"111","author":["ben"],"id":"01ec59be-7e72-439f-8f2d-c36a49d6c323"},{"title":"EXTJS","price":"121","author":["ben"],"id":"2a1bb0c4-034e-4b19-bc4f-6fa9ad4a45c1"},{"title":"aaaaaa","price":"kaaa121","author":["ben"],"id":"61bcae04-9b37-4230-99e6-76d855e5712f"}]
+2017-04-02T19:11:59.144Z - info: index.js : 69 scheemaResult :-  { success: false,
+  error: 'Error: JSON object is an object when it should be an array' }
+2017-04-02T19:11:59.145Z - error: index.js : 74 something went wrong with scheema please check Error and proceed  'Error: JSON object is an object when it should be an array'
+2017-04-02T19:11:59.145Z - info: index.js : 77 adding new data to json 
+2017-04-02T19:11:59.147Z - info: index.js : 87 seding new data to responce.
+2017-04-02T19:11:59.555Z - info: index.js : 17 App Started
+2017-04-02T19:14:40.114Z - info: index.js : 17 App Started
+2017-04-02T19:14:40.508Z - info: index.js : 17 App Started
+2017-04-02T19:14:40.890Z - info: index.js : 17 App Started
+2017-04-02T19:14:55.664Z - info: index.js : 17 App Started
+2017-04-02T19:14:56.055Z - info: index.js : 17 App Started
+2017-04-02T19:16:23.795Z - info: index.js : 52 POST /book
+2017-04-02T19:16:23.798Z - info: index.js : 62 Adding New book { title: 'bbbb', price: 'kaaa121', author: [ 'ben' ] }
+2017-04-02T19:16:23.799Z - info: index.js : 67 Updated books ::::  [{"title":"js-3","price":"111","author":["ben"],"id":"01ec59be-7e72-439f-8f2d-c36a49d6c323"},{"title":"EXTJS","price":"121","author":["ben"],"id":"2a1bb0c4-034e-4b19-bc4f-6fa9ad4a45c1"},{"title":"aaaaaa","price":"kaaa121","author":["ben"],"id":"61bcae04-9b37-4230-99e6-76d855e5712f"}]
+2017-04-02T19:16:23.800Z - info: index.js : 70 scheemaResult :-  { success: false,
+  error: 'Error: JSON object is an object when it should be an array' }
+2017-04-02T19:16:23.800Z - error: index.js : 75 something went wrong with scheema please check Error and proceed  'Error: JSON object is an object when it should be an array'
+2017-04-02T19:16:23.800Z - info: index.js : 78 adding new data to json 
+2017-04-02T19:16:23.802Z - info: index.js : 88 seding new data to responce.
+2017-04-02T19:16:24.711Z - info: index.js : 17 App Started
+2017-04-02T19:16:43.007Z - info: index.js : 17 App Started
+2017-04-02T19:19:50.041Z - info: index.js : 17 App Started
+2017-04-02T19:19:50.325Z - info: index.js : 17 App Started
+2017-04-02T19:19:50.603Z - info: index.js : 17 App Started

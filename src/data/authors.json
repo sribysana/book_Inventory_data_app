@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Saleh Hamadeh",
+    "id": "5a8f2e85-083f-4bca-b0a4-8cbe4c542e65",
+    "rating": 4,
+    "biography": "As the president of GT WebDev, I create the organization's semester schedule, lead weekly meetings, and manage communication with the College of Computing and the student population. In addition to that, I learn and teach others about web development principles. You can find some of my talks on GT WebDev's Youtube Channel. ",
+    "avatar": {
+      "img": "/authors/id"
+    },
+    "books": [
+      {
+        "name": "RESTful Web API Design with Node.js - Second Edition",
+        "id": "95f5b406-f2af-45ba-b2fe-fc3e5b7d9568"
+      }
+    ],
+    "img": "/authors/Saleh Hamadeh"
+  },
+  {
+    "name": "Saleh Hamadeh",
+    "id": "1c5a531d-c1b4-422a-9a39-e6074c1d9eb8",
+    "rating": 5,
+    "biography": "As the president of GT WebDev, I create the organization's semester schedule, lead weekly meetings, and manage communication with the College of Computing and the student population. In addition to that, I learn and teach others about web development principles. You can find some of my talks on GT WebDev's Youtube Channel. ",
+    "avatar": {
+      "img": "/authors/id"
+    },
+    "books": [
+      {
+        "name": "RESTful Web API Design with Node.js - Second Edition",
+        "id": "95f5b406-f2af-45ba-b2fe-fc3e5b7d9568"
+      }
+    ],
+    "img": "/authors/Saleh Hamadeh"
+  }
+]
