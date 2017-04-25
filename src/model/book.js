@@ -8,7 +8,7 @@ const bookSchema = new Schema({
   description: String,
   tags: Array,
   genres: Array,
-  publicationYear: Number,
+  publicationYear: Date,
   publisher: String,
   bookCower: {
     data: Buffer,

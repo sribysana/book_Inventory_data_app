@@ -1,16 +1,17 @@
 // const fs = require('fs');
 const bodyParser = require('body-parser');
-const util = require('util');
+// const util = require('util');
 // const uuidV4 = require('uuid/v4');
 // const mongoose = require('mongoose');
 
 
-const { assign } = Object;
+const {assign} = Object;
 const logger = require('../utils/logger');
 const getBooksByQuery = require('../utils/getBooksByQuery');
 const BookModel = require('../model/book');
 const dbConnector = require('../utils/db_connection');
 const processIdFromQuery = require('../utils/processIdFromQuery');
+const mapAuthorIdToBook = require('../utils/mapAuthorIdToBook');
 
 dbConnector.connectDB('book');
 const jsonParser = bodyParser.json();
@@ -34,12 +35,12 @@ function init(app) {
     query = processIdFromQuery(query);
 
     /* if (query.id) {
-      query.id = Array.isArray(query.id) ? query.id : [query.id];
-    }
-    if (Array.isArray(query.id)) {
-      const booksIds = (query.id).map(e => ObjectId(e));
-      query = { _id: { $in: booksIds } };
-    }*/
+     query.id = Array.isArray(query.id) ? query.id : [query.id];
+     }
+     if (Array.isArray(query.id)) {
+     const booksIds = (query.id).map(e => ObjectId(e));
+     query = { _id: { $in: booksIds } };
+     }*/
     getBooksByQuery(query, (booksResponse) => {
       res.json(booksResponse);
     });
@@ -47,7 +48,7 @@ function init(app) {
 
   app.get('/books/:id', (req, res, next) => {
     const id = req.params.id;
-    BookModel.findById({ _id: id }, (error, book) => {
+    BookModel.findById({_id: id}, (error, book) => {
       if (error) {
         logger.info('Error in finding with id', logger.info(error));
         res.json({
@@ -78,27 +79,30 @@ function init(app) {
 
   app.post('/book', jsonParser, (req, res) => {
     logger.info(req.method.toUpperCase(), req.path);
-    const newBook = new BookModel(req.body);
-    newBook.save((error) => {
-      logger.info('started changing book details');
-      if (error) {
-        logger.error('Error occurred in creating a book', error);
+    mapAuthorIdToBook(req.body, (book) => {
+      const newBook = new BookModel(book);
+      newBook.save((error) => {
+        logger.info('started changing book details');
+        if (error) {
+          logger.error('Error occurred in creating a book', error);
+          res.json({
+            success: false,
+            message: 'Error occurred in creating a book',
+            error,
+          });
+          return false;
+        }
+        logger.info('Succeed in creating newBook to BookDB');
         res.json({
-          success: false,
-          message: 'Error occurred in creating a book',
-          error,
+          success: true,
+          message: 'added one book',
+          data: {
+            book: newBook,
+          },
         });
-        return false;
-      }
-      logger.info('Succeed in creating newBook to BookDB');
-      res.json({
-        success: true,
-        message: 'added one book',
-        data: {
-          book: newBook,
-        },
+        return true;
       });
-      return true;
+
     });
   });
 
@@ -106,7 +110,7 @@ function init(app) {
     logger.info(req.method.toUpperCase(), req.path);
 
     if (req.body.id) {
-      BookModel.findById({ _id: req.body.id }, (error, book) => {
+      BookModel.findById({_id: req.body.id}, (error, book) => {
         if (error) {
           logger.error('Error in finding the book from  BookBD', error);
           res.json({
@@ -164,7 +168,7 @@ module.exports = {
 
 /*
 
-http://localhost:2020/books?id=58ebbaa730f66128b28c3a7d&id=58ebbacb30f66128b28c3a81
-http://localhost:2020/books?id=95f5b406-f2af-45ba-b2fe-fc3e5b7d9568
+ http://localhost:2020/books?id=58ebbaa730f66128b28c3a7d&id=58ebbacb30f66128b28c3a81
+ http://localhost:2020/books?id=95f5b406-f2af-45ba-b2fe-fc3e5b7d9568
 
-*/
+ */
