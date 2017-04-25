@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba0a432c-1ab7-4b84-9be6-86ed0cfde0a6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/model/book.js" afterPath="$PROJECT_DIR$/src/model/book.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/routes/bookRoutes.js" afterPath="$PROJECT_DIR$/src/routes/bookRoutes.js" />
-    </list>
+    <list default="true" id="ba0a432c-1ab7-4b84-9be6-86ed0cfde0a6" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -299,12 +295,12 @@
       <updated>1492250381160</updated>
       <workItem from="1492250382439" duration="184000" />
       <workItem from="1492279359271" duration="22298000" />
-      <workItem from="1493137667133" duration="3190000" />
+      <workItem from="1493137667133" duration="3464000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27688000" />
+    <option name="totallyTimeSpent" value="27962000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
